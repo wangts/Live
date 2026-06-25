@@ -26,5 +26,4 @@ http://77.90.60.172:36633/2/video/index.m3u8
 #EXTINF:-1 group-title="台湾",爆谷台
 http://77.90.60.172:36633/1/video/index.m3u8
 #EXTINF:-1 group-title="台湾",mpd
-http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP203/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVE
-bd0edf91cfab46cebc84e81f4061effd:d9f82dae1c46dc6198637d0735ea39cb
+http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP203/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVEbd0edf91cfab46cebc84e81f4061effd:d9f82dae1c46dc6198637d0735ea39cb
