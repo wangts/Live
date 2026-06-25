@@ -1,0 +1,1775 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 group-title="温馨提示",免费分享
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CUQUff&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",翡翠台
+http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
+#EXTINF:-1 group-title="推流",明珠台
+http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8
+#EXTINF:-1 group-title="推流",TVB Plus
+http://push.cdn1.hls123.de:8080/streams/gw8n98gubb4/index.m3u8
+#EXTINF:-1 group-title="推流",无线新闻
+http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+#EXTINF:-1 group-title="推流",极限电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GJSQxh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVB星河
+http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
+#EXTINF:-1 group-title="推流",华丽翡翠台
+http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+#EXTINF:-1 group-title="推流",ViuTV
+http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
+#EXTINF:-1 group-title="推流",ViuTVsix
+http://push.cdn1.hls123.de:8080/streams/5lthhpr4cx3/index.m3u8
+#EXTINF:-1 group-title="推流",Now新闻台
+http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+#EXTINF:-1 group-title="推流",HOY TV
+http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
+#EXTINF:-1 group-title="推流",HOY资讯台
+http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+#EXTINF:-1 group-title="推流",凤凰中文
+http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+#EXTINF:-1 group-title="推流",凤凰资讯
+http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+#EXTINF:-1 group-title="推流",凤凰香港
+http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+#EXTINF:-1 group-title="推流",澳视澳门
+http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
+#EXTINF:-1 group-title="推流",澳视卫星
+http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
+#EXTINF:-1 group-title="推流",澳门莲花
+http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
+#EXTINF:-1 group-title="推流",重温经典
+http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
+#EXTINF:-1 group-title="推流",凤凰卫视台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wPZT36&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",凤凰资讯台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bSQqFY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",凤凰香港台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jRoYx5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVB翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F9Ex8X&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",无线新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iBhtMq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVB明珠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dZpdUn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVB Plus
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dgVl71&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",PopC电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RoQC7w&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Now星影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UftTMY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",​Now爆谷台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IhuFve&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",HUB娱家台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MkXFD3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",HUB都会台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2GfxtH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",中天新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y7Uv4j&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVBS HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1XeGA7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",壹新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VLopVo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",中视新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MhRlsD&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",东森新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=79TL62&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",寰宇新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SEa7nX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",寰宇新闻台湾台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mGOi6z&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",好莱坞电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4pZQA8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",美亚电影(台湾)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZEJ52V&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",动物星球台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CuZnwC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",猪哥亮歌厅秀
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=edbILh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",朝鲜中央电视台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hgPA9A&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",漫迪日本台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1PkwVN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",年代新聞「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jEWFx4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",中天新闻「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AvU3jH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",中天綜合「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2S87Cs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",中天娛樂「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HcxCjh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",好萊塢電影「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EkM0xN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龍祥時代「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YqWNsE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",CINEMAX「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KW7vwE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",MTV Live「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GR0Zgy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",東森電影「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q25LQZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",東森洋片「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bX4x6g&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",東森綜合「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1aT0UX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",東森戲劇「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TYFi9Y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",東森幼幼「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=93oXD1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",緯來日本「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7lfgT2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",緯來體育「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WvaIRk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",緯來電影「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M40kcF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",緯來綜合「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=REnUT0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",緯來戲劇「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lrtwpL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",緯來育樂「Relay」
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G4L5QG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映新加坡
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LEyRqs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映经典频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=D5Hgx8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",莲花卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VpLV3K&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",香港卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=twDwTo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Now新闻
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7PqEXk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映经典台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QArGSA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映经典台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ykxDtP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映频道台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3IOwqZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映频道台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7v8jdF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",天映频道台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pZvIhJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",千禧经典台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jou0mx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",美亚电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9T7oZX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",爱奇艺
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2tddYG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Astro AOD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4jyUfZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Astro AOD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tw0tNk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Astro AOD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MucWyE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Astro AEC
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tK9bHC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",Astr欢喜台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qglXWM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",AstR
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SgFTbm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVB功夫台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y2APR6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",TVB星河
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gjW676&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",八度空间
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JTFqY0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",CHU
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IuDj7X&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",CH5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uqCzHo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",CH8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vDGxQ5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龙华偶像
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eUyI9G&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龙华日韩
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZUjYpA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龙华戏剧
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1V7i8e&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龙华经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kfMJ3i&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龙华电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jZNzdh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",龙华卡通
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PCkXfp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",1905电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lIrf17&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",重温经典频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qcfAuR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",成龙电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=imnCYe&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",周润发电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aorBbh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",周星驰电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AuBL41&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="推流",林正英影院
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JzoBZ3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",翡翠台 A
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MapMUL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",翡翠台 B
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QwW4tu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",无线新闻 A
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fUCuub&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",无线新闻 B
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r8eJhc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",TVB PLUS A
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1dBCnM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",TVB PLUS B
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5A7Mfb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",明珠台英语
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KVlmnE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",明珠台粤语
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c7Acbp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",VIUTV 99台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z1ZBLB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",VIUTV6 96台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oBvLj1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",国际财经76台A
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1QX7Fy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",国际财经76台B
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vTXCuW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",香港开电视77台A
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V4OFBg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",香港开电视77台B
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wxido5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",HOY资讯78台A
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lSa6iy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",HOY资讯78台B
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1xorRl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",有线新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ryBsiK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",Now新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YJyGzB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",娛樂新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2O1HCZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",SUPER獎門人
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=b3JH70&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",凤凰香港台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3uyBne&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",凤凰资讯台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WowPOY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",凤凰中文台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WYs9qO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",TVB星河台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NE1qos&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",广东珠江HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Jqcosr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",广东民生(公共)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Gx2l3j&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",寰宇新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JP9JTo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",中天新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=G8vMmy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",动物星球台湾
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ahxc1T&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",DiscoveryAsia
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MARKH5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",DiscoveryDMAX
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PhaSIn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",DiscoveryEVE
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6ucXZ3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="HKTV",DiscoveryScience
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ltRrBn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",央视体育频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Yr1lrj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",广东体育频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hvlIkI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",VIUTV 99台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dWP6z8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",睛彩竞技HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nrs4bq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",Now 618HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qgmFIt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",Now 619HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nl4y4Y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",愛爾達體育1台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tgwRuT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="世界杯",愛爾達體育2台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zEIobW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視第一台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FWPYlk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視第一台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CWluBS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視第一台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FYZLTJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視台灣台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XVfeFW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視台灣台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vxWhvC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視台灣台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wtM1Qd&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oy5ZeV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",大愛電視
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nVdonB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",中視
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UeUMwF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",華視
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m673T1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",三立綜合台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xpQ4IM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",客家電視台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wmdl9O&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",八大綜藝台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8PS5JR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",八大綜藝台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H6YSBp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TVBS精采台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oiGw2C&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",愛爾達寵物運動台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CjEDDb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天綜合台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pRysiu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天日本台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=R9gYJJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",ARIRANG阿里郎頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wuU4Ev&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Global Trekker
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xhrib5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",原住民族電視台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QaY9vc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森購物四台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vqifHJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",LiveABC互動英語頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NUqlCA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",達文西頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wn0Iee&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",ELTV生活英語台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z9QtIQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Nick Jr. 兒童頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fNdznW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",尼克兒童頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gE1Ldn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",DreamWorks 夢工廠動畫
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=D9eZPu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天卡通台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hqMkPA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖洋卡通Nice Bingo
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d8RilN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",MOMO親子台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KA6KfV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森購物一台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=voldRd&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",鏡電視新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jzpiNm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SS3wkP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",華視新聞
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tRrjue&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",華視新聞
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e6kbuP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=POUHUb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qk7CY9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dYMxxf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",三立新聞iNEWS
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a3fMO9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TVBS新聞
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wpI2O6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森財經新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8vq0z8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森財經新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sCkrNB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",中視新聞
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JFWO00&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",中視新聞
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9gtpc1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",中天新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6buyS2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Bloomberg TV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jAQJgr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",寰宇新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SHOj51&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",寰宇新聞台灣台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LrRXFV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",SBN全球財經台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2HwllW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TVBS
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mskaL9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森購物二台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2qieaK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視綜藝台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zNCbZZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",豬哥亮歌廳秀
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X3aYTg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天育樂台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=C1mu37&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",KLT-靖天國際台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3hkEqy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Nice TV 靖天歡樂台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SO7g8G&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天資訊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LbI2rS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TVBS歡樂台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sTMAyL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",韓國娛樂台 KMTV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VnNsTU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",ROCK Entertainment
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aovjL5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Lifetime 娛樂頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QvHuGE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",電影原聲台CMusic
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tSHxvX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TRACE Urban
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IlZ6ak&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Mezzo Live HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sBCbUl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",CLASSICA 古典樂
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=67dLCf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",東森購物三台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pVsXr5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",INULTRA
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9HzAsv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯高球台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MwoXSP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯高球台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kBpMbs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯高球二台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HMWYDi&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯運動一台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jXZIZ7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯運動一台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w5dasa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯無限台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YFldFa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯無限台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4bKK0n&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯網球台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BCZ794&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯網球台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fawatU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯運動二台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sKjKxG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯魅力台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=84W41K&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",博斯無限二台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WhnGvv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TRACE Sport Stars
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rzM8zA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",智林體育台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7OkXHh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",時尚運動X
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wb2RMl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",時尚運動X
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AN6W2Q&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",車迷TV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hltEf7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",GINX Esports TV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WkoQ4f&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Pet Club TV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CriTuF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視旅遊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BeOCs9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",滾動力rollor
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=g5LHsx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",亞洲旅遊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jArrpr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",亞洲旅遊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=m1cGCK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",fun探索娛樂台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FgV0AQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",幸福空間居家台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=42EyUT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",Love Nature
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HN5jjD&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",History 歷史頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yJdAyo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",愛爾達生活旅遊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bgMdnL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",LUXE TV Channel
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wsZe5I&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TV5MONDE STYLE HD 生活時尚
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EugN3s&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",MagellanTV頻道 (麥哲倫頻道)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7DyXKr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",ROCK Xstream搖滾極限頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=B2AB97&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",公視戲劇
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KBlu0R&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",民視影劇台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z5d7zQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",HITS頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UTImS3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",八大精彩台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ln8KRt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天戲劇台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RroAIH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖洋戲劇台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CG4n5f&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",CI 罪案偵查頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=W2KgQ5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",視納華仁紀實頻道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UnETde&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",影迷數位紀實台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SHDMsU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",金光布袋戲
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UVydMX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",ROCK Action
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eCpr6a&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",GagaOOLala 精選LGBTQ+好劇
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Il1eis&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",采昌影劇台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dsoOi8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天映畫
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TbDCjn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",靖天電影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3oMxV4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",影迷數位電影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LyS4HV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",amc電影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OfTRmb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",CinemaWorld
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VQrJ00&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",My Cinema Europe HD 我的歐洲電影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z6c0vi&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",好消息
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=92gUV4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",好消息2台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mkqWww&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",大愛二台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qHPpPS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",人間衛視
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=o5Bkq4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",NHK WORLD-JAPAN
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NXlncU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",FRANCE24 英文台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ts0ois&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",半島國際新聞台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WDXZW7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",CNBC Asia 財經台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6aFYCE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",DW德國之聲
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JkSMdJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",香蕉直擊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DxaRmG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",芭樂直擊台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RLayve&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",國會頻道1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Lqj1Mp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",國會頻道2
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xCyV4H&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TVBS綜藝台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nSPswU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",TVBS台劇台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5MVM5b&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",經典電影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eeShGf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",經典卡通台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7Pb9yb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="台湾",精選動漫台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ta5qsn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",翡翠台4K(字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hl7kAc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",凤凰中文
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=z4Lbpu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV1港澳版
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=N7xNBR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV13
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GHXIXr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB Plus(字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RUYCtw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",HOY TV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BwySKQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",HOY TV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HANLSP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",HOY资讯台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DMeaWS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",HOY国际财经台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EIZmsR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",ViuTV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MxGQM8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",ViuTVsix
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vteyy4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",NOW新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cAN3Nx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",RTHK31
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kotLIM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",RTHK32
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JAo28z&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",澳视澳门
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zrg4Lf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",澳视卫星
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tmQzNb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",澳门体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YYh30t&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",澳门综艺
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=c2ixJO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",澳门莲花
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=M6EAc2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",重温经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=10HYO0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aGvPcJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",凤凰香港
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=D4AyjW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bDtNQv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVBJ1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6nvI1v&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",翡翠剧集台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TIjI0y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4X83t1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",翡翠台(字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pQslZ2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",明珠台(字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fSSYYj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",无线新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nxGYJx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",广东珠江
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NUoJCR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",广东体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FlSHKz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",八度空间
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jPV2BF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CH5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rxMpTY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CH8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8z3Qta&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CHU
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cXjYWG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",龙华电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=AKGKzN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",龙华经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1UqC5r&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",龙华偶像
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=faYYt4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",龙华日韩
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DFG63l&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",龙华戏剧
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TJjTYk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",金光布袋戏
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bjrQtT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",华丽翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=l66Xps&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB亚洲武侠
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5iwvtg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB娱乐新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r1vJop&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",无线新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9dejri&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB星河
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cw3RZ7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",海峡卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6vwntM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB星河
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FBUZck&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",天映新加坡
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L17AEA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",天映经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pBFHRc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",华丽翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0um6J3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",华丽翡翠台(硬字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uTXQec&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",华丽翡翠台(新加坡)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vqz3Nm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro AOD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sMwxUF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro AEC
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KTjrOz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro QJ
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=N9OaEI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro欢喜台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3A9PaW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",爱奇艺
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fBW0M2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",天映频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=voctRS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",天映经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pZzSWT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB星河
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gcihkM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",千禧经典台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cnYSE0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r6LeKa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV2
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=94NBKf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ct24bY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV4
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oGZOiE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vpskHW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV5+
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bz1DRK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV6
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WKdDOK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV7
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GBSN9R&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k1hBbQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV9
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JQfRbO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV10
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yqfEdx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV11
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Nxsxxl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV12
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wrx272&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV13
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fOSsTY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV14
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YUV7io&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV15
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pl25IG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV16
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hZE0QX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CCTV17
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=10qJ7y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",重温经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6QSLy6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CHC家庭影院
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XUbiex&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CHC动作电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=flfxjN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",广州综合
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=f29yJU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",广州新闻
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3Ll6hq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",广州南国都市
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ovds3l&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",五星体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=q2MmiL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",民视影剧台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fqbeVv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",公视戏剧
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vK5FIa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",采昌影剧台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KYbG0h&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",靖天映画
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dTT8V8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",靖天戏剧台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zyl5tZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",靖天电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rpvUIM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",靖洋戏剧台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9jar0a&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",影迷数位电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GjI5uW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",amc电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5lipWQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CinemaWorld
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PCnSuJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",My Cinema Europe
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HZOC28&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",经典电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fGiNqZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",CMusic
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VK1MuA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",DreamWorks梦工厂动画
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YbWC6j&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",精选动漫台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e4WZYv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",金光布袋戏
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sZtn5B&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",翡翠台(WebVTT字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FFmLmF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",明珠台(WebVTT字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H2dPDi&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB Plus(WebVTT字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hh5ogC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",黄金华剧台(WebVTT字幕)
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8ukA0f&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB Plus
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DP5OWZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",纬来电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xhG7IP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",纬来戏剧台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tG11OM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",纬来体育台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GBwPnq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",龙祥时代
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NqSprN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",东森电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X1kgOQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",东森戏剧
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=heppeW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",东森洋片
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8y1du3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LonoMF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",华丽翡翠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Sk8Gps&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",明珠台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MHHnaM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",无线新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hcprrP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB PLUS
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LZAnSB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB星河
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ah3wq7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",千禧经典台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pjP444&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",TVB娱乐新闻台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EWoLQ5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",ViuTV
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qljLxg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",ViuTVSix
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vBAxDh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",HOY资讯台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DRHe9S&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",凤凰中文
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KZZdrU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",凤凰资讯
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DRsthb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",凤凰香港
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sgyQAW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",美亚电影台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DLmLlQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",天映频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aDTODI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",天映经典
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rXqMiP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro AOD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TIpLPF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro AEC
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SJsDqX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",爱奇艺
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PSZoBx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro QJ
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3oa8jK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",Astro欢喜台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nCIN5R&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",八度空间
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S4yZtV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",纬来电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sa2gkP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="香港",纬来体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=E9crlr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=evs4oh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZyKvF6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zcWOE6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6lDz18&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Of5Oex&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=um97fH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iDclbo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QEKLae&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4IoCXT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z7yZOe&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bgsKYO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=g5AI0B&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LqMc89&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Is2BnG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6BWgbp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jTysUP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ULZ9GF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=D1MN8W&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4iihfL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=baUenh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dkYQHm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CfrE1z&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QtcN9S&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8ass5d&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fTY0Wo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",天津卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LMLvC3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sEb4EP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=khHkFx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eCVVWY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OYfC5b&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",东南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XgJUXN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Znqu2k&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PJY0Om&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vUPyth&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",海峡卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sNUuL7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zrv4Mi&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jJPXur&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UfrXsj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XtYx04&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qL8RYP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cXDcY9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zDpozk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i77qrG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2cqYxe&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ppi1Ae&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0IpQki&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=R0Rg9m&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oxrxWJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0FCWc7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LZlVIl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=giOLTt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pNVJAK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",康巴卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lPUp3c&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rPv7qO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",CCTV4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QKIOOg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",四川卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ks9PHH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",湖南卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pfSHf0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",广东卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RQe4g0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",浙江卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gNxaxt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",上海卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NXaNPO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",山东卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LwTqzG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",北京卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=buwGET&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",深圳卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ewaIBJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="4K频道",江苏卫视4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uPxuMz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",CHC影迷电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zd25Go&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",CHC家庭影院
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uB3oO0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",CHC动作电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TFrHCS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",高尔夫网球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fS3Fi5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",央视台球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=h4UBUQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",风云足球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DNmDYM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",风云剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cRNljA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",风云音乐
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TmlqUg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",第一剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gMtR67&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",怀旧剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ACbXjh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="付费频道",世界地理
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=16RxmO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iLun01&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV2
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q8qyS3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wzGzJs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV4
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lJ2erm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RTOZTK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV6
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EXFvDQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV7
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sMAvNp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=h93ikk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV9
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=31xMdd&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV10
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sow0ye&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV11
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pNrCCa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV12
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SGJoA6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV13
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iPCdSP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV14
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cF1dih&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV15
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GTPQY1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速央视",CCTV16
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EObkcX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",广西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QiSEoM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",海南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mGyzFb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",河南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DhT8w1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",湖北卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YYlkcS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",湖南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4cfXXK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",怀旧剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nz3nOu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",江苏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Wk6OsK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",数字电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vOA7t9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",深圳卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hca5g1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",四川卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1A2tGH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",重庆卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FPBXWn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",浙江卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DBvG6w&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",浙江卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yucGcB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",东方卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XdJXgz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",北京卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7b0yEq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",江西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HBINMW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",山东卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fS3Duv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",安徽卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mzQnuc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",天津卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HURDkT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",贵州卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ky9rtM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",河北卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZntGh1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",山西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=safLvk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",陕西卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hrtF6m&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",内蒙古卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZWtjcV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",吉林卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9Vi2FR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",西藏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BS0xAi&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",新疆卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=w04RS2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",云南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hVdDP0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",宁夏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9tXRHt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",甘肃卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wKe0kZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",东南卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eTjXvW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速卫视",兵团卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jnzd46&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东大湾区
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=U8dUCQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东民生
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JK5iaG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东少儿
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bO8Gi3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zhriVc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bGwrtm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东新闻
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uUtaS3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东影视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jDpU9F&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东珠江
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=A3nlGO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东经济
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uI7iNR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",深圳都市
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pvnUVe&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",汕头综合台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xzdusT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",汕头经济台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EO591F&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",潮州综合台
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=84n3Pz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="极速广东",广东4K超高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BH5CC9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-1HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=x6Iaug&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-2HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ttLDMj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-3HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=enl1WR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-4HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GKXkrQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-5HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CHwdwk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-6HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mFtJyz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-7HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JaSnBX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-8HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=y9kaCL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-9HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=knfp9o&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-10HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Oe9MJ4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-11HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZDoO4l&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-12HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t24zIb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-13HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HI2Erj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-14HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MmQZs9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-15HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GAkaPI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-16HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PefGsE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-17HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8PvOgA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-5+HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=86FX8U&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-4K超高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BHSTWz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-8K超高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jW0zV0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nRs3qG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",东方卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Vw48na&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",浙江卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=npldh5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",江苏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7bvq3F&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",重庆卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Kyj4t5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",东南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zdgA35&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XAoQMa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q3Bsew&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",辽宁卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=i2MArQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",山东卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DF64nC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",天津卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dn0Ci8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",陕西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kG6XPI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广东卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wOSzSD&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",深圳卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JWAxSe&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",青海卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=STPF9M&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",西藏卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QZ1cob&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",大湾区卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QJAV9y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-央视文化精品
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TaJvqm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",CCTV-卫生健康
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wVXOEE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",北京卡酷少儿
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1dKkqt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",中央新影-发现之旅
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BQUK88&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",中央新影-老故事
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Gw1D0S&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",中国教育3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cNVwo0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广东珠江
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1URF6G&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广东体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1BvMCr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广东新闻
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PFZgKE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广西影视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WLODhz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广西综艺旅游
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nIqrq4&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广西都市
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lWvxSc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广西新闻
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YUakPg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",广西国际
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1eWZY7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北综合
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=87tsQ6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北经视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FhGXDE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北影视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uCWvRP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北教育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XQCQe0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北垄上
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SrmFEn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖北生活
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V5oBZL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖南娱乐
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=maJN8Q&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",湖南教育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xn5ZIY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",吉林都市
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mIslZA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",吉林综艺文化
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9Yqs6l&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",吉林生活
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Pu0J5L&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",新疆汉语影视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RdWPen&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",新疆汉语体育健康
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NHR1I5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",江西少儿家庭
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=t5jlVL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="央卫",江西新闻频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Q2neZS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 4k电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6C9CS8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 4k动画
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9DIc2s&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 4k记录
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=5n5Yz0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PZu5uc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9KfG4S&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV16 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NKHcEM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",欢笑剧场 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PjbyKw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qlg5zf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",浙江卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6LOEB9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",江苏卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cJpSSx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",湖南卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mt14rX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",广东卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KqwJLe&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",深圳卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=V8QlH8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",北京卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YgEOzS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",四川卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7vkRUr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",山东卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=SNmtuI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",欢笑剧场 4k
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HAf4yd&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=24fVKk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方影视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DJUD5C&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",上海新闻综合
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CWop0r&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",生活时尚
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d49oT5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",五星体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mOPKSv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方财经
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KwybLS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",都市剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RPJU8f&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",乐游
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OdNZMI&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",欢笑剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jtBXPF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",金色学堂
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IbwX72&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",法治天地
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OSHynz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",第一财经
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZPWf63&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",游戏风云
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oirX4y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",上海都市
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=degTzl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",上海教育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IcxFBm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CHC动作电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pqRXx5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CHC家庭影院
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oXkFxY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CHC影迷电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KVv22z&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",第一剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hcbIBj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",风云剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZJ721d&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",怀旧剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0ODSRQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",世界地理
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hYKjpv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",风云音乐
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Qt4C2x&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",兵器科技
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xoABuo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",风云足球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CxFzt7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",高尔夫网球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GqNsQK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",女性时尚
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FWVHsP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",央视文化精品
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ujYgP2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",央视台球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4DiYlu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0Wgc0P&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=K7sEqc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV2
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YRyWWp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NCmYIy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV4
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=LmU4Bc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1jp8Xm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV5+
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PGflsy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV6
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s2j7cA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV7
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jvIisS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=CuubtQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV9
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RvCn4L&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV10
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bBy9he&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV11
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qnyKCE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV12
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a3EB6J&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV13
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bdcExt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV14
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xvqDHY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV15
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gcRPEC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV16
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JX98p9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV17
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NAWnJb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",四川卫视4KHD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mHiAC6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",重庆卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=25QQlQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",江苏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=schNaq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",浙江卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eJFH4i&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=sCLUzw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",深圳卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tls44Q&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",北京卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PPwS3u&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",山东卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DWY7LA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",天津卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zFq4ni&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",贵州卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hobsM5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",云南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZhkvIJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",广西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YlrkJb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",黑龙江卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Ek0FnN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",安徽卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6dN505&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",山西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HWQ8Nb&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",江西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fj2B8D&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",湖北卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ayL4Sk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",陕西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mXKWCE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UZ5FhR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",吉林卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NuDYqJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",辽宁卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oLRD7K&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",内蒙古卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=r8ZsYK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",湖南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nrckuz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",广东卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WqG6m9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",河南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iCGEPY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",河北卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FP7Ns3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",宁夏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OElnt0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",甘肃卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Nex7vg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",青海卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mkB3mr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",新疆卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=S86tGa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",西藏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3OXyX8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",兵团卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=K1nDA1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",三沙卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1DgDj8&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",金鹰纪实
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YoiDj5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",卡酷少儿
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=MZ2nBK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",嘉佳卡通
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Xm0M6Q&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",金鹰卡通
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=RGqMJO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",动漫秀场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gmqhwl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",哈哈炫动
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1secVo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",快乐垂钓
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=YmHbIP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",茶频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=jPeZru&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV电影介绍
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KizkCJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 直播
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vh0Hjk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 直播
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X81GvM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海中外灘-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=flZEYR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海陸家嘴-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d1CjWh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海魔都眼-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Zl1tVp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海北外灘-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ShQ1oW&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海白渡橋-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ELErpP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 4k电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=pronWl&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 4k动画
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=N522Z6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 4k记录
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iAD5mL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1840ZH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2ue5vx&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV16 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TS2kgT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",欢笑剧场 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wXbJul&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=R9yjGw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",浙江卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9oxpQR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",江苏卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TV1HUn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",湖南卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lJY00A&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",广东卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VZgZqN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",深圳卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OXEbmB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",北京卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ClrCzi&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",四川卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=3e37Kw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",山东卫视 4K
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eFSzIU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",欢笑剧场 4k
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F2GYq9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方卫视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qSJAgS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方影视
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hQFLk1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",上海新闻综合
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IQU4kR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",生活时尚
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=X37SEZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",五星体育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ZrJ0hk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方财经
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=hUTyXc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",都市剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ht6WHG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",乐游
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=oXmVpT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",欢笑剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lA7lFo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",金色学堂
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0G3khV&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",法治天地
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=k0OlPr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",第一财经
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8j2ZIZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",游戏风云
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FyWmcs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",上海都市
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J45ge3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",上海教育
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=cC0HIy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CHC动作电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=mmvGxo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CHC家庭影院
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UrVmHc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CHC影迷电影
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=FLsgDS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",第一剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kyALdj&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",风云剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DtoAs5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",怀旧剧场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ACFMm7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",世界地理
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F4U3RO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",风云音乐
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rip8b1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",兵器科技
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7nKtqL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",风云足球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EFpQTJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",高尔夫网球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uVVlOh&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",女性时尚
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=XNjifG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",央视文化精品
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=a1Vaq1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",央视台球
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fDY3Di&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=22h3GS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV1
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aoPcQv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV2
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DDDw61&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV3
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NAWFg0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV4
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BGcTDs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV5
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=NAtJg0&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV5+
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fRtHqf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV6
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DFKAIP&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV7
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=n7rFvT&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV8
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=I25Qdp&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV9
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=johjWQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV10
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1ERH1u&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV11
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=UeyMkw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV12
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=H4ENvR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV13
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=T5bWVF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV14
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p9nyIq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV15
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=BPUsAq&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV16
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=6zuxJ2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",CCTV17
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fJES6h&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",四川卫视4KHD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=GelZfr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",重庆卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TRSr6I&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",江苏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2m2j2A&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",浙江卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8rNdV3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东方卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WCi4kr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",深圳卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PepXeK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",北京卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rbsZ43&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",山东卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=acjzTn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",天津卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DOen8w&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",贵州卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gGiELf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",云南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JLVKqr&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",广西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nOoraN&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",黑龙江卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=bpoYxt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",安徽卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=TmhCeU&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",山西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kS3rnz&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",江西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=eADrlo&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",湖北卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=wD3QQJ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",陕西卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vibU0U&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",东南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WTrYdE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",吉林卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4qpTCD&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",辽宁卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=taKtXs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",内蒙古卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vGdhV7&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",湖南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=8dx6AM&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",广东卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=s32YUC&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",河南卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Z4qlNQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",河北卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nPuQY3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",宁夏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=h3GcMf&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",甘肃卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vLrly3&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",青海卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rYKlSO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",新疆卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Mu4GTm&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",西藏卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QNvlrK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",兵团卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=fDQPnv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",三沙卫视HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=xNEUe6&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",金鹰纪实
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WfiyvY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",卡酷少儿
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Whsug9&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",嘉佳卡通
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=iYYM4x&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",金鹰卡通
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=gwBsuA&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",动漫秀场
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=uS3RPc&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",哈哈炫动
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=d15MRd&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",快乐垂钓
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OwTQIn&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",茶频道
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=rYrz4U&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV电影介绍
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=QDSf0e&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 直播
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WbpTDD&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",BesTV 直播
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=82hzaG&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海中外灘-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7SRE5G&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海陸家嘴-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=0kjx7r&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海魔都眼-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=lDOhOZ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海北外灘-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=dYGOml&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="上海电信",直播上海白渡橋-HD
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=WfsBWk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",爱上4K超清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Gti8bO&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京4K超清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ey9Ji5&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京淘电影高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=1afVcQ&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京淘剧场高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DgWxZB&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京淘娱乐高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=OmBjez&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京淘Baby高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=e4hqnu&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京萌宠TV高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=2UxErH&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",北京淘精彩高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=KNYaLt&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",星影高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=aJiR4F&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",光影高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=zzE7Ra&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",惊悚影院高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ivAzYF&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",精选影院高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=VJfPoa&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",经典电影高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=F4bCeR&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",动作影院高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4JWs2y&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",喜剧影院高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=An0mv2&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",家庭影院高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=IUMYva&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",热播剧场高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=J2xFcs&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",古装剧场高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kzqrU1&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",武侠剧场高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Pv8x3I&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",魅力时尚高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EZuOsE&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",军旅剧场高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=j3ncLw&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",城市剧场高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=PfGBxK&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",纪实人文高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=EzxcxL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",金鹰纪实高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=JNerex&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",地理高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=4HJBqX&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",睛彩竞技高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=L7LDjL&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",睛彩篮球高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DCnmws&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",睛彩羽毛球高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=qqgHFy&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",睛彩广场舞高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=ARuC1X&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",茶频道高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=kZbv9s&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",快乐垂钓高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=p3JeCg&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",大健康高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=9JqGvY&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",少儿动画高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=tpfrHk&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",解密高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=vx6Smv&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",军事高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=nrPnrS&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",动画高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=DKWkho&tk=B9eddFxBG9JM
+#EXTINF:-1 group-title="北京组播",台球高清
+http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=HjrvDj&tk=B9eddFxBG9JM
