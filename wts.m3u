@@ -62,9 +62,5 @@ http://198.98.55.60:36666/7
 http://198.98.55.60:36666/8
 #EXTINF:-1 group-title="test",德语FUSSBALL.TV1
 http://198.98.55.60:36666/4
-#EXTINF:-1 group-title="test",viu099
-http://198.98.55.60:8889/viu/099
-#EXTINF:-1 group-title="test",viu096
-http://198.98.55.60:8889/viu/096
 #EXTINF:-1 group-title="test",CHC动作电影
 http://39.103.61.252:1223/play/1691.278174.m3u8
