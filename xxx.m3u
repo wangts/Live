@@ -20,15 +20,16 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-
 #EXTINF:-1 group-title="test",星影台
 http://77.90.60.172:36633/2/video/index.m3u8
 #EXTINF:-1 group-title="test",爆谷台
 http://77.90.60.172:36633/1/video/index.m3u8
 #EXTINF:-1 group-title="mpd",mpd
 http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP203/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVEbd0edf91cfab46cebc84e81f4061effd:d9f82dae1c46dc6198637d0735ea39cb
-#EXTINF:-1 group-title="test",NHK BSP4K
+#EXTINF:-1 group-title="test",NHK BSP4K (route 1)
 https://iptv.852851.xyz/l/An9kmrPq0FMKjyaxX1Pj18ckx0zNSTSR9U3VicP_9dFETZq0WiqBctURGNmbJK4g/index.m3u8
+#EXTINF:-1 group-title="test",NHK BSP4K (route 2)
+https://iptv.852851.xyz/l/Vx1Vet5Jzhll4Y00DRjY2Ja-5_xoau3aS5cIIkIANSYTXp94fUA-uqiE5d-_EE3P/index.m3u8
 #EXTINF:-1 group-title="test",ELTA 1
 http://176868.cloud/62bd2e0bb90d159c313667cb0580be71/3f922633172fa67da8be4294b52012a7/0f0f6e4de311759b46b41243cd4988a5/index.m3u8
 #EXTINF:-1 group-title="test",ELTA 2
@@ -37,3 +38,36 @@ http://176868.cloud/6769ec6e0eda658ed719643b2066bc46/3f922633172fa67da8be4294b52
 http://176868.cloud/f8e7095727d4726022f417c94674bc43/3f922633172fa67da8be4294b52012a7/b8433e2fde3673d975fc68a7a4238bff/index.m3u8
 #EXTINF:-1 group-title="test",ELTA 4
 http://176868.cloud/eeb0dc332dd8d3e9ae8d203c11d42792/3f922633172fa67da8be4294b52012a7/8a9c90323343e39b3b02a8231d0a26a6/index.m3u8
+#EXTINF:-1 group-title="test",UNIVERSO 4k杜比 频道播的另一场比赛
+https://cdn.99998888.cc/event/be151e8c-369c-32c5-84c2-9d6798ce9841?prefix=https://cdn.99998888.cc
+#EXTINF:-1 group-title="test",Telemundo频道 
+https://cdn.99998888.cc/event/11e0c966-2aff-3725-afbb-17f9fcc5f1e5?prefix=https://cdn.99998888.cc
+#EXTINF:-1 group-title="test",SKY SPORTS F1 4KUHD
+http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
+#EXTINF:-1 group-title="test",无线新闻台
+http://198.98.55.60:8889/C/index.m3u8
+#EXTINF:-1 group-title="test",无线新闻台
+http://198.98.55.60:8889/2
+#EXTINF:-1 group-title="test",无线新闻台 国际版
+http://198.98.55.60:8889/index.m3u8
+#EXTINF:-1 group-title="test",无线新闻台 国际版
+http://198.98.55.60:8889/1
+#EXTINF:-1 group-title="test",618
+http://198.98.55.60:36666/1/video/index.m3u8
+#EXTINF:-1 group-title="test",616 英语
+http://198.98.55.60:36666/6
+#EXTINF:-1 group-title="test",TSN 4K
+http://198.98.55.60:36666/5
+#EXTINF:-1 group-title="test",福克斯
+http://198.98.55.60:36666/7
+#EXTINF:-1 group-title="test",福克斯体育1
+http://198.98.55.60:36666/8
+#EXTINF:-1 group-title="test",德语FUSSBALL.TV1
+http://198.98.55.60:36666/4
+#EXTINF:-1 group-title="test",viu099
+http://198.98.55.60:8889/viu/099
+#EXTINF:-1 group-title="test",viu096
+http://198.98.55.60:8889/viu/096
+91ba752a446148c68400d78374b178b4:a01d7dc4edf582496b7e73d67e9e6899
+#EXTINF:-1 group-title="test",CHC动作电影
+http://39.103.61.252:1223/play/1691.278174.m3u8
