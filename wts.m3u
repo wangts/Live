@@ -28,9 +28,9 @@ https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_b
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_043/iptv_uhd_v1.mpd
 #EXTINF:-1 group-title="mpd",BBC Stream 44 UHD
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_044/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="test",NHK BSP4K (route 1)
+#EXTINF:-1 group-title="test",NHK BSP4K
 https://iptv.852851.xyz/l/An9kmrPq0FMKjyaxX1Pj18ckx0zNSTSR9U3VicP_9dFETZq0WiqBctURGNmbJK4g/index.m3u8
-#EXTINF:-1 group-title="test",NHK BSP4K (route 2)
+#EXTINF:-1 group-title="test",NHK BSP4K
 https://iptv.852851.xyz/l/Vx1Vet5Jzhll4Y00DRjY2Ja-5_xoau3aS5cIIkIANSYTXp94fUA-uqiE5d-_EE3P/index.m3u8
 #EXTINF:-1 group-title="test",ELTA 1
 http://176868.cloud/62bd2e0bb90d159c313667cb0580be71/3f922633172fa67da8be4294b52012a7/0f0f6e4de311759b46b41243cd4988a5/index.m3u8
