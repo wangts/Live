@@ -20,14 +20,10 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="mpd",BBC Stream 41 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="mpd",BBC Stream 42 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="mpd",BBC Stream 43 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_043/iptv_uhd_v1.mpd
-#EXTINF:-1 group-title="mpd",BBC Stream 44 UHD
-https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_044/iptv_uhd_v1.mpd
+#EXTINF:-1 group-title="mpd",Jordan vs. Argentina
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/mmohpwovep/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+#EXTINF:-1 group-title="mpd",4K HDR
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 #EXTINF:-1 group-title="test",NHK BSP4K
 https://iptv.852851.xyz/l/An9kmrPq0FMKjyaxX1Pj18ckx0zNSTSR9U3VicP_9dFETZq0WiqBctURGNmbJK4g/index.m3u8
 #EXTINF:-1 group-title="test",NHK BSP4K
