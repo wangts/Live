@@ -19,6 +19,50 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人",001
+http://45.189.62.33:8002/play/a09c/index.m3u8
+#EXTINF:-1 group-title="成人",002
+http://znty.dyndns.org:5010/hls/adulto2.m3u8
+#EXTINF:-1 group-title="成人",003
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12156/index.m3u8
+#EXTINF:-1 group-title="成人",004
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12157/index.m3u8
+#EXTINF:-1 group-title="成人",005
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12158/index.m3u8
+#EXTINF:-1 group-title="成人",006
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12160/index.m3u8
+#EXTINF:-1 group-title="成人",007
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12161/index.m3u8
+#EXTINF:-1 group-title="成人",008
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12162/index.m3u8
+#EXTINF:-1 group-title="成人",009
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12163/index.m3u8
+#EXTINF:-1 group-title="成人",010
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12164/index.m3u8
+#EXTINF:-1 group-title="成人",011
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12165/index.m3u8
+#EXTINF:-1 group-title="成人",012
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12166/index.m3u8
+#EXTINF:-1 group-title="成人",013
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12167/index.m3u8
+#EXTINF:-1 group-title="成人",014
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12168/index.m3u8
+#EXTINF:-1 group-title="成人",015
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
+#EXTINF:-1 group-title="成人",016
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12178/index.m3u8
+#EXTINF:-1 group-title="成人",017
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12181/index.m3u8
+#EXTINF:-1 group-title="成人",018
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12183/index.m3u8
+#EXTINF:-1 group-title="成人",019
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12184/index.m3u8
+#EXTINF:-1 group-title="成人",020
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12187/index.m3u8
+#EXTINF:-1 group-title="成人",021
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12188/index.m3u8
+#EXTINF:-1 group-title="成人",022
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12189/index.m3u8
 
 #EXTINF:-1 group-title="mpd",Jordan vs. Argentina
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/mmohpwovep/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
@@ -74,47 +118,3 @@ http://45.189.62.33:8002/playlist.m3u8
 http://45.186.106.207:8000/playlist.m3u8
 #EXTINF:-1 group-title="test",168
 http://168.228.44.241:9998/playlist.m3u8
-#EXTINF:-1 group-title="test",01
-http://45.189.62.33:8002/play/a09c/index.m3u8
-#EXTINF:-1 group-title="test",02
-http://znty.dyndns.org:5010/hls/adulto2.m3u8
-#EXTINF:-1 group-title="test",03
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12156/index.m3u8
-#EXTINF:-1 group-title="test",04
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12157/index.m3u8
-#EXTINF:-1 group-title="test",05
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12158/index.m3u8
-#EXTINF:-1 group-title="test",06
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12160/index.m3u8
-#EXTINF:-1 group-title="test",07
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12161/index.m3u8
-#EXTINF:-1 group-title="test",08
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12162/index.m3u8
-#EXTINF:-1 group-title="test",09
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12163/index.m3u8
-#EXTINF:-1 group-title="test",10
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12164/index.m3u8
-#EXTINF:-1 group-title="test",11
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12165/index.m3u8
-#EXTINF:-1 group-title="test",12
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12166/index.m3u8
-#EXTINF:-1 group-title="test",13
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12167/index.m3u8
-#EXTINF:-1 group-title="test",14
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12168/index.m3u8
-#EXTINF:-1 group-title="test",15
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
-#EXTINF:-1 group-title="test",16
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12178/index.m3u8
-#EXTINF:-1 group-title="test",17
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12181/index.m3u8
-#EXTINF:-1 group-title="test",18
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12183/index.m3u8
-#EXTINF:-1 group-title="test",19
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12184/index.m3u8
-#EXTINF:-1 group-title="test",20
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12187/index.m3u8
-#EXTINF:-1 group-title="test",21
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12188/index.m3u8
-#EXTINF:-1 group-title="test",22
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12189/index.m3u8
