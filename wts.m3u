@@ -64,10 +64,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12188/ind
 #EXTINF:-1 group-title="成人",022
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12189/index.m3u8
 
-#EXTINF:-1 group-title="mpd",Jordan vs. Argentina
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/mmohpwovep/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|drmScheme=clearkey&drmLicense=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-#EXTINF:-1 group-title="mpd",4K HDR
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/hgpxfatexm/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|drmScheme=clearkey&drmLicense=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 #EXTINF:-1 group-title="test",NHK BSP4K
 https://iptv.852851.xyz/l/An9kmrPq0FMKjyaxX1Pj18ckx0zNSTSR9U3VicP_9dFETZq0WiqBctURGNmbJK4g/index.m3u8
 #EXTINF:-1 group-title="test",NHK BSP4K
@@ -100,6 +96,8 @@ http://198.98.55.60:36666/5
 http://198.98.55.60:36666/7
 #EXTINF:-1 group-title="test",福克斯体育1
 http://198.98.55.60:36666/8
+#EXTINF:-1 group-title="test",FOX体育台
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 group-title="test",德语FUSSBALL.TV1
 http://198.98.55.60:36666/4
 #EXTINF:-1 group-title="test",CHC动作电影
