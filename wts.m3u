@@ -62,3 +62,15 @@ http://198.98.55.60:36666/4
 http://39.103.61.252:1223/play/1691.278174.m3u8
 #EXTINF:-1 group-title="test",欧体4K
 http://hanaiptv.com:8080/samQuNi96G/U6Z9mTNgRG/110713
+#EXTINF:-1 group-title="test",45
+http://45.185.163.75:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",202
+http://202.70.146.135:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",82
+http://82.78.243.219:45739/playlist.m3u8
+#EXTINF:-1 group-title="test",45
+http://45.189.62.33:8002/playlist.m3u8
+#EXTINF:-1 group-title="test",45
+http://45.186.106.207:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",168
+http://168.228.44.241:9998/playlist.m3u8
