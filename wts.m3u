@@ -124,3 +124,26 @@ http://45.189.62.33:8002/playlist.m3u8
 http://45.186.106.207:8000/playlist.m3u8
 #EXTINF:-1 group-title="test",168
 http://168.228.44.241:9998/playlist.m3u8
+
+#EXTINF:-1 group-title="test",01
+http://168.228.44.241:9997/playlist.m3u8
+#EXTINF:-1 group-title="test",02
+http://45.5.117.187:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",03
+http://91.246.72.88:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",04
+http://185.207.34.31:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",05
+http://181.78.197.59:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",06
+http://200.115.120.1:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",07
+http://45.5.118.136:8888/playlist.m3u8
+#EXTINF:-1 group-title="test",08
+http://200.115.120.1:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",09
+http://91.21.79.170:9981/playlist
+
+
+
+
