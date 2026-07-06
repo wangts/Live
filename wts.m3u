@@ -106,6 +106,8 @@ http://198.98.55.60:36666/8
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 group-title="test",德语FUSSBALL.TV1
 http://198.98.55.60:36666/4
+#EXTINF:-1 group-title="test",sky sports UHD
+https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
 #EXTINF:-1 group-title="test",CHC动作电影
 http://39.103.61.252:1223/play/1691.278174.m3u8
 #EXTINF:-1 group-title="test",欧体4K
