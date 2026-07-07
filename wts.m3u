@@ -214,7 +214,7 @@ http://45.185.163.75:8000/playlist.m3u8
 http://82.78.243.219:45739/playlist.m3u8
 #EXTINF:-1 group-title="test",A&E
 http://45.189.62.33:8002/playlist.m3u8
-#EXTINF:-1 group-title="test",4
+#EXTINF:-1 group-title="test",3ABN Latino
 http://45.186.106.207:8000/playlist.m3u8
 #EXTINF:-1 group-title="test",168
 http://168.228.44.241:9998/playlist.m3u8
