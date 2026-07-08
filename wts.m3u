@@ -174,7 +174,12 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6269/index.m3u8
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/12121/index.m3u8
 #EXTINF:-1 group-title="Adult",no logo
 http://200.115.120.1:8000/play/ca99/index.m3u8
-
+#EXTINF:-1 group-title="Adult",OpenTV Lena Paul
+http://super.ceimaiprosti.ro:8080/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/70700.m3u
+#EXTINF:-1 group-title="Adult",Playsex TV HD
+http://super.ceimaiprosti.ro:8080/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/102326.m3u8
+#EXTINF:-1 group-title="Adult",SexArt
+http://super.ceimaiprosti.ro:8080/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/102324.m3u8
 
 #EXTINF:-1 group-title="Adult",MyCamTV (01)
 http://31.43.191.125:8880/live/VIP019301734188047280/7bce5254f13d/157305.m3u8
@@ -208,3 +213,8 @@ http://198.98.55.60:36666/6
 http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 #EXTINF:-1 group-title="test",sky sports UHD F1 (2)
 https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
+#EXTINF:-1 group-title="test",Private HD
+http://super.ceimaiprosti.ro:8080/live/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/102248.m3u8
+
+
+
