@@ -208,4 +208,83 @@ http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
 
 
-
+#EXTINF:-1 group-title="test",01
+http://119.156.228.231:9983/play#EXTINF:-1 group-title="test",list
+#EXTINF:-1 group-title="test",02
+http://193.28.90.70:9981/playlist
+#EXTINF:-1 group-title="test",03
+http://200.60.124.25:8000/playlist.m3u8
+#EXTINF:-1 group-title="test",04
+http://37.186.70.39:40/playlist.m3u8 
+#EXTINF:-1 group-title="test",05
+http://91.8.70.66:9981/playlist
+#EXTINF:-1 group-title="test",06
+http://91.3.37.5:9981/playlist
+#EXTINF:-1 group-title="test",07
+http://88.6.113.4:9981/playlist
+#EXTINF:-1 group-title="test",08
+http://88.16.104.242:9981/playlist
+#EXTINF:-1 group-title="test",09
+http://88.23.184.6:9981/playlist
+#EXTINF:-1 group-title="test",10
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73596.m3u8
+#EXTINF:-1 group-title="test",11
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73594.m3u8
+#EXTINF:-1 group-title="test",12
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73593.m3u8
+#EXTINF:-1 group-title="test",13
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6183/index.m3u8
+#EXTINF:-1 group-title="test",14
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6185/index.m3u8
+#EXTINF:-1 group-title="test",15
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6186/index.m3u8
+#EXTINF:-1 group-title="test",16
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6187/index.m3u8
+#EXTINF:-1 group-title="test",17
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6188/index.m3u8
+#EXTINF:-1 group-title="test",18
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6189/index.m3u8
+#EXTINF:-1 group-title="test",19
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6191/index.m3u8
+#EXTINF:-1 group-title="test",20
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6192/index.m3u8
+#EXTINF:-1 group-title="test",21
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6193/index.m3u8
+#EXTINF:-1 group-title="test",22
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6194/index.m3u8
+#EXTINF:-1 group-title="test",23
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6195/index.m3u8
+#EXTINF:-1 group-title="test",24
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6196/index.m3u8
+#EXTINF:-1 group-title="test",25
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6197/index.m3u8
+#EXTINF:-1 group-title="test",26
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6199/index.m3u8
+#EXTINF:-1 group-title="test",27
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6200/index.m3u8
+#EXTINF:-1 group-title="test",28
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6202/index.m3u8
+#EXTINF:-1 group-title="test",29
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6208/index.m3u8
+#EXTINF:-1 group-title="test",30
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6212/index.m3u8
+#EXTINF:-1 group-title="test",31
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6213/index.m3u8
+#EXTINF:-1 group-title="test",32
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6214/index.m3u8
+#EXTINF:-1 group-title="test",33
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6215/index.m3u8
+#EXTINF:-1 group-title="test",34
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6216/index.m3u8
+#EXTINF:-1 group-title="test",35
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6217/index.m3u8
+#EXTINF:-1 group-title="test",36
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6218/index.m3u8
+#EXTINF:-1 group-title="test",37
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6219/index.m3u8
+#EXTINF:-1 group-title="test",38
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6220/index.m3u8
+#EXTINF:-1 group-title="test",39
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6221/index.m3u8
+#EXTINF:-1 group-title="test",40
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/6222/index.m3u8
