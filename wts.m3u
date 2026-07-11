@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz"
 
+
 #EXTINF:-1 group-title="Adult",21 Naturals (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
 #EXTINF:-1 group-title="Adult",21 Naturals (2)
@@ -161,6 +162,7 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6286/index.m3u8
 #EXTINF:-1 group-title="Adult",XY Mix
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6287/index.m3u8
 
+
 #EXTINF:-1 group-title="Adult",Gay TV HD
 http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
 #EXTINF:-1 group-title="Adult",Cartoon 18+
@@ -191,26 +193,75 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6250/index.m3u8
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6251/index.m3u8
 
 
-#EXTINF:-1 group-title="test",TSN 4K
-http://198.98.55.60:36666/5
-#EXTINF:-1 group-title="test",FOX 4K
-http://198.98.55.60:36666/7
-#EXTINF:-1 group-title="test",FS1 4K
-http://198.98.55.60:36666/8
-#EXTINF:-1 group-title="test",FUSSBALL TV 1
-http://198.98.55.60:36666/4
-#EXTINF:-1 group-title="test",616
-http://198.98.55.60:36666/6
 #EXTINF:-1 group-title="test",sky sports UHD F1 (1)
 http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 #EXTINF:-1 group-title="test",sky sports UHD F1 (2)
 https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
 
-#EXTINF:-1 group-title="rocket",USA Showtime East UHD
+
+#EXTINF:-1 group-title="rocket",CTV Toronto
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3269.ts
+#EXTINF:-1 group-title="rocket",CTV 2 Toronto
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/93008.ts
+#EXTINF:-1 group-title="rocket",TSN 1 UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+#EXTINF:-1 group-title="rocket",TSN 2 UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
+#EXTINF:-1 group-title="rocket",TSN 3 UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3144.ts
+#EXTINF:-1 group-title="rocket",TSN 4 UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3143.ts
+#EXTINF:-1 group-title="rocket",TSN 5 UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3142.ts
+#EXTINF:-1 group-title="rocket",Cinemax East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3622.ts
+#EXTINF:-1 group-title="rocket",Cinemax Hits
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51553.ts
+#EXTINF:-1 group-title="rocket",HBO East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3655.ts
+#EXTINF:-1 group-title="rocket",HBO Hits East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3656.ts
+#EXTINF:-1 group-title="rocket",HBO Movies UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51552.ts
+#EXTINF:-1 group-title="rocket",HBO Drama UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/51551.ts
+#EXTINF:-1 group-title="rocket",MGM+ East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3949.ts
+#EXTINF:-1 group-title="rocket",MGM+ Hits
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3724.ts
+#EXTINF:-1 group-title="rocket",MGM+ MARQUEE UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2583.ts
+#EXTINF:-1 group-title="rocket",MOVIEPLEX
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/93060.ts
+#EXTINF:-1 group-title="rocket",Movies!
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/543962.ts
+#EXTINF:-1 group-title="rocket",ScreenPix
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/601157.ts
+#EXTINF:-1 group-title="rocket",Showtime East UHD
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3678.ts
-#EXTINF:-1 group-title="rocket",USA Showtime West UHD
+#EXTINF:-1 group-title="rocket",Showtime 2 East UHD
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3965.ts
-#EXTINF:-1 group-title="rocket",CBC Sports
-http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3621.ts
-#EXTINF:-1 group-title="rocket",USA Showtime Extreme UHD
+#EXTINF:-1 group-title="rocket",Showtime Extreme UHD
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3967.ts
+#EXTINF:-1 group-title="rocket",Showtime Next UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3970.ts
+#EXTINF:-1 group-title="rocket",Sony Movie Channel
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2412.ts
+#EXTINF:-1 group-title="rocket",Starz East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3680.ts
+#EXTINF:-1 group-title="rocket",Starz Edge East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3961.ts
+#EXTINF:-1 group-title="rocket",Starz Encore East
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3950.ts
+#EXTINF:-1 group-title="rocket",Starz Encore Action
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3952.ts
+#EXTINF:-1 group-title="rocket",Starz Encore Suspense East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3958.ts
+#EXTINF:-1 group-title="rocket",Starz Comedy East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3959.ts
+#EXTINF:-1 group-title="rocket",Sundance
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3759.ts
+#EXTINF:-1 group-title="rocket",TCM East UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3852.ts
+#EXTINF:-1 group-title="rocket",The Movie Channel UHD
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527261.ts
