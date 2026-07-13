@@ -17,6 +17,14 @@ http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702698&exten
 #EXTINF:-1 group-title="45",X4|Vintage
 http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702692&extension=ts&play_token=OnKNewR5d5
 
+#EXTINF:-1 group-title="400",Vixen HD
+http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453080?play_token=5PNY2PjLkn
+#EXTINF:-1 group-title="400",Babes TV HD
+http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453077?play_token=BLyHaKalNX
+#EXTINF:-1 group-title="400",Passion XxX
+http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453063?play_token=4jL18cMjzz
+#EXTINF:-1 group-title="400",Leo Gold TV HD
+http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453032?play_token=b2jcLb075o
 
 #EXTINF:-1 group-title="Adult",21 Naturals (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
@@ -206,6 +214,8 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 http://200.115.120.1:8000/play/ca97/index.m3u8
 #EXTINF:-1 group-title="Adult",Playboy TV (03)
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6242/index.m3u8
+#EXTINF:-1 group-title="Adult",Playboy TV (04)
+http://lutvil.ddns.net:8087/playboy/index.m3u8?token=6802a8948962bf333af312cc0d0572fe
 #EXTINF:-1 group-title="Adult",Private
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6245/index.m3u8
 #EXTINF:-1 group-title="Adult",Public Agent
