@@ -1,5 +1,22 @@
 #EXTM3U x-tvg-url="https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz"
 
+#EXTINF:-1 group-title="45",X4|Hazel Moore
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702904&extension=ts&play_token=ZW16zyzyU2
+#EXTINF:-1 group-title="45",X4|Lena Paul
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702858&extension=ts&play_token=M2WxShzcsN
+#EXTINF:-1 group-title="45",X4|NF Busty
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702787&extension=ts&play_token=StxJuRELJh
+#EXTINF:-1 group-title="45",X4|Passion
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702777&extension=ts&play_token=4cU5nuLNIm
+#EXTINF:-1 group-title="45",X4|POV
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702764&extension=ts&play_token=2m6lW62CEA
+#EXTINF:-1 group-title="45",X4|Stella Cox
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702718&extension=ts&play_token=9VCCcJQPes
+#EXTINF:-1 group-title="45",X4|Valentina Nappi
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702698&extension=ts&play_token=VX97pUblC6
+#EXTINF:-1 group-title="45",X4|Vintage
+http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702692&extension=ts&play_token=OnKNewR5d5
+
 
 #EXTINF:-1 group-title="Adult",21 Naturals (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
@@ -215,8 +232,6 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6253/index.m3u8
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6252/index.m3u8
 #EXTINF:-1 group-title="Adult",Sexy Hot
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6282/index.m3u8
-#EXTINF:-1 group-title="Adult",Sexy Yo880 TV
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRKBTYRXLLNSEF/14176/index.m3u8
 #EXTINF:-1 group-title="Adult",SINematica
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6255/index.m3u8
 #EXTINF:-1 group-title="Adult",Trans Angels
@@ -284,6 +299,8 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6250/index.m3u8
 #EXTINF:-1 group-title="Adult",MyCamTV (08)
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6251/index.m3u8
 
+#EXTINF:-1 group-title="Adult Movies",Sexy Yo880 TV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRKBTYRXLLNSEF/14176/index.m3u8
 #EXTINF:-1 group-title="Adult Movies",Liberty FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRKBTYRXLLNSEF/16069/index.m3u8
 #EXTINF:-1 group-title="Adult Movies",KNHO 18+
