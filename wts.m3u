@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/iwinstar/epg_merge_filter/releases/download/latest/merged_epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 group-title="45",X4|Hazel Moore
 http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702904&extension=ts&play_token=ZW16zyzyU2
@@ -17,14 +17,6 @@ http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702698&exten
 #EXTINF:-1 group-title="45",X4|Vintage
 http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702692&extension=ts&play_token=OnKNewR5d5
 
-#EXTINF:-1 group-title="400",Vixen HD
-http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453080?play_token=5PNY2PjLkn
-#EXTINF:-1 group-title="400",Babes TV HD
-http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453077?play_token=BLyHaKalNX
-#EXTINF:-1 group-title="400",Passion XxX
-http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453063?play_token=4jL18cMjzz
-#EXTINF:-1 group-title="400",Leo Gold TV HD
-http://77.g.6350.top:80/5BN0Y5vgmA1ZVdR/MBcOdueYts/1453032?play_token=b2jcLb075o
 
 #EXTINF:-1 group-title="Adult",21 Naturals (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
@@ -100,26 +92,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRKBTYRXLLNSEF/12161/ind
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
 #EXTINF:-1 group-title="Adult",Brezzers TV Europe (02)
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/12113/index.m3u8
-#EXTINF:-1 group-title="Adult",Brazzers 01
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghjkrfM4-_C7wtZz5kAFl4tpidewmkR7AhZy0DWINkzZ6
-#EXTINF:-1 group-title="Adult",Brazzers 02
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghu-6DGHneDE-wGYvE-FpXJcNC5SPwLg05EqTUP1qEtLU
-#EXTINF:-1 group-title="Adult",Brazzers 03
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghu-6DGHneDE-wGYvE-FpXJcCPBc02IEofvgC-9S82u8i
-#EXTINF:-1 group-title="Adult",Brazzers 04
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghu-6DGHneDE-wGYvE-FpXJe8Qrtis-43B1FOWiFA3efW
-#EXTINF:-1 group-title="Adult",Brazzers 05
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghu-6DGHneDE-wGYvE-FpXJd0pYUTTvL6pxPcosO99Cbr
-#EXTINF:-1 group-title="Adult",Brazzers 06
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghu-6DGHneDE-wGYvE-FpXJfeQbhXPgCucX725h-QjhDg
-#EXTINF:-1 group-title="Adult",Brazzers 07
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghjkrfM4-_C7wtZz5kAFl4trtpl9lyqHotPLBBNbdInhV
-#EXTINF:-1 group-title="Adult",Brazzers 08
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghjkrfM4-_C7wtZz5kAFl4trvsWms9upazm1gKsaEO2V8
-#EXTINF:-1 group-title="Adult",Brazzers 09
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghjkrfM4-_C7wtZz5kAFl4tqD1WLOt-DuoP8mn22DaEFH
-#EXTINF:-1 group-title="Adult",Brazzers 10
-http://bmnew26.site:80/play/o9CrGIwxQwjlPIZVESyghjkrfM4-_C7wtZz5kAFl4tpo-RmRSo17SjdfRmauYhJz
 #EXTINF:-1 group-title="Adult",Bunny
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6260/index.m3u8
 #EXTINF:-1 group-title="Adult",Cum4k (1)
@@ -287,27 +259,6 @@ http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
 #EXTINF:-1 group-title="Adult",Cartoon 18+
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/11117/index.m3u8
 
-#EXTINF:-1 group-title="Adult",Scan Me (01)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6269/index.m3u8
-#EXTINF:-1 group-title="Adult",Scan Me (02)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/12121/index.m3u8
-
-#EXTINF:-1 group-title="Adult",MyCamTV (01)
-http://31.43.191.125:8880/live/VIP019301734188047280/7bce5254f13d/157305.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (02)
-http://31.43.191.125:8880/live/VIP019301734188047280/7bce5254f13d/157318.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (03)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6243/index.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (04)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6244/index.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (05)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6256/index.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (06)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6257/index.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (07)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6250/index.m3u8
-#EXTINF:-1 group-title="Adult",MyCamTV (08)
-http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6251/index.m3u8
 
 #EXTINF:-1 group-title="Adult Movies",Sexy Yo880 TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CRKBTYRXLLNSEF/14176/index.m3u8
