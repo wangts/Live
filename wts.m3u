@@ -349,10 +349,8 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527261.ts
 
 #EXTINF:-1 group-title="wicked",TSN 1
 http://wickediptv.xyz/Randall123/Randall321/53805
-#EXTINF:-1 group-title="wicked",TSN 2 (excl live)
+#EXTINF:-1 group-title="wicked",TSN 2
 http://wickediptv.xyz/Randall123/Randall321/53806
-#EXTINF:-1 group-title="wicked",TSN 2 (incl live & m3u8)
-http://wickediptv.xyz/live/Randall123/Randall321/53806.m3u8
 #EXTINF:-1 group-title="wicked",FS 1 (1)
 http://wickediptv.xyz/Randall123/Randall321/53390
 #EXTINF:-1 group-title="wicked",FS 1 (2)
@@ -369,13 +367,54 @@ http://wickediptv.xyz/Randall123/Randall321/340019
 http://wickediptv.xyz/Randall123/Randall321/340017
 #EXTINF:-1 group-title="wicked",FIFA WC 2026 GAME 04
 http://wickediptv.xyz/Randall123/Randall321/340016
+
+#EXTINF:-1 group-title="wicked",ESPN
+http://wickediptv.xyz/Randall123/Randall321/55060
+#EXTINF:-1 group-title="wicked",ESPN 2
+http://wickediptv.xyz/Randall123/Randall321/55061
+#EXTINF:-1 group-title="wicked",CTV
+http://wickediptv.xyz/Randall123/Randall321/53651
+#EXTINF:-1 group-title="wicked",CTV 2
+http://wickediptv.xyz/Randall123/Randall321/53652
+#EXTINF:-1 group-title="wicked",CTV TORONTO
+http://wickediptv.xyz/Randall123/Randall321/53663
+#EXTINF:-1 group-title="wicked",CHCH
+http://wickediptv.xyz/Randall123/Randall321/53631
 #EXTINF:-1 group-title="wicked",CRAVE 1
 http://wickediptv.xyz/Randall123/Randall321/53646
+#EXTINF:-1 group-title="wicked",CRAVE 2
+http://wickediptv.xyz/Randall123/Randall321/53647
+#EXTINF:-1 group-title="wicked",CRAVE 3
+http://wickediptv.xyz/Randall123/Randall321/53648
+#EXTINF:-1 group-title="wicked",CRAVE 4
+http://wickediptv.xyz/Randall123/Randall321/53649
+#EXTINF:-1 group-title="wicked",CINEMAX
+http://wickediptv.xyz/Randall123/Randall321/56276
+#EXTINF:-1 group-title="wicked",FLIX
+http://wickediptv.xyz/Randall123/Randall321/287247
+#EXTINF:-1 group-title="wicked",HBO EAST
+http://wickediptv.xyz/Randall123/Randall321/56291
+#EXTINF:-1 group-title="wicked",HBO COMEDY
+http://wickediptv.xyz/Randall123/Randall321/56290
+#EXTINF:-1 group-title="wicked",HBO HITS
+http://wickediptv.xyz/Randall123/Randall321/56289
+#EXTINF:-1 group-title="wicked",HBO MOVIES
+http://wickediptv.xyz/Randall123/Randall321/56294
+#EXTINF:-1 group-title="wicked",SHOWTIME EAST
+http://wickediptv.xyz/Randall123/Randall321/56300
+#EXTINF:-1 group-title="wicked",STARZ EAST
+http://wickediptv.xyz/Randall123/Randall321/56310
+#EXTINF:-1 group-title="wicked",STARZ CINEMA
+http://wickediptv.xyz/Randall123/Randall321/56308
+#EXTINF:-1 group-title="wicked",MOVIETIME
+http://wickediptv.xyz/Randall123/Randall321/53718
+#EXTINF:-1 group-title="wicked",THE MOVIE CHANNEL
+http://wickediptv.xyz/Randall123/Randall321/251825
+#EXTINF:-1 group-title="wicked",THE MOVIE CHANNEL EXTRA
+http://wickediptv.xyz/Randall123/Randall321/251826
 #EXTINF:-1 group-title="wicked",Blacked
 http://wickediptv.xyz/Randall123/Randall321/253679
 #EXTINF:-1 group-title="wicked",Public Bang
 http://wickediptv.xyz/Randall123/Randall321/299821
-
-
-
-
+#EXTINF:-1 group-title="wicked",ULTIMATE SURRENDER
+http://wickediptv.xyz/Randall123/Randall321/324216
