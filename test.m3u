@@ -1,15 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="streamtest",A&E HD
-http://200.229.147.210:9999/play/a0ai/index.m3u8
-#EXTINF:-1 group-title="streamtest",AMC HD
-http://200.229.147.210:9999/play/a0aj/index.m3u8
 #EXTINF:-1 group-title="streamtest",Asshole Fever Россия
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/12169/manifest.m3u8
-#EXTINF:-1 group-title="streamtest",AXN
-http://200.229.147.210:9999/play/a034/index.m3u8
-#EXTINF:-1 group-title="streamtest",AXN HD
-http://200.229.147.210:9999/play/a07j/index.m3u8
 #EXTINF:-1 group-title="streamtest",CityTV
 http://38.191.80.20:8023/play/a05h
 #EXTINF:-1 group-title="streamtest",CNN
@@ -26,46 +18,18 @@ http://ru.iptv.monster/play/2065/manifest.m3u8?token=75BA4FC1CA5013E
 http://ru.iptv.monster/play/1703/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 group-title="streamtest",Eromania 4K РОССИЯ (2) 
 http://ru.iptv.monster/play/1703/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="streamtest",ESPN
-http://200.229.147.210:9999/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN HD
-http://200.229.147.210:9999/play/a08i/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 2
-http://200.229.147.210:9999/play/a0bb/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 2 HD
-http://200.229.147.210:9999/play/a08j/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 3
-http://200.229.147.210:9999/play/a05c/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 3 HD
-http://200.229.147.210:9999/play/a08k/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 4
-http://200.229.147.210:9999/play/a05d/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 4 HD
-http://200.229.147.210:9999/play/a03e/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 5
-http://200.229.147.210:9999/play/a077/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 5 HD
-http://200.229.147.210:9999/play/a07l/index.m3u8
-#EXTINF:-1 group-title="streamtest",ESPN 6
-http://200.229.147.210:9999/play/a031/index.m3u8
 #EXTINF:-1 group-title="streamtest",Eurosport HD
 http://89.44.231.73:7000/eurosport
 #EXTINF:-1 group-title="streamtest",Eurosport 2 HD
 http://89.44.231.73:7000/eurosport2
 #EXTINF:-1 group-title="streamtest",Gonzo
 http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
-#EXTINF:-1 group-title="streamtest",HBO Family HD (1)
-http://200.229.147.210:9999/play/a011/index.m3u8
-#EXTINF:-1 group-title="streamtest",HBO Family HD (2)
+#EXTINF:-1 group-title="streamtest",HBO Family HD
 http://38.19.16.151:8000/play/a0uz
-#EXTINF:-1 group-title="streamtest",HBO HD
-http://200.229.147.210:9999/play/a00y/index.m3u8
 #EXTINF:-1 group-title="streamtest",HBO Plus (1)
 http://190.93.229.30:8000/play/a08s/index.m3u8
 #EXTINF:-1 group-title="streamtest",HBO Plus (3)
 http://38.19.16.151:8000/play/a0tv
-#EXTINF:-1 group-title="streamtest",HBO Plus HD
-http://200.229.147.210:9999/play/a010/index.m3u8
 #EXTINF:-1 group-title="streamtest",HBO POP HD (1)
 http://190.93.229.30:8000/play/a0c3/index.m3u8
 #EXTINF:-1 group-title="streamtest",HBO POP HD (2)
@@ -76,8 +40,6 @@ http://38.19.16.151:8000/play/a0uo
 http://190.93.229.30:8000/play/a09t/index.m3u8
 #EXTINF:-1 group-title="streamtest",HBO Signature (2)
 http://38.19.16.151:8000/play/a0o0
-#EXTINF:-1 group-title="streamtest",HBO XTREME
-http://200.229.147.210:9999/play/a012/index.m3u8
 #EXTINF:-1 group-title="streamtest",HBO XTREME HD (1)
 http://38.19.16.151:8000/play/a03z
 #EXTINF:-1 group-title="streamtest",HBO XTREME HD (2)
@@ -86,8 +48,6 @@ http://190.93.229.30:8000/play/a0ch/index.m3u8
 http://38.19.16.151:8000/play/a0v0
 #EXTINF:-1 group-title="streamtest",HBO+ HD
 http://181.78.82.130:8000/play/a0re/index.m3u8
-#EXTINF:-1 group-title="streamtest",HBO 2 HD
-http://200.229.147.210:9999/play/a00z/index.m3u8
 #EXTINF:-1 group-title="streamtest",OLERO Babes РОССИЯ (1)
 http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 group-title="streamtest",OLERO Babes РОССИЯ (2)
@@ -108,14 +68,8 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/243/index.m3u8
 http://ru.iptv.monster/play/594/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 group-title="streamtest",Redlight HD РОССИЯ (2)
 http://ru.iptv.monster/play/594/manifest.m3u8?token=75BA4FC1CA5013E
-#EXTINF:-1 group-title="streamtest",Sony Movies HD
-http://200.229.147.210:9999/play/a0an/index.m3u8
-#EXTINF:-1 group-title="streamtest",Telemundo HD
-http://200.229.147.210:9999/play/a0ak/index.m3u8
 #EXTINF:-1 group-title="streamtest",THT International
 http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
-#EXTINF:-1 group-title="streamtest",TNT Series HD
-http://200.229.147.210:9999/play/a08o/index.m3u8
 #EXTINF:-1 group-title="streamtest",TVPlay Наше XXX
 http://ru.iptv.monster/play/1769/manifest.m3u8?token=75BA4FC1CA5013E
 #EXTINF:-1 group-title="streamtest",USA_5STARMAX
@@ -170,8 +124,6 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 group-title="streamtest",USA_WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 group-title="streamtest",VENUS
-http://200.229.147.210:9999/play/a05m/index.m3u8
 #EXTINF:-1 group-title="streamtest",WARNER HD
 http://181.119.215.61:8000/play/a0ho/index.m3u8
 #EXTINF:-1 group-title="streamtest",ОХ-АХ HD (1)
