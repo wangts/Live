@@ -31,6 +31,12 @@ http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/625687.mkv
 #EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Fäbodjäntan (1978)
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1041757.mkv
 
+#EXTINF:-1 group-title="lefanten",Adult Movie - liloostich
+http://lefanten.com:8080/movie/g2PUYft1Ge/yjEJMgYdSo/1423169.mp4?play_token=ulUVoWjlJI
+#EXTINF:-1 group-title="lefanten",Adult Movie - Amia Miley
+http://lefanten.com:8080/movie/g2PUYft1Ge/yjEJMgYdSo/1425181.mp4?play_token=yGYPHK0Glj
+
+
 #EXTINF:-1 group-title="Adult Movie",KNHO 18+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/18075/index.m3u8
 #EXTINF:-1 group-title="Adult Movie",Liberty
@@ -407,6 +413,8 @@ http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
 #EXTINF:-1 group-title="test",duo3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/20026/index.m3u8
+#EXTINF:-1 group-title="test",ViuTV HK
+https://rebrand.ly/pveefn3
 
 
 #EXTINF:-1 group-title="rocket",CTV Toronto
