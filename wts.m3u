@@ -417,6 +417,30 @@ http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6286/index.m3u8
 #EXTINF:-1 group-title="Adult",XY Mix
 http://c401060e.edemist.com/iptv/EALSZW4ETTMUPS/6287/index.m3u8
 
+
+#EXTINF:-1 group-title="fomo",CTV Wild
+http://fomo.re/live/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/200382.m3u8
+#EXTINF:-1 group-title="fomo",The Sports Network 1
+http://fomo.re/live/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/200426.m3u8
+
+#EXTINF:-1 group-title="fomo",Braveheart
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/134150.mkv
+#EXTINF:-1 group-title="fomo",The Dreamers
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/123068.mkv
+#EXTINF:-1 group-title="fomo",Eyes Wide Shut
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/299478.mkv
+#EXTINF:-1 group-title="fomo",The Matrix
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/251923.mkv
+#EXTINF:-1 group-title="fomo",True Lies 1080p
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/221805.mkv
+
+#EXTINF:-1 group-title="fomo",cs.24.06.21.1000.1st.visit.1080p
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/318606.mkv
+#EXTINF:-1 group-title="fomo",cs.24.03.29.Xia.Secrets.2nd.visit.1080p
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/315965.mkv
+#EXTINF:-1 group-title="fomo",cs.23.03.22.Paisley.Aimes.1st.visit.1080p
+http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/310413.mkv
+
 #EXTINF:-1 group-title="fomo",cs.24.08.09.1001.2nd.visit.1080p
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/318719.mkv
 #EXTINF:-1 group-title="fomo",cs.24.07.19.AK-47.5th.visit.1080p
@@ -438,11 +462,19 @@ http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/200528.mkv
 #EXTINF:-1 group-title="fomo",Enola Holmes 3 4K
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/315318.mkv
 
-#EXTINF:-1 group-title="ottinfinity",Adult Movie - wet and wild penis massage 2160p
-http://77.g.6350.top:80/movie/EUtD44NAzxMA8uR/oI6b8zNCtB/913265.mp4?play_token=twDCHZIYrA
-#EXTINF:-1 group-title="ottinfinity",Adult Movie - unlock the orgasm massage 2160p
-http://77.g.6350.top:80/movie/EUtD44NAzxMA8uR/oI6b8zNCtB/913250.mp4?play_token=YtyAbzriHs
 
+#EXTINF:-1 group-title="204",The Matrix (1999)
+http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=1007256.mkv&play_token=8d78c69azY&type=movie&sn2=
+#EXTINF:-1 group-title="204",Braveheart (1995) 4K
+http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=262016.mkv&play_token=hf2PDiFMTy&type=movie&sn2=
+#EXTINF:-1 group-title="204",The Dreamers (2003)
+http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=199676.mkv&play_token=Y4Y80RD04v&type=movie&sn2=
+#EXTINF:-1 group-title="204",Eyes Wide Shut (1999)
+http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=108696.mp4&play_token=FhLRIm5m1m&type=movie&sn2=
+#EXTINF:-1 group-title="204",True Lies (1994) 1280x544
+http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=117761.mkv&play_token=F2AyOKuRjH&type=movie&sn2=
+#EXTINF:-1 group-title="204",True Lies (1994) 4K [FR]
+http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=1301157.mkv&play_token=drWuBx6nG6&type=movie&sn2=
 
 #EXTINF:-1 group-title="tigerkanaler2",Adult Movie - The Anal Authority Chanel Preston
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1087579.mp4
@@ -452,12 +484,6 @@ http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/826009.mp4
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/625687.mkv
 #EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Fäbodjäntan (1978)
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1041757.mkv
-
-
-#EXTINF:-1 group-title="lefanten",Adult Movie - liloostich
-http://lefanten.com:8080/movie/g2PUYft1Ge/yjEJMgYdSo/1423169.mp4?play_token=ulUVoWjlJI
-#EXTINF:-1 group-title="lefanten",Adult Movie - Amia Miley
-http://lefanten.com:8080/movie/g2PUYft1Ge/yjEJMgYdSo/1425181.mp4?play_token=yGYPHK0Glj
 
 
 #EXTINF:-1 group-title="Adult",no logo (1)
