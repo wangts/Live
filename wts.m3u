@@ -581,28 +581,6 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3852.ts
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/527261.ts
 
 
-#EXTINF:-1 group-title="wicked",TSN 1
-http://wickediptv.xyz/Randall123/Randall321/53805
-#EXTINF:-1 group-title="wicked",TSN 2
-http://wickediptv.xyz/Randall123/Randall321/53806
-#EXTINF:-1 group-title="wicked",FS 1 (1)
-http://wickediptv.xyz/Randall123/Randall321/53390
-#EXTINF:-1 group-title="wicked",FS 1 (2)
-http://wickediptv.xyz/Randall123/Randall321/54775
-#EXTINF:-1 group-title="wicked",FS 2
-http://wickediptv.xyz/Randall123/Randall321/54776
-#EXTINF:-1 group-title="wicked",BBC One
-http://wickediptv.xyz/Randall123/Randall321/53842
-#EXTINF:-1 group-title="wicked",FIFA WC 2026 GAME 01
-http://wickediptv.xyz/Randall123/Randall321/340018
-#EXTINF:-1 group-title="wicked",FIFA WC 2026 GAME 02
-http://wickediptv.xyz/Randall123/Randall321/340019
-#EXTINF:-1 group-title="wicked",FIFA WC 2026 GAME 03
-http://wickediptv.xyz/Randall123/Randall321/340017
-#EXTINF:-1 group-title="wicked",FIFA WC 2026 GAME 04
-http://wickediptv.xyz/Randall123/Randall321/340016
-
-
 #EXTINF:-1 group-title="streamtest",CNN
 https://cdn.telecloud.tv/CH4647/index.m3u8
 #EXTINF:-1 group-title="streamtest",USA_5STARMAX
