@@ -12,6 +12,24 @@ http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1203493.mp4&pl
 http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1205119.mp4&play_token=O8fXukaYl7&type=movie&sn2=
 
 
+#EXTINF:-1 group-title="185",True Lies 4K (1994)
+http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1419006.mkv&play_token=r7FetboYJp&type=movie
+#EXTINF:-1 group-title="185",CTV TORONTO HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:82:79:6E&stream=177392&extension=ts&play_token=X3BCMlkKPl
+#EXTINF:-1 group-title="185",CTV 2 TORONTO HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:82:79:6E&stream=177393&extension=ts&play_token=mNd1DPnKyu
+
+
+#EXTINF:-1 group-title="testbestrest",PLAYBOY TV ᴿᴬᵂ
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:C3:29:BA&stream=1460526&extension=ts&play_token=AjnjwPEOL0
+#EXTINF:-1 group-title="testbestrest",EXTREM DE ᴿᴬᵂ
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:C3:29:BA&stream=1460525&extension=ts&play_token=mPnZYPbaan
+#EXTINF:-1 group-title="testbestrest",FREE X ᴿᴬᵂ
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:C3:29:BA&stream=1460517&extension=ts&play_token=18mT9yh449
+#EXTINF:-1 group-title="testbestrest",PASSION XXX ᴿᴬᵂ
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:C3:29:BA&stream=1460508&extension=ts&play_token=9xOq6v80eY
+
+
 #EXTINF:-1 group-title="smarters",VALENTINA_NAPPI - COSPLAY
 http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/256086.mp4
 #EXTINF:-1 group-title="smarters",VALENTINA_NAPPI - Bondage
