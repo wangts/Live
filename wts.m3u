@@ -30,6 +30,16 @@ http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:C3:29:BA&stream=146051
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:C3:29:BA&stream=1460508&extension=ts&play_token=9xOq6v80eY
 
 
+#EXTINF:-1 group-title="eighty-eight",Braveheart
+http://eighty-eight.tv:80/play/movie.php?mac=00:1A:79:79:86:1C&stream=91477.mkv&play_token=MwJcsbkel3&type=movie
+#EXTINF:-1 group-title="eighty-eight",ACTION MAX 1080p
+http://eighty-eight.tv:80/play/live.php?mac=00:1A:79:79:86:1C&stream=45618&extension=ts&play_token=2I8r8n3iBK
+#EXTINF:-1 group-title="eighty-eight",HBO 1080p
+http://eighty-eight.tv:80/play/live.php?mac=00:1A:79:79:86:1C&stream=45549&extension=ts&play_token=BLF6OzE9P1
+#EXTINF:-1 group-title="eighty-eight",HBO 2 1080p
+http://eighty-eight.tv:80/play/live.php?mac=00:1A:79:79:86:1C&stream=45552&extension=ts&play_token=83nTaaIEir
+
+
 #EXTINF:-1 group-title="smarters",VALENTINA_NAPPI - COSPLAY
 http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/256086.mp4
 #EXTINF:-1 group-title="smarters",VALENTINA_NAPPI - Bondage
@@ -42,6 +52,7 @@ http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/258483.mp4
 http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/258495.mp4
 #EXTINF:-1 group-title="smarters",VALENTINA NAPPI - HOT ASS
 http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/257479.mp4
+
 
 #EXTINF:-1 group-title="rjcf",BABES TV
 http://rjcf.ofztvxv.top:8080/live/VIP016511756688706613/a5f55d236bab/158506.m3u8
