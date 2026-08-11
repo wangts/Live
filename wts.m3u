@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="tekno072",UK: ITV 1 ᴴᴰ
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/52841.ts
+#EXTINF:-1 group-title="tekno072",UK:SKY CINEMA Thriller ᴴᴰ
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/23046.ts
+#EXTINF:-1 group-title="tekno072",UK: SKY CINEMA Hits ᴴᴰ
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/71371.ts
+#EXTINF:-1 group-title="tekno072",UK: SKY CINEMA Drama ᴴᴰ
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/156434.ts
+#EXTINF:-1 group-title="tekno072",UK: TCM ᴴᴰ
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/4224.ts
+#EXTINF:-1 group-title="tekno072",UK: EUROSPORTS 1 FHD
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/164433.ts
+#EXTINF:-1 group-title="tekno072",Eurosport 2 HD
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/69916.ts
+#EXTINF:-1 group-title="tekno072",DE: DAZN 1 4K
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/118321.ts
+#EXTINF:-1 group-title="tekno072",DE: DAZN RISE
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/77673.ts
+#EXTINF:-1 group-title="tekno072",TR: EUROSPORT 1 FHD
+http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/145527.ts
+
+
+#EXTINF:-1 group-title="watchhd",sky sports UHD F1 (1)
+http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
+
+
 #EXTINF:-1 group-title="oktivi",True lies
 http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1390248.mkv&play_token=1mI0SVr0CP&type=movie&sn2=
 #EXTINF:-1 group-title="oktivi",HBOMAX ORIGINAL 1 ᴴᴰ
@@ -209,8 +235,6 @@ http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/625687.mkv
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1041757.mkv
 
 
-#EXTINF:-1 group-title="test",sky sports UHD F1 (1)
-http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 #EXTINF:-1 group-title="test",sky sports UHD F1 (2)
 https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
 #EXTINF:-1 group-title="test",duo3
@@ -219,57 +243,57 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/20026/ind
 https://rebrand.ly/pveefn3
 
 
+#EXTINF:-1 group-title="streamtest",5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 group-title="streamtest",ANIMAL PLANET
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 group-title="streamtest",CARTOON NETWORK
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="streamtest",CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 group-title="streamtest",CNN
 https://cdn.telecloud.tv/CH4647/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_5STARMAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_ANIMAL_PLANET
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_CARTOON_NETWORK
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_CINEMAX
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_COMEDY_CENTRAL
+#EXTINF:-1 group-title="streamtest",COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_COOKING
+#EXTINF:-1 group-title="streamtest",COOKING
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_DESTINATION_AMERICA
+#EXTINF:-1 group-title="streamtest",DESTINATION AMERICA
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_DISCOVERY
+#EXTINF:-1 group-title="streamtest",DISCOVERY
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_E
+#EXTINF:-1 group-title="streamtest",E
 http://23.237.104.106:8080/USA_E/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_FOOD_NETWORK
+#EXTINF:-1 group-title="streamtest",FOOD NETWORK
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_FX
+#EXTINF:-1 group-title="streamtest",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_IFC
+#EXTINF:-1 group-title="streamtest",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_MOREMAX
+#EXTINF:-1 group-title="streamtest",MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_MSG
+#EXTINF:-1 group-title="streamtest",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_MTV
+#EXTINF:-1 group-title="streamtest",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_MTV_LIVE
+#EXTINF:-1 group-title="streamtest",MTV LIVE
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_NAT_GEO
+#EXTINF:-1 group-title="streamtest",NAT GEO
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_PARAMOUNT_NETWORK
+#EXTINF:-1 group-title="streamtest",PARAMOUNT NETWORK
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_STARZ
+#EXTINF:-1 group-title="streamtest",STARZ
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_STARZ_CINEMA
+#EXTINF:-1 group-title="streamtest",STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_STARZ_COMEDY
+#EXTINF:-1 group-title="streamtest",STARZ COMEDY
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_SYFY
+#EXTINF:-1 group-title="streamtest",SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_TRUTV
+#EXTINF:-1 group-title="streamtest",TRUTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_VH1
+#EXTINF:-1 group-title="streamtest",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_VICETV
+#EXTINF:-1 group-title="streamtest",VICETV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 group-title="streamtest",USA_WGN
+#EXTINF:-1 group-title="streamtest",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
