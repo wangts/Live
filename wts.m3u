@@ -26,6 +26,59 @@ http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/145527.ts
 http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 
 
+#EXTINF:-1 group-title="yihad",JStar
+https://z3.ubtvfans.com/live/rx3/2909/7ea5f8d0bef36a6a3503e2d148873d07/index.m3u8
+#EXTINF:-1 group-title="yihad",LOOK
+https://z3.ubtvfans.com/live/rx4/2933/612f104a0e7d89b6d6a0fabebc2059e0/index.m3u8
+#EXTINF:-1 group-title="yihad",Sex Girl
+http://125.227.210.55:3031/VideoInput/play.ts
+#EXTINF:-1 group-title="yihad",奧視2台
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="yihad",奧視3台
+http://125.227.210.55:3033/VideoInput/play.ts
+#EXTINF:-1 group-title="yihad",奧視頻道
+https://z3.ubtvfans.com/live/rx5/2915/97f674dacae533e3aea1346bf062d60c/index.m3u8
+#EXTINF:-1 group-title="yihad",奧視頻道2
+https://z3.ubtvfans.com/live/rx5/2916/e6fef1f52b41a9f7c8661ce1a3ac95b8/index.m3u8
+#EXTINF:-1 group-title="yihad",彩虹E (1)
+https://z3.ubtvfans.com/live/rx3/406/03c7100e4af027d56d4a65f2ac40740d/index.m3u8
+#EXTINF:-1 group-title="yihad",彩虹E (2)
+https://z3.ubtvfans.com/live/rx4/2935/e950ccd5217296d1dbe7590e56dc1499/index.m3u8
+#EXTINF:-1 group-title="yihad",彩虹K
+https://z3.ubtvfans.com/live/rx3/415/15b51d347d222d169964b2bcf3535be2/index.m3u8
+#EXTINF:-1 group-title="yihad",彩虹頻道
+https://z3.ubtvfans.com/live/rx5/2914/970e6b93d6cf6a4c26b6adfcc6b05445/index.m3u8
+#EXTINF:-1 group-title="yihad",松視1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 group-title="yihad",松視2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 group-title="yihad",松視3 (1)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+#EXTINF:-1 group-title="yihad",松視3 (2)
+https://z3.ubtvfans.com/live/rx3/404/480fe5db5808b25f8ea2d51ccea17233/index.m3u8
+#EXTINF:-1 group-title="yihad",極限電影
+https://z3.ubtvfans.com/live/rx3/405/fed61aa5af46663a552bfed2bd8c0a3f/index.m3u8
+#EXTINF:-1 group-title="yihad",潘朵啦玩美 (1)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 group-title="yihad",潘朵拉完美 (2)
+https://z3.ubtvfans.com/live/rx3/410/4bed718a67aa82a3c0c30be5919498f7/index.m3u8
+#EXTINF:-1 group-title="yihad",香蕉台 (1)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="yihad",香蕉台 (2)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 group-title="yihad",香蕉台 (3)
+https://z3.ubtvfans.com/live/rx3/2930/6afc9e96b2b744c62a4a0fcbe92f6b7a/index.m3u8
+#EXTINF:-1 group-title="yihad",香蕉台 (4)
+http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 group-title="yihad",驚豔台 (1)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="yihad",驚豔台 (2)
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="yihad",驚豔台 (3)
+http://125.227.210.55:3016/VideoInput/play.ts
+
+
+
 #EXTINF:-1 group-title="oktivi",True lies
 http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1390248.mkv&play_token=1mI0SVr0CP&type=movie&sn2=
 #EXTINF:-1 group-title="oktivi",HBOMAX ORIGINAL 1 ᴴᴰ
