@@ -26,28 +26,29 @@ http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/145527.ts
 http://iptv.watchhd.to:5050/live/YannB/7krzj7gqFiel/475271.m3u8
 
 
-#EXTINF:-1 group-title="yihad",Sex Girl
-http://125.227.210.55:3031/VideoInput/play.ts
-#EXTINF:-1 group-title="yihad",奧視2台
-http://125.227.210.55:1022/VideoInput/play.ts
-#EXTINF:-1 group-title="yihad",奧視3台
-http://125.227.210.55:3033/VideoInput/play.ts
-#EXTINF:-1 group-title="yihad",驚豔台 HD (1)
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 group-title="yihad",驚豔台 HD (2)
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 group-title="yihad",驚豔台 HD (3)
-http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
-#EXTINF:-1 group-title="yihad",潘朵拉完美台 HD
+#EXTINF:-1 group-title="15",Pandora Perfect HD
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 group-title="yihad",松視1台
+#EXTINF:-1 group-title="15",驚豔台 HD (1)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 group-title="15",驚豔台 HD (2)
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 group-title="15",驚豔台 HD (3)
+http://ctrl.yunshipin.bbroot.com:8080/streams/ds7fcf8th2/gc/playlist.m3u8
+#EXTINF:-1 group-title="15",松視1台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 group-title="yihad",松視2台
+#EXTINF:-1 group-title="15",松視2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 group-title="yihad",松視3台
+#EXTINF:-1 group-title="15",松視3台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-#EXTINF:-1 group-title="yihad",香蕉台 HD
+#EXTINF:-1 group-title="15",香蕉台 HD
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+
+#EXTINF:-1 group-title="125",Sex Girl
+http://125.227.210.55:3031/VideoInput/play.ts
+#EXTINF:-1 group-title="125",奧視2台
+http://125.227.210.55:1022/VideoInput/play.ts
+#EXTINF:-1 group-title="125",奧視3台
+http://125.227.210.55:3033/VideoInput/play.ts
 
 
 #EXTINF:-1 group-title="台灣",[V]頻道
