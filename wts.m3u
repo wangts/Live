@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="backup",TSN 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18139&extension=ts&play_token=WjqSQ0IC1b
+#EXTINF:-1 group-title="backup",TSN 2
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18138&extension=ts&play_token=actcRY9N2k
+#EXTINF:-1 group-title="backup",TSN 3
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18137&extension=ts&play_token=R9MovHIgdj
+#EXTINF:-1 group-title="backup",TSN 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18136&extension=ts&play_token=tn2zOJtn6a
+#EXTINF:-1 group-title="backup",TSN 5
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18135&extension=ts&play_token=Rqd75WrYfR
+#EXTINF:-1 group-title="backup",(UK) Sky Sports Football
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=28034&extension=ts&play_token=2nIRpkJuXd
+#EXTINF:-1 group-title="backup",(UK) TNT Sports 4
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=316&extension=ts&play_token=qwlFl2tUoA
+#EXTINF:-1 group-title="backup",(UK) Premier Sports 1
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=313&extension=ts&play_token=S08muPICvR
+#EXTINF:-1 group-title="backup",(UK) Eurosport 1 
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=985&extension=ts&play_token=v5Qwahzvpu
+#EXTINF:-1 group-title="backup",Secret Circle
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=79539&extension=ts&play_token=DpRl9xLjm0
+#EXTINF:-1 group-title="backup",Blacked Raw (1)
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=126871&extension=ts&play_token=6kCUrbLVIl
+#EXTINF:-1 group-title="backup",Blacked Raw (2)
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=126872&extension=ts&play_token=s1C4zApV9M
+
+
 #EXTINF:-1 group-title="tekno072",UK: ITV 1 ᴴᴰ
 http://tekno072.xyz:2095/live/rdd3605tv/rdd3605yy00zz/52841.ts
 #EXTINF:-1 group-title="tekno072",UK:SKY CINEMA Thriller ᴴᴰ
