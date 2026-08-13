@@ -1,5 +1,48 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="8kultradnscloud",CTV TORONTO HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=177392&extension=ts&play_token=cZMpNViIGq
+#EXTINF:-1 group-title="8kultradnscloud",CTV 2 TORONTO HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=177393&extension=ts&play_token=ZlSoxSjW4X
+#EXTINF:-1 group-title="8kultradnscloud",CRAVE 1 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=176936&extension=ts&play_token=HxABhZa32e
+#EXTINF:-1 group-title="8kultradnscloud",CRAVE 2 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=176937&extension=ts&play_token=JtUrN6ep3n
+#EXTINF:-1 group-title="8kultradnscloud",CRAVE 3 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=176938&extension=ts&play_token=QiNBqggLnY
+#EXTINF:-1 group-title="8kultradnscloud",CRAVE 4 HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=176939&extension=ts&play_token=T2ocsmmVEJ
+#EXTINF:-1 group-title="8kultradnscloud",MGM+ HITS HD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=90955&extension=ts&play_token=vTYNmDOz0n
+
+
+#EXTINF:-1 group-title="81",BLACKED
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16013.ts
+#EXTINF:-1 group-title="81",BLUE HUSTLER
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/15962.ts
+#EXTINF:-1 group-title="81",CENTO X CENTO TV
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16150.ts
+#EXTINF:-1 group-title="81",DUSK
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16047.ts
+#EXTINF:-1 group-title="81",FAMILY HOOKUPS
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16001.ts
+#EXTINF:-1 group-title="81",LITTLE CAPRICE
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16004.ts
+#EXTINF:-1 group-title="81",PENTHOUSE PASSION
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16044.ts
+#EXTINF:-1 group-title="81",PRIVATE
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16028.ts
+#EXTINF:-1 group-title="81",PLAYBOY
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16144.ts
+#EXTINF:-1 group-title="81",SECRET CIRCLE TV
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16032.ts
+#EXTINF:-1 group-title="81",TINY 4K UHD
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16151.ts
+#EXTINF:-1 group-title="81",TRUE AMATEURS
+http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/15999.ts
+
+
 #EXTINF:-1 group-title="backup",TSN 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18139&extension=ts&play_token=WjqSQ0IC1b
 #EXTINF:-1 group-title="backup",TSN 2
