@@ -1,26 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="185",True Lies 4K (1994)
+#EXTINF:-1 group-title="185 (55)",CTV TORONTO HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=177392&extension=ts&play_token=kr7FOaoV1P
+#EXTINF:-1 group-title="185 (55)",CTV 2 TORONTO HD
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=177393&extension=ts&play_token=Ml0izqI2Dh
+#EXTINF:-1 group-title="185 (55)",24/7  COMEDY MOVIES
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=559089&extension=ts&play_token=QVExFYxXay
+#EXTINF:-1 group-title="185 (55)",CZECH
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=774038&extension=ts&play_token=9oDFg2RAxO
+
+#EXTINF:-1 group-title="185 (65)",True Lies 4K (1994)
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1419006.mkv&play_token=r7FetboYJp&type=movie
-#EXTINF:-1 group-title="185",CTV TORONTO HD
+#EXTINF:-1 group-title="185 (65)",CTV TORONTO HD
 http://185.80.197.65:80/play/live.php?mac=00:1A:79:82:79:6E&stream=177392&extension=ts&play_token=X3BCMlkKPl
-#EXTINF:-1 group-title="185",CTV 2 TORONTO HD
+#EXTINF:-1 group-title="185 (65)",CTV 2 TORONTO HD
 http://185.80.197.65:80/play/live.php?mac=00:1A:79:82:79:6E&stream=177393&extension=ts&play_token=mNd1DPnKyu
-#EXTINF:-1 group-title="185",[AdultTime] Trans Sensations
+#EXTINF:-1 group-title="185 (65)",[AdultTime] Trans Sensations
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1966622.mp4&play_token=sNGMvoNpAZ&type=movie
-#EXTINF:-1 group-title="185",[DevilsFilm] Menage A Trans 6
+#EXTINF:-1 group-title="185 (65)",[DevilsFilm] Menage A Trans 6
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1981651.mp4&play_token=76yJCTNGf7&type=movie
-#EXTINF:-1 group-title="185",[GenderX] Transgendered Bosses 3
+#EXTINF:-1 group-title="185 (65)",[GenderX] Transgendered Bosses 3
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1987746.mp4&play_token=X5F4kUgel7&type=movie
-#EXTINF:-1 group-title="185",[TransAngels] Angels At Work 2
+#EXTINF:-1 group-title="185 (65)",[TransAngels] Angels At Work 2
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=2006875.mp4&play_token=Rux52Zc1my&type=movie
-#EXTINF:-1 group-title="185",Lena Paul - Ass In A Hammock
+#EXTINF:-1 group-title="185 (65)",Lena Paul - Ass In A Hammock
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=2050081.mp4&play_token=M2X9oCu3JP&type=movie
-#EXTINF:-1 group-title="185",Mandy Muse - Mandy Shows Off Her Tasty Booty Getting DP'd
+#EXTINF:-1 group-title="185 (65)",Mandy Muse - Mandy Shows Off Her Tasty Booty Getting DP'd
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1343412.mp4&play_token=OgXrofyFrt&type=movie
-#EXTINF:-1 group-title="185",Mandy Muse - Dark Haired Babe Has Hot Sex With Her Man
+#EXTINF:-1 group-title="185 (65)",Mandy Muse - Dark Haired Babe Has Hot Sex With Her Man
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=2073784.mp4&play_token=hpmcQdhNkw&type=movie
-#EXTINF:-1 group-title="185",Getting Off
+#EXTINF:-1 group-title="185 (65)",Getting Off
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1981635.mp4&play_token=XbnHXK0dp3&type=movie
 
 
@@ -86,32 +95,6 @@ http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16032.ts
 http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/16151.ts
 #EXTINF:-1 group-title="81",TRUE AMATEURS
 http://81.31.194.66:8880/live/pro3201771175451/a50f6b7e4922/15999.ts
-
-
-#EXTINF:-1 group-title="backup",TSN 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18139&extension=ts&play_token=WjqSQ0IC1b
-#EXTINF:-1 group-title="backup",TSN 2
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18138&extension=ts&play_token=actcRY9N2k
-#EXTINF:-1 group-title="backup",TSN 3
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18137&extension=ts&play_token=R9MovHIgdj
-#EXTINF:-1 group-title="backup",TSN 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18136&extension=ts&play_token=tn2zOJtn6a
-#EXTINF:-1 group-title="backup",TSN 5
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=18135&extension=ts&play_token=Rqd75WrYfR
-#EXTINF:-1 group-title="backup",(UK) Sky Sports Football
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=28034&extension=ts&play_token=2nIRpkJuXd
-#EXTINF:-1 group-title="backup",(UK) TNT Sports 4
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=316&extension=ts&play_token=qwlFl2tUoA
-#EXTINF:-1 group-title="backup",(UK) Premier Sports 1
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=313&extension=ts&play_token=S08muPICvR
-#EXTINF:-1 group-title="backup",(UK) Eurosport 1 
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=985&extension=ts&play_token=v5Qwahzvpu
-#EXTINF:-1 group-title="backup",Secret Circle
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=79539&extension=ts&play_token=DpRl9xLjm0
-#EXTINF:-1 group-title="backup",Blacked Raw (1)
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=126871&extension=ts&play_token=6kCUrbLVIl
-#EXTINF:-1 group-title="backup",Blacked Raw (2)
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:BD:B3:99&stream=126872&extension=ts&play_token=s1C4zApV9M
 
 
 #EXTINF:-1 group-title="tekno072",UK: ITV 1 ᴴᴰ
