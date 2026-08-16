@@ -407,8 +407,11 @@ http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702692&exten
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/18075/index.m3u8
 #EXTINF:-1 group-title="Adult Movie",Liberty
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/16069/index.m3u8
-#EXTINF:-1 group-title="Adult Movie",Sexy Yo880 TV
+#EXTINF:-1 group-title="Adult Movie",Sexy Yo880 TV (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/14176/index.m3u8
+#EXTINF:-1 group-title="Adult Movie",Sexy Yo880 TV (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/14176/index.m3u8
+
 
 #EXTINF:-1 group-title="fomo",CTV Wild
 http://fomo.re/live/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/200382.m3u8
