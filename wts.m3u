@@ -403,10 +403,14 @@ http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702698&exten
 http://45.159.94.49:8080/play/live.php?mac=A0:BB:3E:07:7D:E8&stream=702692&extension=ts&play_token=OnKNewR5d5
 
 
-#EXTINF:-1 group-title="Adult Movie",KNHO 18+
+#EXTINF:-1 group-title="Adult Movie",KNHO 18+ (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/18075/index.m3u8
-#EXTINF:-1 group-title="Adult Movie",Liberty
+#EXTINF:-1 group-title="Adult Movie",KNHO 18+ (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/18075/index.m3u8
+#EXTINF:-1 group-title="Adult Movie",Liberty (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/16069/index.m3u8
+#EXTINF:-1 group-title="Adult Movie",Liberty (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/16069/index.m3u8
 #EXTINF:-1 group-title="Adult Movie",Sexy Yo880 TV (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/14176/index.m3u8
 #EXTINF:-1 group-title="Adult Movie",Sexy Yo880 TV (2)
