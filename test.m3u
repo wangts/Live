@@ -1,36 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="成人",Desire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="成人",Eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Playboy HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="成人",PassionXXX
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 group-title="成人",Leo HD
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Reality Kings HD
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
-
-#EXTINF:-1 group-title="台湾",星影台
-http://77.90.60.172:36633/2/video/index.m3u8
-#EXTINF:-1 group-title="台湾",爆谷台
-http://77.90.60.172:36633/1/video/index.m3u8
-#EXTINF:-1 group-title="台湾",mpd
-http://vfsmartcdn.gb.vodafone.es/sdash/LIVE$CUP203/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVE
-bd0edf91cfab46cebc84e81f4061effd:d9f82dae1c46dc6198637d0735ea39cb
-
-
 #EXTINF:-1 group-title="Adult",21 Naturals (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12169/index.m3u8
 #EXTINF:-1 group-title="Adult",21 Naturals (2)
@@ -43,6 +12,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12169/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12169/index.m3u8
 #EXTINF:-1 group-title="Adult",21 Naturals (6)
 http://88b9da48.kazmazpaz.ru:80/iptv/CWL2N4KECYYAXS/12169/manifest.m3u8
+#EXTINF:-1 group-title="Adult",21 Naturals (7)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12169/index.m3u8
 #EXTINF:-1 group-title="Adult",21 Sextury (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12183/index.m3u8
 #EXTINF:-1 group-title="Adult",21 Sextury (2)
@@ -52,6 +23,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12183/ind
 #EXTINF:-1 group-title="Adult",21 Sextury (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12183/index.m3u8
 #EXTINF:-1 group-title="Adult",21 Sextury (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12183/index.m3u8
+#EXTINF:-1 group-title="Adult",21 Sextury (6)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12111/index.m3u8
 #EXTINF:-1 group-title="Adult",a (food)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/9067/index.m3u8
@@ -65,24 +38,34 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12106/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12204/index.m3u8
 #EXTINF:-1 group-title="Adult",Alba XXX HD1 (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12204/index.m3u8
+#EXTINF:-1 group-title="Adult",Alba XXX HD1 (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12204/index.m3u8
 #EXTINF:-1 group-title="Adult",Alba XXX HD2 (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12194/index.m3u8
 #EXTINF:-1 group-title="Adult",Alba XXX HD2 (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12194/index.m3u8
+#EXTINF:-1 group-title="Adult",Alba XXX HD2 (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12194/index.m3u8
 #EXTINF:-1 group-title="Adult",Alex Legend (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12193/index.m3u8
 #EXTINF:-1 group-title="Adult",Alex Legend (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12193/index.m3u8
+#EXTINF:-1 group-title="Adult",Alex Legend (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12193/index.m3u8
 #EXTINF:-1 group-title="Adult",All Anal (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12192/index.m3u8
 #EXTINF:-1 group-title="Adult",All Anal (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12192/index.m3u8
+#EXTINF:-1 group-title="Adult",All Anal (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12192/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Mom (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12189/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Mom (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12189/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Mom (3)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12189/index.m3u8
+#EXTINF:-1 group-title="Adult",Anal Mom (4)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12189/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Only (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12184/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Only (2)
@@ -91,6 +74,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12184/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12184/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Only (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12184/index.m3u8
+#EXTINF:-1 group-title="Adult",Anal Only (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12184/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Time (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12181/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Time (2)
@@ -99,10 +84,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12181/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12181/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal Time (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12181/index.m3u8
+#EXTINF:-1 group-title="Adult",Anal Time (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12181/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal4K (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12190/index.m3u8
 #EXTINF:-1 group-title="Adult",Anal4K (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12190/index.m3u8
+#EXTINF:-1 group-title="Adult",Anal4K (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12190/index.m3u8
 #EXTINF:-1 group-title="Adult",Analized (1)
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6168/index.m3u8
 #EXTINF:-1 group-title="Adult",Analized (2)
@@ -113,6 +102,8 @@ http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6171/index.m3u8
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6172/index.m3u8
 #EXTINF:-1 group-title="Adult",babes (3)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6172/index.m3u8
+#EXTINF:-1 group-title="Adult",babes (4)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6172/index.m3u8
 #EXTINF:-1 group-title="Adult",Babes TV (1)
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2161/index.m3u8
 #EXTINF:-1 group-title="Adult",Babes TV (2)
@@ -127,10 +118,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12168/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12168/index.m3u8
 #EXTINF:-1 group-title="Adult",Banana Fever (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12168/index.m3u8
+#EXTINF:-1 group-title="Adult",Banana Fever (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12168/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang (1)
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6174/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6174/index.m3u8
+#EXTINF:-1 group-title="Adult",Bang (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6174/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (01)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12166/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (02)
@@ -140,26 +135,34 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12166/ind
 #EXTINF:-1 group-title="Adult",Bang Bros (04)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12166/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (05)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12167/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12166/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (06)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12167/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12167/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (07)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12167/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12167/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (08)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12167/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12167/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (09)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12178/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12167/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (10)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12178/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12167/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (11)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12178/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12178/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (12)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12178/index.m3u8
-#EXTINF:-1 group-title="Adult",Bang Bros (13)
-http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6173/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12178/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (14)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6173/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12178/index.m3u8
 #EXTINF:-1 group-title="Adult",Bang Bros (15)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12178/index.m3u8
+#EXTINF:-1 group-title="Adult",Bang Bros (16)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12178/index.m3u8
+#EXTINF:-1 group-title="Adult",Bang Bros (17)
+http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6173/index.m3u8
+#EXTINF:-1 group-title="Adult",Bang Bros (18)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6173/index.m3u8
+#EXTINF:-1 group-title="Adult",Bang Bros (19)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6173/index.m3u8
+#EXTINF:-1 group-title="Adult",Bang Bros (20)
 http://88b9da48.kazmazpaz.ru:80/iptv/Q3DW57VGFFQMKZ/6235/manifest.m3u8
 #EXTINF:-1 group-title="Adult",BBC Pie (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12164/index.m3u8
@@ -169,6 +172,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12164/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12164/index.m3u8
 #EXTINF:-1 group-title="Adult",BBC Pie (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12164/index.m3u8
+#EXTINF:-1 group-title="Adult",BBC Pie (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12164/index.m3u8
 #EXTINF:-1 group-title="Adult",Beate Uhse TV (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8APCR5PZS8WVK4/12163/index.m3u8
 #EXTINF:-1 group-title="Adult",Beate Uhse TV (2)
@@ -177,6 +182,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12163/ind
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6178/index.m3u8
 #EXTINF:-1 group-title="Adult",Blacked (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6178/index.m3u8
+#EXTINF:-1 group-title="Adult",Blacked (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6178/index.m3u8
 #EXTINF:-1 group-title="Adult",Brand New Amateurs (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/12162/index.m3u8
 #EXTINF:-1 group-title="Adult",Brand New Amateurs (2)
@@ -198,6 +205,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12128/ind
 #EXTINF:-1 group-title="Adult",Brazzers (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6192/index.m3u8
 #EXTINF:-1 group-title="Adult",Brazzers (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6192/index.m3u8
+#EXTINF:-1 group-title="Adult",Brazzers (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6222/index.m3u8
 #EXTINF:-1 group-title="Adult",Brazzers TV Europe (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12113/index.m3u8
@@ -213,14 +222,20 @@ http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/910/manifest.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/CWL2N4KECYYAXS/910/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Brazzers TV Europe (8)
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
-#EXTINF:-1 group-title="Adult",Cherry Pimps
+#EXTINF:-1 group-title="Adult",Cherry Pimps (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6185/index.m3u8
+#EXTINF:-1 group-title="Adult",Cherry Pimps (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6185/index.m3u8
 #EXTINF:-1 group-title="Adult",Club Sweet Hearts (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6186/index.m3u8
 #EXTINF:-1 group-title="Adult",Club Sweet Hearts (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6186/index.m3u8
-#EXTINF:-1 group-title="Adult",Cum Louder
+#EXTINF:-1 group-title="Adult",Club Sweet Hearts (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6186/index.m3u8
+#EXTINF:-1 group-title="Adult",Cum Louder (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6189/index.m3u8
+#EXTINF:-1 group-title="Adult",Cum Louder (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6189/index.m3u8
 #EXTINF:-1 group-title="Adult",Cum Perfection (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/12158/index.m3u8
 #EXTINF:-1 group-title="Adult",Cum Perfection (2)
@@ -275,14 +290,20 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12138/ind
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
 #EXTINF:-1 group-title="Adult",Devils Film
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12137/index.m3u8
-#EXTINF:-1 group-title="Adult",Digital Desire
+#EXTINF:-1 group-title="Adult",Digital Desire (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6195/index.m3u8
-#EXTINF:-1 group-title="Adult",Digital Playground
+#EXTINF:-1 group-title="Adult",Digital Desire (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6195/index.m3u8
+#EXTINF:-1 group-title="Adult",Digital Playground (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6196/index.m3u8
+#EXTINF:-1 group-title="Adult",Digital Playground (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6196/index.m3u8
 #EXTINF:-1 group-title="Adult",Dirty Flix
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12130/index.m3u8
-#EXTINF:-1 group-title="Adult",Dorcel Club
+#EXTINF:-1 group-title="Adult",Dorcel Club (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6197/index.m3u8
+#EXTINF:-1 group-title="Adult",Dorcel Club (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6197/index.m3u8
 #EXTINF:-1 group-title="Adult",Dorcel TV (1)
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
 #EXTINF:-1 group-title="Adult",Dorcel TV (2)
@@ -296,8 +317,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF
 #EXTINF:-1 group-title="Adult",Dorcel TV (6)
 http://d029dcec.kazmazpaz.ru/iptv/CWL2N4KECYYAXS/245/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Dorcel TV (7)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/9064/index.m3u8
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/245/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Dorcel TV (8)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/9064/index.m3u8
+#EXTINF:-1 group-title="Adult",Dorcel TV (9)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12131/index.m3u8
 #EXTINF:-1 group-title="Adult",Eroluxe Big Cock
 http://ottlinks.club/hls/7jic59vkp2tz/1709.m3u8 
@@ -327,10 +350,14 @@ http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/5015/manifest.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/5015/index.m3u8
 #EXTINF:-1 group-title="Adult",EroXXX HD (5)
 http://d029dcec.kazmazpaz.ru/iptv/CWL2N4KECYYAXS/5015/manifest.m3u8
-#EXTINF:-1 group-title="Adult",Evil Angel
+#EXTINF:-1 group-title="Adult",Evil Angel (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6199/index.m3u8
-#EXTINF:-1 group-title="Adult",Evolved Fights
+#EXTINF:-1 group-title="Adult",Evil Angel (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6199/index.m3u8
+#EXTINF:-1 group-title="Adult",Evolved Fights (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6200/index.m3u8
+#EXTINF:-1 group-title="Adult",Evolved Fights (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6200/index.m3u8
 #EXTINF:-1 group-title="Adult",Exotic 4K (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/12107/index.m3u8
 #EXTINF:-1 group-title="Adult",Exotic Spice (1)
@@ -355,12 +382,16 @@ http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/2397/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/2397/index.m3u8
 #EXTINF:-1 group-title="Adult",Exxxotica (7)
 http://200.115.120.1:8000/play/ca96/index.m3u8
-#EXTINF:-1 group-title="Adult",Fake Taxi
+#EXTINF:-1 group-title="Adult",Fake Taxi (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6202/index.m3u8
+#EXTINF:-1 group-title="Adult",Fake Taxi (2)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6202/index.m3u8
 #EXTINF:-1 group-title="Adult",Family Boxxx (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12191/index.m3u8
 #EXTINF:-1 group-title="Adult",Family Boxxx (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12191/index.m3u8
+#EXTINF:-1 group-title="Adult",Family Boxxx (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12191/index.m3u8
 #EXTINF:-1 group-title="Adult",Family Strokes (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FU4CGXPMSELRBH9ZM8WPEQN6/12156/index.m3u8
 #EXTINF:-1 group-title="Adult",Family Strokes (2)
@@ -383,6 +414,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12165/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12165/index.m3u8
 #EXTINF:-1 group-title="Adult",FTV Girls (3)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12165/index.m3u8
+#EXTINF:-1 group-title="Adult",FTV Girls (4)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12165/index.m3u8
 #EXTINF:-1 group-title="Adult",Gay TV HD
 http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
 #EXTINF:-1 group-title="Adult",HardX
@@ -409,6 +442,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12187/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12187/index.m3u8
 #EXTINF:-1 group-title="Adult",Hot Wife XXX (4)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12187/index.m3u8
+#EXTINF:-1 group-title="Adult",Hot Wife XXX (5)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12187/index.m3u8
 #EXTINF:-1 group-title="Adult",Hustler HD (2)
 http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/244/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Hustler HD (3)
@@ -417,6 +452,8 @@ http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/244/index.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/244/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Hustler HD (5)
 http://d029dcec.kazmazpaz.ru/iptv/CWL2N4KECYYAXS/244/manifest.m3u8
+#EXTINF:-1 group-title="Adult",Hustler HD (6)
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/244/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Japan HDV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F4URVM6SNC3CDSWFTYCR3XL3/6225/index.m3u8
 #EXTINF:-1 group-title="Adult",Kin XXX (1)
@@ -517,6 +554,8 @@ http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/243/manifest.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/243/index.m3u8
 #EXTINF:-1 group-title="Adult",Private HD (5)
 http://d029dcec.kazmazpaz.ru/iptv/CWL2N4KECYYAXS/243/manifest.m3u8
+#EXTINF:-1 group-title="Adult",Private HD (6)
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/243/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Reality Kings TV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult",Red Lips (1)
@@ -529,6 +568,8 @@ http://88b9da48.kazmazpaz.ru:80/iptv/Q3DW57VGFFQMKZ/6281/manifest.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/9066/index.m3u8
 #EXTINF:-1 group-title="Adult",Redlight HD (3)
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/242/index.m3u8
+#EXTINF:-1 group-title="Adult",Redlight HD (4)
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/242/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Russia Night (1)
 http://d029dcec.kazmazpaz.ru/iptv/KSA9NQPG94YUMQ/147/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Russia Night (2)
@@ -539,10 +580,14 @@ http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/147/manifest.m3u8
 http://d029dcec.kazmazpaz.ru/iptv/CWL2N4KECYYAXS/147/manifest.m3u8
 #EXTINF:-1 group-title="Adult",Russia Night (5)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/9344/index.m3u8
+#EXTINF:-1 group-title="Adult",Russia Night (6)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/9344/index.m3u8
 #EXTINF:-1 group-title="Adult",SexArt (1)
 http://aebd0e3f.akadatel.com/iptv/AYYSWWLWY9MHT9W4YNWLDZM4/6165/index.m3u8
 #EXTINF:-1 group-title="Adult",SexArt (2)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5KBMASNPFP7ACARQDCWFNMF/6165/index.m3u8
+#EXTINF:-1 group-title="Adult",SexArt (3)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/6165/index.m3u8
 #EXTINF:-1 group-title="Adult",Sexy Hot (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/6282/index.m3u8
 #EXTINF:-1 group-title="Adult",Sexy Hot (3)
@@ -559,6 +604,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YPYAYTZV9TYE5V/12188/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/12188/index.m3u8
 #EXTINF:-1 group-title="Adult",Tushy (5)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H9QPUTMHUAMY5Y/12188/index.m3u8
+#EXTINF:-1 group-title="Adult",Tushy (6)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/12188/index.m3u8
 #EXTINF:-1 group-title="Adult",Venus TV (1)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NX4R48ZBQKCMCF/6284/index.m3u8
 #EXTINF:-1 group-title="Adult",Venus TV (3)
