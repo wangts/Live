@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",FashionTV 4K UHD
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/103958?play_token=iS8Zu5rWjj
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Switzerland susi.live 4+
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/62533?play_token=awcwiMpr8l
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Switzerland susi.live 1
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/84430?play_token=sMM4beeWIQ
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Switzerland susi.live TV24
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/6860?play_token=K7pk7mZEDR
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Switzerland susi.live TV25
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/6859?play_token=SGsYItKaQT
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Mofos
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/78698?play_token=vf8RPTxFXl
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Gangbang Creampie
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/78730?play_token=QN11S9gBCU
-#EXTINF:-1 group-title="iiiiiiiillllaaaaa",Pure Babes
-http://iiiiiiiillllaaaaaiiiiiiiillllaaaaa.cdnip.online:8080/Bnyqp8Gvxo/ZUqYmG3nrw/104829?play_token=K3QkSygnk3
-
-
 #EXTINF:-1 group-title="neorcqds",RUSSIAN NIGHT
 http://neorcqds.top:8080/live/2061767338685/e06c9dae238c/73822.ts
 
@@ -30,6 +12,7 @@ http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=177393&extens
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=559089&extension=ts&play_token=QVExFYxXay
 #EXTINF:-1 group-title="185 (55)",CZECH
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:E4&stream=774038&extension=ts&play_token=9oDFg2RAxO
+
 
 #EXTINF:-1 group-title="185 (65)",True Lies 4K (1994)
 http://185.80.197.65:80/play/movie.php?mac=00:1A:79:82:79:6E&stream=1419006.mkv&play_token=r7FetboYJp&type=movie
@@ -170,132 +153,6 @@ http://125.227.210.55:1022/VideoInput/play.ts
 http://125.227.210.55:3033/VideoInput/play.ts
 
 
-#EXTINF:-1 group-title="台灣",[V]頻道
-http://125.227.210.55:4043/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",ANIMAX
-http://125.227.210.55:3056/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",AXN
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",BBC NEWS
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",Bloomberg
-http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",CINEMAX
-http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",cna
-http://125.227.210.55:4044/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",CNBC
-http://125.227.210.55:1002/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",CNN
-http://125.227.210.55:3026/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",CN卡通頻道
-http://125.227.210.55:3027/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",HBO
-http://125.227.210.55:3013/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",Taiwan Plus
-http://125.227.210.55:3083/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",TLC旅遊生活
-http://125.227.210.55:4047/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",TVBS
-http://125.227.210.55:3048/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",TVBS新聞
-http://125.227.210.55:3046/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",TVBS歡樂
-http://125.227.210.55:3047/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",三立台灣
-http://125.227.210.55:3020/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",三立新聞
-http://125.227.210.55:3022/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",中天娛樂
-http://125.227.210.55:3044/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",中天綜合
-http://125.227.210.55:4048/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",中視
-http://125.227.210.55:3049/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",中視新聞
-http://125.227.210.55:3079/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",中視經典
-http://125.227.210.55:3080/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",中視菁采
-http://125.227.210.55:3081/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",八大第一
-http://125.227.210.55:1085/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",公視
-http://125.227.210.55:3024/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",公視台語
-http://125.227.210.55:3082/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",動物星球
-http://125.227.210.55:3054/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",博斯網球
-http://125.227.210.55:3060/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",博斯運動I
-http://125.227.210.55:8173/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",博斯運動II
-http://125.227.210.55:3061/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",博斯高球I
-http://125.227.210.55:3059/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",原住民電視
-http://125.227.210.55:3088/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",台視
-http://125.227.210.55:3018/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",台視新聞
-http://125.227.210.55:3089/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",台視綜合
-http://125.227.210.55:3091/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",台視財經
-http://125.227.210.55:3090/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",國會頻道1
-http://125.227.210.55:3094/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",國會頻道2
-http://125.227.210.55:3095/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",好萊塢電影
-http://125.227.210.55:4049/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",客家電視
-http://125.227.210.55:3087/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",小公視
-http://125.227.210.55:3086/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",探索亞洲
-http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森幼幼
-http://125.227.210.55:4052/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森新聞
-http://125.227.210.55:4046/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森洋片 (1)
-http://125.227.210.55:3055/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森洋片 (2)
-http://125.227.210.55:3078/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森財經新聞
-http://125.227.210.55:4051/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森超視
-http://125.227.210.55:1087/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",東森電影
-http://125.227.210.55:3052/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",民視
-http://125.227.210.55:8093/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",民視台灣台
-http://125.227.210.55:3085/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",民視新聞
-http://125.227.210.55:3017/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",民視第一台
-http://125.227.210.55:3084/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",緯來日本
-http://125.227.210.55:1083/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",緯來電影
-http://125.227.210.55:1082/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",緯來體育
-http://125.227.210.55:7155/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",華視
-http://125.227.210.55:8163/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",華視教育體育文化
-http://125.227.210.55:3092/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",華視新聞資訊
-http://125.227.210.55:3093/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",非凡新聞
-http://125.227.210.55:1086/VideoInput/play.ts
-#EXTINF:-1 group-title="台灣",龍祥時代
-http://125.227.210.55:1084/VideoInput/play.ts
-
-
 #EXTINF:-1 group-title="oktivi",True lies
 http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1390248.mkv&play_token=1mI0SVr0CP&type=movie&sn2=
 #EXTINF:-1 group-title="oktivi",HBOMAX ORIGINAL 1 ᴴᴰ
@@ -306,9 +163,6 @@ http://oktivi.site:80/play/live.php?mac=00:1A:79:33:DB:DB&stream=629309&extensio
 http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1203493.mp4&play_token=FNqxyncj5E&type=movie&sn2=
 #EXTINF:-1 group-title="oktivi",Riley Reid & Teanna Trump - Hot Girl Summer
 http://oktivi.site:80/play/movie.php?mac=00:1A:79:33:DB:DB&stream=1205119.mp4&play_token=O8fXukaYl7&type=movie&sn2=
-
-
-
 
 
 #EXTINF:-1 group-title="testbestrest",PLAYBOY TV ᴿᴬᵂ
@@ -454,14 +308,12 @@ http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/299478.mkv
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/251923.mkv
 #EXTINF:-1 group-title="fomo",True Lies 1080p
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/221805.mkv
-
 #EXTINF:-1 group-title="fomo",cs.24.06.21.1000.1st.visit.1080p
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/318606.mkv
 #EXTINF:-1 group-title="fomo",cs.24.03.29.Xia.Secrets.2nd.visit.1080p
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/315965.mkv
 #EXTINF:-1 group-title="fomo",cs.23.03.22.Paisley.Aimes.1st.visit.1080p
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/310413.mkv
-
 #EXTINF:-1 group-title="fomo",cs.24.08.09.1001.2nd.visit.1080p
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/318719.mkv
 #EXTINF:-1 group-title="fomo",cs.24.07.19.AK-47.5th.visit.1080p
@@ -497,6 +349,7 @@ http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=117761.mkv&
 #EXTINF:-1 group-title="204",True Lies (1994) 4K [FR]
 http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=1301157.mkv&play_token=drWuBx6nG6&type=movie&sn2=
 
+
 #EXTINF:-1 group-title="tigerkanaler2",Adult Movie - The Anal Authority Chanel Preston
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1087579.mp4
 #EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Rich Bitch (2021)
@@ -505,14 +358,6 @@ http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/826009.mp4
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/625687.mkv
 #EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Fäbodjäntan (1978)
 http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1041757.mkv
-
-
-#EXTINF:-1 group-title="test",sky sports UHD F1 (2)
-https://iptv.852851.xyz/l/C_W4qjCgNe7XNt61e-fXnIP5eRs8lOvOp_bRuobVpjQMa6Q6tFjr4hpULvMcFPzq/index.m3u8
-#EXTINF:-1 group-title="test",duo3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/20026/index.m3u8
-#EXTINF:-1 group-title="test",ViuTV HK
-https://rebrand.ly/pveefn3
 
 
 #EXTINF:-1 group-title="streamtest",5STARMAX
@@ -569,3 +414,129 @@ http://23.237.104.106:8080/USA_VH1/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 group-title="streamtest",WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+
+
+#EXTINF:-1 group-title="台灣",[V]頻道
+http://125.227.210.55:4043/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",ANIMAX
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",AXN
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",BBC NEWS
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",Bloomberg
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CINEMAX
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",cna
+http://125.227.210.55:4044/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CNBC
+http://125.227.210.55:1002/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CNN
+http://125.227.210.55:3026/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",CN卡通頻道
+http://125.227.210.55:3027/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",HBO
+http://125.227.210.55:3013/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",Taiwan Plus
+http://125.227.210.55:3083/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TLC旅遊生活
+http://125.227.210.55:4047/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TVBS
+http://125.227.210.55:3048/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://125.227.210.55:3046/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",TVBS歡樂
+http://125.227.210.55:3047/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",三立台灣
+http://125.227.210.55:3020/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",三立新聞
+http://125.227.210.55:3022/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中天娛樂
+http://125.227.210.55:3044/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中天綜合
+http://125.227.210.55:4048/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視
+http://125.227.210.55:3049/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視新聞
+http://125.227.210.55:3079/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視經典
+http://125.227.210.55:3080/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",中視菁采
+http://125.227.210.55:3081/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",八大第一
+http://125.227.210.55:1085/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",公視
+http://125.227.210.55:3024/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",公視台語
+http://125.227.210.55:3082/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",動物星球
+http://125.227.210.55:3054/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯網球
+http://125.227.210.55:3060/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯運動I
+http://125.227.210.55:8173/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯運動II
+http://125.227.210.55:3061/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",博斯高球I
+http://125.227.210.55:3059/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",原住民電視
+http://125.227.210.55:3088/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視
+http://125.227.210.55:3018/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視新聞
+http://125.227.210.55:3089/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視綜合
+http://125.227.210.55:3091/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",台視財經
+http://125.227.210.55:3090/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",國會頻道1
+http://125.227.210.55:3094/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",國會頻道2
+http://125.227.210.55:3095/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",好萊塢電影
+http://125.227.210.55:4049/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",客家電視
+http://125.227.210.55:3087/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",小公視
+http://125.227.210.55:3086/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",探索亞洲
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森幼幼
+http://125.227.210.55:4052/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森新聞
+http://125.227.210.55:4046/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森洋片 (1)
+http://125.227.210.55:3055/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森洋片 (2)
+http://125.227.210.55:3078/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森財經新聞
+http://125.227.210.55:4051/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森超視
+http://125.227.210.55:1087/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",東森電影
+http://125.227.210.55:3052/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視
+http://125.227.210.55:8093/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視台灣台
+http://125.227.210.55:3085/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視新聞
+http://125.227.210.55:3017/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",民視第一台
+http://125.227.210.55:3084/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",緯來日本
+http://125.227.210.55:1083/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",緯來電影
+http://125.227.210.55:1082/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",緯來體育
+http://125.227.210.55:7155/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",華視
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",華視教育體育文化
+http://125.227.210.55:3092/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",華視新聞資訊
+http://125.227.210.55:3093/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",非凡新聞
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 group-title="台灣",龍祥時代
+http://125.227.210.55:1084/VideoInput/play.ts
