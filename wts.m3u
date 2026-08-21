@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="iptvnow",Mike & Nick & Nick & Alice 4K (2026)
+http://iptvnow.nl:80/play/movie.php?mac=00:1A:79:74:ED:60&stream=2047207.mkv&play_token=fFJGVsoU2G&type=movie
+
+
 #EXTINF:-1 group-title="globaltv1",PORNBOX 4K: BAEB
 http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609814&extension=ts&play_token=Jo8YVMliaB
 #EXTINF:-1 group-title="globaltv1",PORNBOX 4K: SPY FAM
@@ -267,7 +271,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PRSR9LHDDY6XNX/14176/ind
 http://fomo.re/live/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/200382.m3u8
 #EXTINF:-1 group-title="fomo",The Sports Network 1
 http://fomo.re/live/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/200426.m3u8
-
 #EXTINF:-1 group-title="fomo",Braveheart
 http://fomo.re/movie/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/134150.mkv
 #EXTINF:-1 group-title="fomo",The Dreamers
@@ -318,16 +321,6 @@ http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=108696.mp4&
 http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=117761.mkv&play_token=F2AyOKuRjH&type=movie&sn2=
 #EXTINF:-1 group-title="204",True Lies (1994) 4K [FR]
 http://204.52.191.254:80/play/movie.php?mac=00:1A:79:81:BA:5F&stream=1301157.mkv&play_token=drWuBx6nG6&type=movie&sn2=
-
-
-#EXTINF:-1 group-title="tigerkanaler2",Adult Movie - The Anal Authority Chanel Preston
-http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1087579.mp4
-#EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Rich Bitch (2021)
-http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/826009.mp4
-#EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Exterior Group Sex (2021)
-http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/625687.mkv
-#EXTINF:-1 group-title="tigerkanaler2",Adult Movie - Fäbodjäntan (1978)
-http://tigerkanaler2.loginto.me:8080/movie/LJTeoqDpw38t/FYvwNKeroeIo/1041757.mkv
 
 
 #EXTINF:-1 group-title="streamtest",5STARMAX
