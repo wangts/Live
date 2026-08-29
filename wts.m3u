@@ -1,5 +1,41 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="91.208",CTV TORONTO
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907256&extension=ts&play_token=MH1iD38x7B
+#EXTINF:-1 group-title="91.208",CBC TORONTO
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907314&extension=ts&play_token=YL3TP8nBTa
+#EXTINF:-1 group-title="91.208",GLOBAL TORONTO
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907306&extension=ts&play_token=am64xMCa0D
+#EXTINF:-1 group-title="91.208",CA HBO 1 HD
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907604&extension=ts&play_token=IsI2A6Caeo
+#EXTINF:-1 group-title="91.208",CA HBO 2 HD
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907605&extension=ts&play_token=7F68r5MkSW
+#EXTINF:-1 group-title="91.208",MOVIETIME HD
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907618&extension=ts&play_token=AzsPIFx39f
+#EXTINF:-1 group-title="91.208",TNT HD [EAST]
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=855455&extension=ts&play_token=DdGcvJdpwk
+#EXTINF:-1 group-title="91.208",EUPHORIA
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=1369859&extension=ts&play_token=4gsxmWI6dF
+#EXTINF:-1 group-title="91.208",FRIENDS
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=1382274&extension=ts&play_token=xoKL30mdO1
+#EXTINF:-1 group-title="91.208",HOUSE OF CARDS
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=1369868&extension=ts&play_token=fN8edaGHzt
+#EXTINF:-1 group-title="91.208",FRESH PORNO 8 HD
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=944077&extension=ts&play_token=BGIXootOyh
+#EXTINF:-1 group-title="91.208",DDF NETWORK
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=686421&extension=ts&play_token=j5oCLro3HG
+#EXTINF:-1 group-title="91.208",DESPERATE PLEASURE
+http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=675116&extension=ts&play_token=RILgfNydE3
+#EXTINF:-1 group-title="91.208",Mortal Kombat II - 2026
+http://91.208.115.23:80/play/movie.php?mac=00:1B:79:4A:48:55&stream=1804579.mkv&play_token=uJdeKaWuTQ&type=movie
+
+
+#EXTINF:-1 group-title="mag7070",21 MIXED 1
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:BA:62:A2&stream=686433&extension=ts&play_token=hErMSnTajz
+#EXTINF:-1 group-title="mag7070",ASSPARADE FHD
+http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:BA:62:A2&stream=675137&extension=ts&play_token=9L99viQCO5
+
+
 #EXTINF:-1 group-title="hottest",REDBOX ADULT 37 TV
 http://hottest.plus:80/play/live.php?mac=00:1B:79:33:79:29&stream=774003&extension=ts&play_token=o1DOiWkkFK
 
