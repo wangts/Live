@@ -1,5 +1,45 @@
 #EXTM3U
 
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1430509&extension=ts&play_token=2uqWcaQhOe
+#EXTINF:-1 group-title="alpha-ott1",CINEMANIA HOLLYWOOD 4K
+#EXTINF:-1 group-title="alpha-ott1",SKY CINEMA ACTION HEVC FHD
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1458806&extension=ts&play_token=naRuPkstdb
+#EXTINF:-1 group-title="alpha-ott1",SKY CINEMA PREMIER HEVC FHD
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1458800&extension=ts&play_token=yvS3j7OyCM
+#EXTINF:-1 group-title="alpha-ott1",PRIME VIDEO SERIE 3 ᴴᴰ
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1917817&extension=ts&play_token=Xyc8VFhQG3
+#EXTINF:-1 group-title="alpha-ott1",CALIFORNICATION
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=976579&extension=ts&play_token=9HofvaoxUF
+#EXTINF:-1 group-title="alpha-ott1",EVERYBODY LOVES RAYMOND
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=976552&extension=ts&play_token=LiDSf2aHsS
+#EXTINF:-1 group-title="alpha-ott1",FRIENDS
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=976554&extension=ts&play_token=MXo4oRqHvr
+#EXTINF:-1 group-title="alpha-ott1",GAME OF THRONES
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=976532&extension=ts&play_token=uwt3Y1WGTH
+#EXTINF:-1 group-title="alpha-ott1",SEINFELD
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=976569&extension=ts&play_token=2SWBoQ83DK
+#EXTINF:-1 group-title="alpha-ott1",TWO AND A HALF MEN
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=976576&extension=ts&play_token=il20FMdOBv
+#EXTINF:-1 group-title="alpha-ott1",JAMES BOND
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=559542&extension=ts&play_token=CRLGZAAZks
+#EXTINF:-1 group-title="alpha-ott1",[4K] Maids On Duty 2
+http://alpha-ott1.me:80/play/movie.php?mac=A0:BB:3E:03:B0:04&stream=1985658.mp4&play_token=C1SIeZ07Du&type=movie
+#EXTINF:-1 group-title="alpha-ott1",[4K] The Bottom Floor: Second Coming
+http://alpha-ott1.me:80/play/movie.php?mac=A0:BB:3E:03:B0:04&stream=1980226.mp4&play_token=WUZaz6fyf4&type=movie
+#EXTINF:-1 group-title="alpha-ott1",[4K] My Anal Intern 2
+http://alpha-ott1.me:80/play/movie.php?mac=A0:BB:3E:03:B0:04&stream=1985657.mp4&play_token=f1scmhr39M&type=movie
+#EXTINF:-1 group-title="alpha-ott1",[4K] Street Whores 2
+http://alpha-ott1.me:80/play/movie.php?mac=A0:BB:3E:03:B0:04&stream=683775.mp4&play_token=YaVhqhdm9c&type=movie
+#EXTINF:-1 group-title="alpha-ott1",PENTHOUSE GOLD
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=774070&extension=ts&play_token=8Teuom7ax2
+#EXTINF:-1 group-title="alpha-ott1",PLAYBOY
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=774034&extension=ts&play_token=zWgNParMII
+#EXTINF:-1 group-title="alpha-ott1",SCORE GROUP
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=777864&extension=ts&play_token=1u8fSgu2ci
+#EXTINF:-1 group-title="alpha-ott1",REDLIGHT
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=774033&extension=ts&play_token=qiHcD4vuUB
+
+
 #EXTINF:-1 group-title="91.208",CTV TORONTO
 http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=907256&extension=ts&play_token=MH1iD38x7B
 #EXTINF:-1 group-title="91.208",CBC TORONTO
