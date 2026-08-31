@@ -1,5 +1,75 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="onair8k",CALIFORNICATION
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=976579&extension=ts&play_token=TTbVyypwPE
+#EXTINF:-1 group-title="onair8k",FRIENDS
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=976554&extension=ts&play_token=2qQSznTOY6
+#EXTINF:-1 group-title="onair8k",CTV TORONTO
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=177392&extension=ts&play_token=QP1aO1Rk3J
+#EXTINF:-1 group-title="onair8k",CTV 2 TORONTO
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=177393&extension=ts&play_token=tkPXeBSeEt
+#EXTINF:-1 group-title="onair8k",GLOBAL TORONTO
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=177404&extension=ts&play_token=PzmbMlBikH
+#EXTINF:-1 group-title="onair8k",CRAVE 1
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176936&extension=ts&play_token=SWhVJ7ISJM
+#EXTINF:-1 group-title="onair8k",CRAVE 2
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176937&extension=ts&play_token=IRaXEtpngy
+#EXTINF:-1 group-title="onair8k",CRAVE 3
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176938&extension=ts&play_token=ZpZ04HcaCr
+#EXTINF:-1 group-title="onair8k",CRAVE 4
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176939&extension=ts&play_token=WiwLzDJzI3
+#EXTINF:-1 group-title="onair8k",CA HBO 1
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176913&extension=ts&play_token=JqJxBAZpLu
+#EXTINF:-1 group-title="onair8k",CA HBO 2
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176914&extension=ts&play_token=L4QCtl95Lj
+#EXTINF:-1 group-title="onair8k",HBO
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45549&extension=ts&play_token=UManid0cJ3
+#EXTINF:-1 group-title="onair8k",HBO 2
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45552&extension=ts&play_token=YhH0XVOz0I
+#EXTINF:-1 group-title="onair8k",HBO ZONE
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45546&extension=ts&play_token=3ZwY5UyI1q
+#EXTINF:-1 group-title="onair8k",HBO SIGNATURE
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45547&extension=ts&play_token=tNJyeUTzuC
+#EXTINF:-1 group-title="onair8k",HBO CHANNEL
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=1034767&extension=ts&play_token=3KsO378XVA
+#EXTINF:-1 group-title="onair8k",HBOMAX ORIGINAL 14
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=1095483&extension=ts&play_token=k9DlekDDVG
+#EXTINF:-1 group-title="onair8k",MGM+
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45582&extension=ts&play_token=HWcIJ2dLC7
+#EXTINF:-1 group-title="onair8k",MGM+ HITS
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=90955&extension=ts&play_token=xyAeqgDESb
+#EXTINF:-1 group-title="onair8k",SHOWTIME
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45503&extension=ts&play_token=5ZRq5kCxO6
+#EXTINF:-1 group-title="onair8k",SHOWTIME 2
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45505&extension=ts&play_token=w9DoYnxAHc
+#EXTINF:-1 group-title="onair8k",SHOWTIME EXTREME
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=91887&extension=ts&play_token=2OpT5x3Nt8
+#EXTINF:-1 group-title="onair8k",SHOWTIME NEXT
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=92019&extension=ts&play_token=pti64cMngA
+#EXTINF:-1 group-title="onair8k",SHOWTIME SHOWCASE
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45502&extension=ts&play_token=qgv9CB1oK2
+#EXTINF:-1 group-title="onair8k",STARZ
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45480&extension=ts&play_token=tWRwweRlDT
+#EXTINF:-1 group-title="onair8k",STARZ CINEMA
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45496&extension=ts&play_token=yhtehetWYp
+#EXTINF:-1 group-title="onair8k",STARZ EDGE
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45492&extension=ts&play_token=oRxvSQOWIC
+#EXTINF:-1 group-title="onair8k",STARZ ENCORE ACTION
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45489&extension=ts&play_token=UCfZrW0KT9
+#EXTINF:-1 group-title="onair8k",ACTION MAX
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45618&extension=ts&play_token=lMnOuvIpeJ
+#EXTINF:-1 group-title="onair8k",CINEMAX EAST
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45598&extension=ts&play_token=Af0w77RS7C
+#EXTINF:-1 group-title="onair8k",CINEMAX ACTION EAST
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45599&extension=ts&play_token=PRQfhG0wlY
+#EXTINF:-1 group-title="onair8k",CINEMAX MOREMAX
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45596&extension=ts&play_token=wib6qB32KX
+#EXTINF:-1 group-title="onair8k",SONY MOVIE CHANNEL
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=91789&extension=ts&play_token=wIUoCApnz9
+#EXTINF:-1 group-title="onair8k",THE MOVIE CHANNEL
+http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=91889&extension=ts&play_token=EqQ2UQwbUL
+
+
 #EXTINF:-1 group-title="alpha-ott1",CINEMANIA HOLLYWOOD 4K
 http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1430509&extension=ts&play_token=2uqWcaQhOe
 #EXTINF:-1 group-title="alpha-ott1",SKY CINEMA ACTION HEVC FHD
@@ -162,9 +232,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=176
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=176939&extension=ts&play_token=T2ocsmmVEJ
 #EXTINF:-1 group-title="8kultradnscloud",MGM+ HITS HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B3:8A:FE&stream=90955&extension=ts&play_token=vTYNmDOz0n
-
-
-
 
 
 #EXTINF:-1 group-title="watchhd",sky sports UHD F1 (1)
