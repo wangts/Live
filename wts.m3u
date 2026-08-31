@@ -84,38 +84,8 @@ http://hottest.plus:80/play/live.php?mac=00:1B:79:33:79:29&stream=774003&extensi
 http://chaotic-streams.cc:80/play/live.php?mac=A0:BB:3E:0F:6A:5C&stream=774003&extension=ts&play_token=82TLeontid
 
 
-#EXTINF:-1 group-title="hostytv",CTV TORONTO
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:BA:64:02&stream=20603&extension=ts&play_token=bpzaowoYv6
-#EXTINF:-1 group-title="hostytv",CTV 2 TORONTO
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:BA:64:02&stream=177393&extension=ts&play_token=fwJQYWvlKB
-#EXTINF:-1 group-title="hostytv",CALIFORNICATION
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:BA:64:02&stream=976579&extension=ts&play_token=SnM8NSUWmR
-#EXTINF:-1 group-title="hostytv",FRIENDS
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:BA:64:02&stream=976554&extension=ts&play_token=gW8pT4YCAX
-#EXTINF:-1 group-title="hostytv",GAME OF THRONES
-http://line.hostytv.store:80/play/live.php?mac=00:1A:79:BA:64:02&stream=976532&extension=ts&play_token=M0sOCL8s0L
-
-
 #EXTINF:-1 group-title="iptvnow",Mike & Nick & Nick & Alice 4K (2026)
 http://iptvnow.nl:80/play/movie.php?mac=00:1A:79:74:ED:60&stream=2047207.mkv&play_token=fFJGVsoU2G&type=movie
-
-
-#EXTINF:-1 group-title="globaltv1",PORNBOX 4K: BAEB
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609814&extension=ts&play_token=Jo8YVMliaB
-#EXTINF:-1 group-title="globaltv1",PORNBOX 4K: SPY FAM
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609806&extension=ts&play_token=popFiLHqfg
-#EXTINF:-1 group-title="globaltv1",PORNBOX 4K: TINY 4K
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609805&extension=ts&play_token=m3fDkEmWcA
-#EXTINF:-1 group-title="globaltv1",PORNBOX: DEEPER
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609858&extension=ts&play_token=uvPquYhsHA
-#EXTINF:-1 group-title="globaltv1",PORNBOX: HUSSIE PASS
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609845&extension=ts&play_token=dPNdEuqh3E
-#EXTINF:-1 group-title="globaltv1",PORNBOX: PASSION
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609831&extension=ts&play_token=KURTuBGOp7
-#EXTINF:-1 group-title="globaltv1",STARS EXCLUSIVE: LENA PAUL
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609760&extension=ts&play_token=k8Z0mAEla3
-#EXTINF:-1 group-title="globaltv1",STARS EXCLUSIVE: VALENTINA NAPPI
-http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:59:A3&stream=609753&extension=ts&play_token=jb87GlNK6S
 
 
 #EXTINF:-1 group-title="neorcqds",RUSSIAN NIGHT
