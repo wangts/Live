@@ -1,7 +1,7 @@
 #EXTM3U
 
-http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1430509&extension=ts&play_token=2uqWcaQhOe
 #EXTINF:-1 group-title="alpha-ott1",CINEMANIA HOLLYWOOD 4K
+http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1430509&extension=ts&play_token=2uqWcaQhOe
 #EXTINF:-1 group-title="alpha-ott1",SKY CINEMA ACTION HEVC FHD
 http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1458806&extension=ts&play_token=naRuPkstdb
 #EXTINF:-1 group-title="alpha-ott1",SKY CINEMA PREMIER HEVC FHD
