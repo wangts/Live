@@ -92,6 +92,16 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:AB:CC:D4&stream=1312008&
 http://line.dino.ws:80/play/live.php?mac=00:1A:79:E5:4F:98&stream=1284574&extension=ts&play_token=3m5qZNERx1
 
 
+#EXTINF:-1 group-title="rocketfx",HBO EAST
+http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/115670.m3u8
+#EXTINF:-1 group-title="rocketfx",SHOWTIME
+http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/115681.m3u8
+#EXTINF:-1 group-title="rocketfx",Sky Sports Premier League
+http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/508336.m3u8
+#EXTINF:-1 group-title="rocketfx",TNT Sport 4
+http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/512357.m3u8
+
+
 #EXTINF:-1 group-title="alpha-ott1",CINEMANIA HOLLYWOOD 4K
 http://alpha-ott1.me:80/play/live.php?mac=A0:BB:3E:03:B0:04&stream=1430509&extension=ts&play_token=2uqWcaQhOe
 #EXTINF:-1 group-title="alpha-ott1",SKY CINEMA ACTION HEVC FHD
