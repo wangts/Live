@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="line",HBO
+http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=855676&extension=ts&play_token=mxhDavvgMb
+#EXTINF:-1 group-title="line",SHOWTIME
+http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=855713&extension=ts&play_token=KPPfHABVVg
+#EXTINF:-1 group-title="line",STARZ
+http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=855698&extension=ts&play_token=k6oUsQksk2
+#EXTINF:-1 group-title="line",FRIENDS
+http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=1382274&extension=ts&play_token=x44iFYK76z
+#EXTINF:-1 group-title="line",Shark Terror
+http://line.tv4k.top:80/play/movie.php?mac=00:1B:79:3D:26:B1&stream=1686774.mkv&play_token=G2wI8K4pIt&type=movie
+
+
 #EXTINF:-1 group-title="dinka",CTV Toronto 1080P
 http://dinka-iptv.live/live/bbxjPJJk/I2GvxOHYwl/15415.ts
 #EXTINF:-1 group-title="dinka",Crave 2
