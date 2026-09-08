@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="alltvmx",CTV TORONTO
+http://alltvmx.com/live/Victoria89/Victoria89/218222.ts
+#EXTINF:-1 group-title="alltvmx",PORNBOX: ALL GROUP SEX
+http://alltvmx.com/live/Victoria89/Victoria89/791587.ts
+
+
 #EXTINF:-1 group-title="line",HBO
 http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=855676&extension=ts&play_token=mxhDavvgMb
 #EXTINF:-1 group-title="line",SHOWTIME
