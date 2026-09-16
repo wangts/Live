@@ -1,5 +1,167 @@
 #EXTM3U
 
+"#EXTINF:-1 group-title=""103"",SKY SPORTS MAIN EVENTS UHD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1608071&extension=ts&play_token=TXewhB4odc"
+"#EXTINF:-1 group-title=""103"",CTV TORONTO
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=177392&extension=ts&play_token=RGjIMaP33i"
+"#EXTINF:-1 group-title=""103"",CTV 2 TORONTO
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=177393&extension=ts&play_token=2ECybRkmvT"
+"#EXTINF:-1 group-title=""103"",CTV COMEDY
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=176815&extension=ts&play_token=kPoUu2XTDu"
+"#EXTINF:-1 group-title=""103"",CTV DRAMA
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=176817&extension=ts&play_token=p6o5NAaeaO"
+"#EXTINF:-1 group-title=""103"",CTV SCIFI
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=176819&extension=ts&play_token=wFFNVVGQHe"
+"#EXTINF:-1 group-title=""103"",ACTION MAX HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45618&extension=ts&play_token=HiOasSifYa"
+"#EXTINF:-1 group-title=""103"",A-Z CLASSIC FLIX
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=150359&extension=ts&play_token=eUyXlP2Ud5"
+"#EXTINF:-1 group-title=""103"",CINEMAX HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45597&extension=ts&play_token=1xoKeaZzDY"
+"#EXTINF:-1 group-title=""103"",CINEMAX EAST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45598&extension=ts&play_token=bYSDB9taZf"
+"#EXTINF:-1 group-title=""103"",CINEMAX WEST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45594&extension=ts&play_token=UISdpWfbKd"
+"#EXTINF:-1 group-title=""103"",CINEMAX ACTION EAST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45599&extension=ts&play_token=iudtCp6Fpv"
+"#EXTINF:-1 group-title=""103"",CINEMAX MOREMAX HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45596&extension=ts&play_token=4cti6S1fko"
+"#EXTINF:-1 group-title=""103"",MGM+ HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45582&extension=ts&play_token=v9ncJNzEXl"
+"#EXTINF:-1 group-title=""103"",MGM+ HITS HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=90955&extension=ts&play_token=tF5zl80xSv"
+"#EXTINF:-1 group-title=""103"",MGM+ DRIVE
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=90957&extension=ts&play_token=Mkl7DAPcvP"
+"#EXTINF:-1 group-title=""103"",HBO HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45549&extension=ts&play_token=fqYz2J3jaq"
+"#EXTINF:-1 group-title=""103"",HBO WEST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91884&extension=ts&play_token=YDe16n4cqV"
+"#EXTINF:-1 group-title=""103"",HBO 2 HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45552&extension=ts&play_token=PbgK8cuXqv"
+"#EXTINF:-1 group-title=""103"",HBO ZONE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45546&extension=ts&play_token=b1nUdcD047"
+"#EXTINF:-1 group-title=""103"",HBO COMEDY HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45551&extension=ts&play_token=g73q8CMq4G"
+"#EXTINF:-1 group-title=""103"",HBO FAMILY HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45550&extension=ts&play_token=LWx9re9Gn0"
+"#EXTINF:-1 group-title=""103"",HBO SIGNATURE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45547&extension=ts&play_token=f5eSy1GoJw"
+"#EXTINF:-1 group-title=""103"",MOREMAX HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45538&extension=ts&play_token=bEP9LTFlut"
+"#EXTINF:-1 group-title=""103"",MOVIEPLEX HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45536&extension=ts&play_token=ypzOFhoirJ"
+"#EXTINF:-1 group-title=""103"",MeTV
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1069302&extension=ts&play_token=qdCFdGNEgV"
+"#EXTINF:-1 group-title=""103"",MeTV PLUS
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1128914&extension=ts&play_token=52M9svVDRd"
+"#EXTINF:-1 group-title=""103"",MeTV NETWORK EAST
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1074480&extension=ts&play_token=ALJNQSOgnX"
+"#EXTINF:-1 group-title=""103"",MeTV (KAZA)
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1074481&extension=ts&play_token=uFstPk4fs0"
+"#EXTINF:-1 group-title=""103"",NOVIES
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570191&extension=ts&play_token=R6xiaMtb3d"
+"#EXTINF:-1 group-title=""103"",ION MYSTERY
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570190&extension=ts&play_token=k2bxbVcrOI"
+"#EXTINF:-1 group-title=""103"",HEARTLAND
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570189&extension=ts&play_token=R44NBZRQLY"
+"#EXTINF:-1 group-title=""103"",GREAT AMERICAN LIVING
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570188&extension=ts&play_token=BRsOlCIFWP"
+"#EXTINF:-1 group-title=""103"",FAMILY MOVIE CHANNEL
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570187&extension=ts&play_token=aVLQ4AJyQD"
+"#EXTINF:-1 group-title=""103"",DOVE MOVIES
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570186&extension=ts&play_token=wnG0GXUOJA"
+"#EXTINF:-1 group-title=""103"",DOVE CHANNEL
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570185&extension=ts&play_token=hYDppSpPfd"
+"#EXTINF:-1 group-title=""103"",COWBOY WAY
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570184&extension=ts&play_token=1yXrunhDPg"
+"#EXTINF:-1 group-title=""103"",CATCHY COMEDY
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1570183&extension=ts&play_token=8qOnJN4Ej4"
+"#EXTINF:-1 group-title=""103"",SCREENPIX WESTERNS HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=551775&extension=ts&play_token=F831clsP2q"
+"#EXTINF:-1 group-title=""103"",SCREENPIX VOICES HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=551776&extension=ts&play_token=dBPMN3f7a4"
+"#EXTINF:-1 group-title=""103"",SCREENPIX ACTION HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=551777&extension=ts&play_token=dxPtZ52Ad1"
+"#EXTINF:-1 group-title=""103"",SHOXBET (EAST)
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=897512&extension=ts&play_token=5WDsPXVz19"
+"#EXTINF:-1 group-title=""103"",SHOXBET (WEST)
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=897511&extension=ts&play_token=lmOHn0oe6L"
+"#EXTINF:-1 group-title=""103"",SHOWTIME HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45503&extension=ts&play_token=yozr1YjHfj"
+"#EXTINF:-1 group-title=""103"",SHOWTIME EAST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45504&extension=ts&play_token=0Ba3PATrFD"
+"#EXTINF:-1 group-title=""103"",SHOWTIME WEST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=92020&extension=ts&play_token=bVxlJOn9a3"
+"#EXTINF:-1 group-title=""103"",SHOWTIME 2 HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45505&extension=ts&play_token=F5sAE3JLcp"
+"#EXTINF:-1 group-title=""103"",SHOWTIME EXTREME HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91887&extension=ts&play_token=zJUkEz9fuu"
+"#EXTINF:-1 group-title=""103"",SHOWTIME FAMILY ZONE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91888&extension=ts&play_token=bHoxgoxLdv"
+"#EXTINF:-1 group-title=""103"",SHOWTIME NEXT HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=92019&extension=ts&play_token=kyM3VSyC5K"
+"#EXTINF:-1 group-title=""103"",SHOWTIME SHOWCASE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45502&extension=ts&play_token=Ya6Ga61UHB"
+"#EXTINF:-1 group-title=""103"",SHOWTIME WOMEN HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=92018&extension=ts&play_token=09aPkLusNn"
+"#EXTINF:-1 group-title=""103"",SCREENPIX HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=551778&extension=ts&play_token=Yg2FJgite6"
+"#EXTINF:-1 group-title=""103"",SONY MOVIE CHANNEL HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91789&extension=ts&play_token=iqAXaHR7Ve"
+"#EXTINF:-1 group-title=""103"",MGM+ MARQUEE
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=90956&extension=ts&play_token=Tb1jZLzmU0"
+"#EXTINF:-1 group-title=""103"",START TV
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91874&extension=ts&play_token=qORy4PC1oM"
+"#EXTINF:-1 group-title=""103"",STARZ EAST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45493&extension=ts&play_token=Rs6WCMi12J"
+"#EXTINF:-1 group-title=""103"",STARZ WEST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45478&extension=ts&play_token=xWapQMg3ps"
+"#EXTINF:-1 group-title=""103"",STARZ HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45480&extension=ts&play_token=1sCk3W643b"
+"#EXTINF:-1 group-title=""103"",STARZ CINEMA HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45496&extension=ts&play_token=lqFCGf6N2p"
+"#EXTINF:-1 group-title=""103"",STARZ CINEMA EAST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45497&extension=ts&play_token=1tsVnqniBM"
+"#EXTINF:-1 group-title=""103"",STARZ BLACK HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45498&extension=ts&play_token=186JbRib1K"
+"#EXTINF:-1 group-title=""103"",STARZ EDGE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45492&extension=ts&play_token=ebQEvbReg6"
+"#EXTINF:-1 group-title=""103"",STARZ FAMILY HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45481&extension=ts&play_token=dSKQ3tBjiw"
+"#EXTINF:-1 group-title=""103"",STARZ COMEDY HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45494&extension=ts&play_token=yFZNXVE6Qp"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE ACTION HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45489&extension=ts&play_token=EHSrKqGgYK"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE BLACK HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45488&extension=ts&play_token=kPlt0KN37n"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE CLASSIC HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45487&extension=ts&play_token=0lgH32FRR8"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE EAST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45486&extension=ts&play_token=PRbB9uGuQI"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE FAMILY HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45485&extension=ts&play_token=QWW4S94XlO"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45484&extension=ts&play_token=QzAOrFEl6I"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE SUSPENSE HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91948&extension=ts&play_token=dj9n3NpG97"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE WESTERNS HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91947&extension=ts&play_token=KBkIOUwzwl"
+"#EXTINF:-1 group-title=""103"",STARZ ENCORE WEST HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45482&extension=ts&play_token=h3OQ9foOpf"
+"#EXTINF:-1 group-title=""103"",STARZ KIDS & FAMILY HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=45479&extension=ts&play_token=ydkvXlECnZ"
+"#EXTINF:-1 group-title=""103"",THE MOVIE CHANNEL HD
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=91889&extension=ts&play_token=a6Tx7J1nwq"
+"#EXTINF:-1 group-title=""103"",THE FILM DETECTIVE
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1278275&extension=ts&play_token=CCUXyYS8ch"
+"#EXTINF:-1 group-title=""103"",STAR LIFE
+http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1478615&extension=ts&play_token=ww9NWChfmW"
+"#EXTINF:-1 group-title=""103"",The Matrix 1 (1999)
+http://103.176.90.24:80/play/movie.php?mac=A0:BB:3E:0F:5F:0D&stream=1139372.mp4&play_token=lAhJHUpZUQ&type=movie"
+"#EXTINF:-1 group-title=""103"",The Matrix 2 Reloaded (2003)
+http://103.176.90.24:80/play/movie.php?mac=A0:BB:3E:0F:5F:0D&stream=1139373.mp4&play_token=lU1rSVzfz7&type=movie"
+
+
 #EXTINF:-1 group-title="alltvmx",CTV TORONTO
 http://alltvmx.com/live/Victoria89/Victoria89/218222.ts
 #EXTINF:-1 group-title="alltvmx",PORNBOX: ALL GROUP SEX
