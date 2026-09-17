@@ -214,6 +214,50 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=63175&extensi
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18148&extension=ts&play_token=UyTP4oXcti
 #EXTINF:-1 group-title="dragoniptv",USA Network
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18133&extension=ts&play_token=Bocgrzfeqt
+#EXTINF:-1 group-title="dragoniptv",AFN Sport
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=63164&extension=ts&play_token=5ihZbiNvwv
+#EXTINF:-1 group-title="dragoniptv",CBS Sport
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=205347&extension=ts&play_token=gyX3pSVJfI
+#EXTINF:-1 group-title="dragoniptv",ESPN
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=24980&extension=ts&play_token=gskIQfFfT0
+#EXTINF:-1 group-title="dragoniptv",ESPN 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18206&extension=ts&play_token=DYHVZC7GVy
+#EXTINF:-1 group-title="dragoniptv",ESPN 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18215&extension=ts&play_token=dd07oeZPjg
+#EXTINF:-1 group-title="dragoniptv",ESPN 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18205&extension=ts&play_token=7hBsXNeHEv
+#EXTINF:-1 group-title="dragoniptv",ESPN Plus
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=19942&extension=ts&play_token=q4jZsTMvtQ
+#EXTINF:-1 group-title="dragoniptv",Fight Network
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=29513&extension=ts&play_token=68KEScXJXa
+#EXTINF:-1 group-title="dragoniptv",MLB Network
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=24828&extension=ts&play_token=Zz4dEcdozv
+#EXTINF:-1 group-title="dragoniptv",NBA
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18174&extension=ts&play_token=196VoSDVnH
+#EXTINF:-1 group-title="dragoniptv",NBC Golf
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18173&extension=ts&play_token=lY1DyORJxc
+#EXTINF:-1 group-title="dragoniptv",NBCSN
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=19941&extension=ts&play_token=wp8WfZs6xM
+#EXTINF:-1 group-title="dragoniptv",NFL Network
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=102466&extension=ts&play_token=9bay4HODtn
+#EXTINF:-1 group-title="dragoniptv",NFL RedZone
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=102465&extension=ts&play_token=5p3h3d07pt
+#EXTINF:-1 group-title="dragoniptv",SportsNet One
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18154&extension=ts&play_token=sWVjHMVzHe
+#EXTINF:-1 group-title="dragoniptv",TSN 1
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18139&extension=ts&play_token=v5BHvjg52U
+#EXTINF:-1 group-title="dragoniptv",TSN 2
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18138&extension=ts&play_token=UPJ4TgclOh
+#EXTINF:-1 group-title="dragoniptv",TSN 3
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18137&extension=ts&play_token=ERGTebk8EZ
+#EXTINF:-1 group-title="dragoniptv",TSN 4
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18136&extension=ts&play_token=17s7teSi56
+#EXTINF:-1 group-title="dragoniptv",TSN 5
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18135&extension=ts&play_token=3frjAfmHL7
+#EXTINF:-1 group-title="dragoniptv",Willow Cricket
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18129&extension=ts&play_token=j2R3UDVSEL
+#EXTINF:-1 group-title="dragoniptv",WWE
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C2:8D:EA&stream=18127&extension=ts&play_token=e9MhfoxfiE
 
 
 #EXTINF:-1 group-title="line",HBO
