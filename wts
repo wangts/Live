@@ -160,12 +160,6 @@ http://103.176.90.24:80/play/live.php?mac=A0:BB:3E:0F:5F:0D&stream=1478615&exten
 http://103.176.90.24:80/play/movie.php?mac=A0:BB:3E:0F:5F:0D&stream=1139372.mp4&play_token=lAhJHUpZUQ&type=movie
 
 
-#EXTINF:-1 group-title="alltvmx",CTV TORONTO
-http://alltvmx.com/live/Victoria89/Victoria89/218222.ts
-#EXTINF:-1 group-title="alltvmx",PORNBOX: ALL GROUP SEX
-http://alltvmx.com/live/Victoria89/Victoria89/791587.ts
-
-
 #EXTINF:-1 group-title="line",HBO
 http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=855676&extension=ts&play_token=mxhDavvgMb
 #EXTINF:-1 group-title="line",SHOWTIME
@@ -220,76 +214,6 @@ http://dinka-iptv.live/live/NP1lyOwcsj/yVfSNul66p/158602.ts
 http://dinka-iptv.live/live/NP1lyOwcsj/yVfSNul66p/390331.ts
 
 
-#EXTINF:-1 group-title="onair8k",CALIFORNICATION
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=976579&extension=ts&play_token=TTbVyypwPE
-#EXTINF:-1 group-title="onair8k",FRIENDS
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=976554&extension=ts&play_token=2qQSznTOY6
-#EXTINF:-1 group-title="onair8k",CTV TORONTO
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=177392&extension=ts&play_token=QP1aO1Rk3J
-#EXTINF:-1 group-title="onair8k",CTV 2 TORONTO
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=177393&extension=ts&play_token=tkPXeBSeEt
-#EXTINF:-1 group-title="onair8k",GLOBAL TORONTO
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=177404&extension=ts&play_token=PzmbMlBikH
-#EXTINF:-1 group-title="onair8k",CRAVE 1
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176936&extension=ts&play_token=SWhVJ7ISJM
-#EXTINF:-1 group-title="onair8k",CRAVE 2
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176937&extension=ts&play_token=IRaXEtpngy
-#EXTINF:-1 group-title="onair8k",CRAVE 3
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176938&extension=ts&play_token=ZpZ04HcaCr
-#EXTINF:-1 group-title="onair8k",CRAVE 4
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176939&extension=ts&play_token=WiwLzDJzI3
-#EXTINF:-1 group-title="onair8k",CA HBO 1
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176913&extension=ts&play_token=JqJxBAZpLu
-#EXTINF:-1 group-title="onair8k",CA HBO 2
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=176914&extension=ts&play_token=L4QCtl95Lj
-#EXTINF:-1 group-title="onair8k",HBO
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45549&extension=ts&play_token=UManid0cJ3
-#EXTINF:-1 group-title="onair8k",HBO 2
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45552&extension=ts&play_token=YhH0XVOz0I
-#EXTINF:-1 group-title="onair8k",HBO ZONE
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45546&extension=ts&play_token=3ZwY5UyI1q
-#EXTINF:-1 group-title="onair8k",HBO SIGNATURE
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45547&extension=ts&play_token=tNJyeUTzuC
-#EXTINF:-1 group-title="onair8k",HBO CHANNEL
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=1034767&extension=ts&play_token=3KsO378XVA
-#EXTINF:-1 group-title="onair8k",HBOMAX ORIGINAL 14
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=1095483&extension=ts&play_token=k9DlekDDVG
-#EXTINF:-1 group-title="onair8k",MGM+
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45582&extension=ts&play_token=HWcIJ2dLC7
-#EXTINF:-1 group-title="onair8k",MGM+ HITS
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=90955&extension=ts&play_token=xyAeqgDESb
-#EXTINF:-1 group-title="onair8k",SHOWTIME
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45503&extension=ts&play_token=5ZRq5kCxO6
-#EXTINF:-1 group-title="onair8k",SHOWTIME 2
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45505&extension=ts&play_token=w9DoYnxAHc
-#EXTINF:-1 group-title="onair8k",SHOWTIME EXTREME
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=91887&extension=ts&play_token=2OpT5x3Nt8
-#EXTINF:-1 group-title="onair8k",SHOWTIME NEXT
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=92019&extension=ts&play_token=pti64cMngA
-#EXTINF:-1 group-title="onair8k",SHOWTIME SHOWCASE
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45502&extension=ts&play_token=qgv9CB1oK2
-#EXTINF:-1 group-title="onair8k",STARZ
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45480&extension=ts&play_token=tWRwweRlDT
-#EXTINF:-1 group-title="onair8k",STARZ CINEMA
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45496&extension=ts&play_token=yhtehetWYp
-#EXTINF:-1 group-title="onair8k",STARZ EDGE
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45492&extension=ts&play_token=oRxvSQOWIC
-#EXTINF:-1 group-title="onair8k",STARZ ENCORE ACTION
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45489&extension=ts&play_token=UCfZrW0KT9
-#EXTINF:-1 group-title="onair8k",ACTION MAX
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45618&extension=ts&play_token=lMnOuvIpeJ
-#EXTINF:-1 group-title="onair8k",CINEMAX EAST
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45598&extension=ts&play_token=Af0w77RS7C
-#EXTINF:-1 group-title="onair8k",CINEMAX ACTION EAST
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45599&extension=ts&play_token=PRQfhG0wlY
-#EXTINF:-1 group-title="onair8k",CINEMAX MOREMAX
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=45596&extension=ts&play_token=wib6qB32KX
-#EXTINF:-1 group-title="onair8k",SONY MOVIE CHANNEL
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=91789&extension=ts&play_token=wIUoCApnz9
-#EXTINF:-1 group-title="onair8k",THE MOVIE CHANNEL
-http://panel.onair8k.xyz:80/play/live.php?mac=00:1A:79:1E:0B:B3&stream=91889&extension=ts&play_token=EqQ2UQwbUL
-
-
 #EXTINF:-1 group-title="media4k",X4|Anal4K
 http://media4k1.com:8080/q7NwB62E/mMbFiknpaLkwn10T/894443?play_token=cZ8KHI17R4
 #EXTINF:-1 group-title="media4k",PORNBOX: LENA PAUL
@@ -310,16 +234,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:AB:CC:D4&stream=1312008&
 
 #EXTINF:-1 group-title="dino",LOVE NATURE
 http://line.dino.ws:80/play/live.php?mac=00:1A:79:E5:4F:98&stream=1284574&extension=ts&play_token=3m5qZNERx1
-
-
-#EXTINF:-1 group-title="rocketfx",HBO EAST
-http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/115670.m3u8
-#EXTINF:-1 group-title="rocketfx",SHOWTIME
-http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/115681.m3u8
-#EXTINF:-1 group-title="rocketfx",Sky Sports Premier League
-http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/508336.m3u8
-#EXTINF:-1 group-title="rocketfx",TNT Sport 4
-http://rocketfx.uk:8080/live/PattO/vxmBunPhMZ/512357.m3u8
 
 
 #EXTINF:-1 group-title="alpha-ott1",CINEMANIA HOLLYWOOD 4K
@@ -392,12 +306,6 @@ http://91.208.115.23:80/play/live.php?mac=00:1B:79:4A:48:55&stream=675116&extens
 http://91.208.115.23:80/play/movie.php?mac=00:1B:79:4A:48:55&stream=1804579.mkv&play_token=uJdeKaWuTQ&type=movie
 
 
-#EXTINF:-1 group-title="mag7070",21 MIXED 1
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:BA:62:A2&stream=686433&extension=ts&play_token=hErMSnTajz
-#EXTINF:-1 group-title="mag7070",ASSPARADE FHD
-http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:BA:62:A2&stream=675137&extension=ts&play_token=9L99viQCO5
-
-
 #EXTINF:-1 group-title="hottest",REDBOX ADULT 37 TV
 http://hottest.plus:80/play/live.php?mac=00:1B:79:33:79:29&stream=774003&extension=ts&play_token=o1DOiWkkFK
 
@@ -412,16 +320,6 @@ http://iptvnow.nl:80/play/movie.php?mac=00:1A:79:74:ED:60&stream=2047207.mkv&pla
 
 #EXTINF:-1 group-title="neorcqds",RUSSIAN NIGHT
 http://neorcqds.top:8080/live/2061767338685/e06c9dae238c/73822.ts
-
-
-#EXTINF:-1 group-title="185 (55)",CTV TORONTO HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:12&stream=177392&extension=ts&play_token=kr7FOaoV1P
-#EXTINF:-1 group-title="185 (55)",CTV 2 TORONTO HD
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:12&stream=177393&extension=ts&play_token=Ml0izqI2Dh
-#EXTINF:-1 group-title="185 (55)",24/7  COMEDY MOVIES
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:12&stream=559089&extension=ts&play_token=QVExFYxXay
-#EXTINF:-1 group-title="185 (55)",CZECH
-http://185.80.197.55:80/play/live.php?mac=00:1A:79:01:61:12&stream=774038&extension=ts&play_token=9oDFg2RAxO
 
 
 #EXTINF:-1 group-title="185 (65)",True Lies 4K (1994)
@@ -545,20 +443,6 @@ http://eighty-eight.tv:80/play/live.php?mac=00:1A:79:79:86:1C&stream=45618&exten
 http://eighty-eight.tv:80/play/live.php?mac=00:1A:79:79:86:1C&stream=45549&extension=ts&play_token=BLF6OzE9P1
 #EXTINF:-1 group-title="eighty-eight",HBO 2 1080p
 http://eighty-eight.tv:80/play/live.php?mac=00:1A:79:79:86:1C&stream=45552&extension=ts&play_token=83nTaaIEir
-
-
-#EXTINF:-1 group-title="smarters",VALENTINA_NAPPI - COSPLAY
-http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/256086.mp4
-#EXTINF:-1 group-title="smarters",VALENTINA_NAPPI - Bondage
-http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/256085.mp4
-#EXTINF:-1 group-title="smarters",VALENTINA NAPPI - 2 dicks for Valentina
-http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/256077.mp4
-#EXTINF:-1 group-title="smarters",VALENTINA NAPPI - 3 STEWARDESSES TAKEN ON THE PLANE
-http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/258483.mp4
-#EXTINF:-1 group-title="smarters",VALENTINA NAPPI - ROBBYS REPLACEMENT
-http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/258495.mp4
-#EXTINF:-1 group-title="smarters",VALENTINA NAPPI - HOT ASS
-http://smarters.blkvisione.xyz:80/movie/Stemilano1/VKeZS7Q9gP/257479.mp4
 
 
 #EXTINF:-1 group-title="royallivetv",Fashion TV 4K UHD
