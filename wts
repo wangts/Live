@@ -148,6 +148,66 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:82:76:C6&stream=436
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:82:76:C6&stream=436538&extension=ts&play_token=I1apNyoAcv
 
 
+#EXTINF:-1 tvg-id="907604" group-title="max-cdn",HBO 1 HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907604&extension=ts&play_token=0ebBe6XQEW
+#EXTINF:-1 tvg-id="907605" group-title="max-cdn",HBO 2 HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907605&extension=ts&play_token=8UWPXUgyuc
+#EXTINF:-1 tvg-id="907630" group-title="max-cdn",A&E HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907630&extension=ts&play_token=8WF5YtqGnx
+#EXTINF:-1 tvg-id="907615" group-title="max-cdn",AMC HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907615&extension=ts&play_token=H2yssnIhAC
+#EXTINF:-1 tvg-id="907627" group-title="max-cdn",BET HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907627&extension=ts&play_token=0IK537Uck9
+#EXTINF:-1 tvg-id="907628" group-title="max-cdn",BRAVO HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907628&extension=ts&play_token=fHXALTuF1Y
+#EXTINF:-1 tvg-id="907606" group-title="max-cdn",ABC SPARK HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907606&extension=ts&play_token=u8XiUhkAcf
+#EXTINF:-1 tvg-id="907616" group-title="max-cdn",ACTION HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907616&extension=ts&play_token=BKoFL4SnzJ
+#EXTINF:-1 tvg-id="907617" group-title="max-cdn",TCM HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907617&extension=ts&play_token=BsPPvTJoQ4
+#EXTINF:-1 tvg-id="907625" group-title="max-cdn",DEJAVIEW
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907625&extension=ts&play_token=aj5aEQybRY
+#EXTINF:-1 tvg-id="907624" group-title="max-cdn",DEJAVIEW HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907624&extension=ts&play_token=RErMPnBspU
+#EXTINF:-1 tvg-id="907619" group-title="max-cdn",FAMILY EAST
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907619&extension=ts&play_token=HGDhWxM72C
+#EXTINF:-1 tvg-id="907620" group-title="max-cdn",FAMILY EAST
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907620&extension=ts&play_token=Pxrer1EcPd
+#EXTINF:-1 tvg-id="907631" group-title="max-cdn",LIFETIME HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907631&extension=ts&play_token=PsFSJAlzFf
+#EXTINF:-1 tvg-id="907618" group-title="max-cdn",MOVIETIME HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907618&extension=ts&play_token=5NAnir4Cyg
+#EXTINF:-1 tvg-id="907632" group-title="max-cdn",SHOWCASE HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907632&extension=ts&play_token=b4K2y9MfD7
+#EXTINF:-1 tvg-id="907626" group-title="max-cdn",SILVER SCREEN CLASSICS
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907626&extension=ts&play_token=tjk08GX9mU
+#EXTINF:-1 tvg-id="907629" group-title="max-cdn",Z TELE HD
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907629&extension=ts&play_token=AcKP0dKJLv
+#EXTINF:-1 tvg-id="907607" group-title="max-cdn",TMN1E HD (CRAVE 1 TV)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907607&extension=ts&play_token=JnfJFrJ9KF
+#EXTINF:-1 tvg-id="907611" group-title="max-cdn",TMN1E (CRAVE TV 1)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907611&extension=ts&play_token=FWVabIOToV
+#EXTINF:-1 tvg-id="907608" group-title="max-cdn",TMN2E HD (CRAVE 2 TV)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907608&extension=ts&play_token=c9YNcIZw9X
+#EXTINF:-1 tvg-id="907612" group-title="max-cdn",TMN2E (CRAVE TV 2)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907612&extension=ts&play_token=p3onaK5ndy
+#EXTINF:-1 tvg-id="907609" group-title="max-cdn",TMN3E HD (CRAVE 3 TV)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907609&extension=ts&play_token=GakAVmdHM5
+#EXTINF:-1 tvg-id="907613" group-title="max-cdn",TMN3E (CRAVE TV 3)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907613&extension=ts&play_token=8tyQ658yDx
+#EXTINF:-1 tvg-id="907610" group-title="max-cdn",TMN4E HD (CRAVE 4 TV)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907610&extension=ts&play_token=AKqNhuaorL
+#EXTINF:-1 tvg-id="907614" group-title="max-cdn",TMN4E (CRAVE TV 4)
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907614&extension=ts&play_token=VffXvkO0Gx
+#EXTINF:-1 tvg-id="907621" group-title="max-cdn",SUPER CHANNEL FUSE
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907621&extension=ts&play_token=eucF2bNReG
+#EXTINF:-1 tvg-id="907622" group-title="max-cdn",SUPER CHANNEL HEART & HOME
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907622&extension=ts&play_token=Fe3yZH2qr0
+#EXTINF:-1 tvg-id="907623" group-title="max-cdn",SUPER CHANNEL VAULT
+http://mag.max-cdn.com:80/play/live.php?mac=00:1A:79:B6:39:9A&stream=907623&extension=ts&play_token=Er29q1IejZ
+
+
 #EXTINF:-1 group-title="line",HBO
 http://line.tv4k.top:80/play/live.php?mac=00:1B:79:3D:26:B1&stream=855676&extension=ts&play_token=mxhDavvgMb
 #EXTINF:-1 group-title="line",SHOWTIME
