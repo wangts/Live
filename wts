@@ -1,37 +1,37 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="amster9216",DAS ERSTE 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552083&extension=ts&play_token=RxaVt3IbaG
-#EXTINF:-1 group-title="amster9217",ZDF 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552082&extension=ts&play_token=Zu3nce5T8z
-#EXTINF:-1 group-title="amster9218",RTL 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552081&extension=ts&play_token=llgKCpfWyO
-#EXTINF:-1 group-title="amster9219",RTL ZWEI 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552080&extension=ts&play_token=zzFLDneZuN
-#EXTINF:-1 group-title="amster9220",SAT 1 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552079&extension=ts&play_token=6XKtttpEMN
-#EXTINF:-1 group-title="amster9221",PROSIEBEN 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552078&extension=ts&play_token=4jpJkLWkkS
-#EXTINF:-1 group-title="amster9222",VOX 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552075&extension=ts&play_token=5Hwz2vAr4t
-#EXTINF:-1 group-title="amster9223",KABEL EINS 4K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552074&extension=ts&play_token=5amnOAKGTR
-#EXTINF:-1 group-title="amster9224",DAS ERSTE 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846014&extension=ts&play_token=Qh6vjgSIpB
-#EXTINF:-1 group-title="amster9225",ZDF 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846013&extension=ts&play_token=8TUnK5Xs6y
-#EXTINF:-1 group-title="amster9226",RTL 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846012&extension=ts&play_token=ctSCl4h8Ad
-#EXTINF:-1 group-title="amster9227",RTL ZWEI 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846011&extension=ts&play_token=fh9HZpwpBu
-#EXTINF:-1 group-title="amster9228",SAT 1 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846010&extension=ts&play_token=r9F40vviqx
-#EXTINF:-1 group-title="amster9229",PROSIEBEN 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846009&extension=ts&play_token=RisCmSHzrD
-#EXTINF:-1 group-title="amster9230",KABEL EINS 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846007&extension=ts&play_token=F5QGxwtyhn
-#EXTINF:-1 group-title="amster9231",VOX 2K
-http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846008&extension=ts&play_token=0lC1vFYihl
+amster9216	"#EXTINF:-1 group-title=""amster9216"",DAS ERSTE 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552083&extension=ts&play_token=RxaVt3IbaG"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",ZDF 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552082&extension=ts&play_token=Zu3nce5T8z"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",RTL 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552081&extension=ts&play_token=llgKCpfWyO"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",RTL ZWEI 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552080&extension=ts&play_token=zzFLDneZuN"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",SAT 1 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552079&extension=ts&play_token=6XKtttpEMN"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",PROSIEBEN 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552078&extension=ts&play_token=4jpJkLWkkS"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",VOX 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552075&extension=ts&play_token=5Hwz2vAr4t"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",KABEL EINS 4K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552074&extension=ts&play_token=5amnOAKGTR"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",DAS ERSTE 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846014&extension=ts&play_token=Qh6vjgSIpB"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",ZDF 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846013&extension=ts&play_token=8TUnK5Xs6y"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",RTL 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846012&extension=ts&play_token=ctSCl4h8Ad"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",RTL ZWEI 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846011&extension=ts&play_token=fh9HZpwpBu"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",SAT 1 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846010&extension=ts&play_token=r9F40vviqx"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",PROSIEBEN 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846009&extension=ts&play_token=RisCmSHzrD"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",KABEL EINS 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846007&extension=ts&play_token=F5QGxwtyhn"
+amster9216	"#EXTINF:-1 group-title=""amster9216"",VOX 2K
+http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=846008&extension=ts&play_token=0lC1vFYihl"
 
 
 #EXTINF:-1 group-title="norzro",ABC
