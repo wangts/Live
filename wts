@@ -1,5 +1,551 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="skytv4k", Marquee Sports Plus HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118142
+#EXTINF:-1 group-title="skytv4k", Marquee Sports Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118141
+#EXTINF:-1 group-title="skytv4k",Newsmax TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/90932
+#EXTINF:-1 group-title="skytv4k",A&E HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/550
+#EXTINF:-1 group-title="skytv4k",A&E TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7771
+#EXTINF:-1 group-title="skytv4k",ABC FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7592
+#EXTINF:-1 group-title="skytv4k",ABC HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/539
+#EXTINF:-1 group-title="skytv4k",ABC News HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/540
+#EXTINF:-1 group-title="skytv4k",AFN Sport 1
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/1136
+#EXTINF:-1 group-title="skytv4k",Amazing Discoveries HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/551
+#EXTINF:-1 group-title="skytv4k",AMC HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/521
+#EXTINF:-1 group-title="skytv4k",AMC
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7792
+#EXTINF:-1 group-title="skytv4k",Animal Planet
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7791
+#EXTINF:-1 group-title="skytv4k",beINSports HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/506
+#EXTINF:-1 group-title="skytv4k",BET HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7770
+#EXTINF:-1 group-title="skytv4k",Bloomberg Europe
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/503
+#EXTINF:-1 group-title="skytv4k",Bloomberg TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/489
+#EXTINF:-1 group-title="skytv4k",Boomerang
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/502
+#EXTINF:-1 group-title="skytv4k",Bravo HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/541
+#EXTINF:-1 group-title="skytv4k",Bravo
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7790
+#EXTINF:-1 group-title="skytv4k",BYU TV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/522
+#EXTINF:-1 group-title="skytv4k",C-Span 1
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/564
+#EXTINF:-1 group-title="skytv4k",C-Span 2
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/565
+#EXTINF:-1 group-title="skytv4k",C-Span 3
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/566
+#EXTINF:-1 group-title="skytv4k",Cable News Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7769
+#EXTINF:-1 group-title="skytv4k",Cartoon Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/523
+#EXTINF:-1 group-title="skytv4k",CBS
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/486
+#EXTINF:-1 group-title="skytv4k",CBSN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/524
+#EXTINF:-1 group-title="skytv4k",CineMax 5 StarMax
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/507
+#EXTINF:-1 group-title="skytv4k",CineMax Action HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/567
+#EXTINF:-1 group-title="skytv4k",Cinemax Action
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7789
+#EXTINF:-1 group-title="skytv4k",CineMax ActionMax East
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/508
+#EXTINF:-1 group-title="skytv4k",CineMax East
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/509
+#EXTINF:-1 group-title="skytv4k",Cinemax More HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7768
+#EXTINF:-1 group-title="skytv4k",CineMax MoreMax
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/501
+#EXTINF:-1 group-title="skytv4k",CNBC
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/525
+#EXTINF:-1 group-title="skytv4k",CNN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/568
+#EXTINF:-1 group-title="skytv4k",Comedy Central FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/542
+#EXTINF:-1 group-title="skytv4k",Comedy Central
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7788
+#EXTINF:-1 group-title="skytv4k",CW HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/543
+#EXTINF:-1 group-title="skytv4k",CW
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7777
+#EXTINF:-1 group-title="skytv4k",CW11
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/500
+#EXTINF:-1 group-title="skytv4k",Discovery Channel CA FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7580
+#EXTINF:-1 group-title="skytv4k",Discovery Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7767
+#EXTINF:-1 group-title="skytv4k",Discovery HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/526
+#EXTINF:-1 group-title="skytv4k",Discovery Science HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/510
+#EXTINF:-1 group-title="skytv4k",Discovery Velocity
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/527
+#EXTINF:-1 group-title="skytv4k",Disney Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7766
+#EXTINF:-1 group-title="skytv4k",Disney XD HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7765
+#EXTINF:-1 group-title="skytv4k",DIY Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7728
+#EXTINF:-1 group-title="skytv4k",DIY Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/482
+#EXTINF:-1 group-title="skytv4k",DW
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/528
+#EXTINF:-1 group-title="skytv4k",E! Entertainment HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7764
+#EXTINF:-1 group-title="skytv4k",El Rey Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7715
+#EXTINF:-1 group-title="skytv4k",ESPN 1 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7763
+#EXTINF:-1 group-title="skytv4k",ESPN 1
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/552
+#EXTINF:-1 group-title="skytv4k",ESPN 2 FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/569
+#EXTINF:-1 group-title="skytv4k",ESPN 2
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7787
+#EXTINF:-1 group-title="skytv4k",ESPN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/544
+#EXTINF:-1 group-title="skytv4k",Fight HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/529
+#EXTINF:-1 group-title="skytv4k",Fight Sport HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/584
+#EXTINF:-1 group-title="skytv4k",Food Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/511
+#EXTINF:-1 group-title="skytv4k",Food Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7783
+#EXTINF:-1 group-title="skytv4k",FOX 43
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/570
+#EXTINF:-1 group-title="skytv4k",Fox HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/512
+#EXTINF:-1 group-title="skytv4k",Fox News HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/545
+#EXTINF:-1 group-title="skytv4k",Fox Soccer Plus HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6206
+#EXTINF:-1 group-title="skytv4k",Fox Soccer Plus
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7785
+#EXTINF:-1 group-title="skytv4k",Fox Sports 1 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/553
+#EXTINF:-1 group-title="skytv4k",Fox Sports 1
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7786
+#EXTINF:-1 group-title="skytv4k",Fox Sports 2 FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/554
+#EXTINF:-1 group-title="skytv4k",Fox Sports 2 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7759
+#EXTINF:-1 group-title="skytv4k",Fox Sports 506 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/571
+#EXTINF:-1 group-title="skytv4k",Fox Sports College Central HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7756
+#EXTINF:-1 group-title="skytv4k",Fox Sports HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7760
+#EXTINF:-1 group-title="skytv4k",Fox Sports North HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7752
+#EXTINF:-1 group-title="skytv4k",Free Form HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/572
+#EXTINF:-1 group-title="skytv4k",FreeForm HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7688
+#EXTINF:-1 group-title="skytv4k",FX HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/513
+#EXTINF:-1 group-title="skytv4k",FX
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7784
+#EXTINF:-1 group-title="skytv4k",GSN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7749
+#EXTINF:-1 group-title="skytv4k",H2
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/514
+#EXTINF:-1 group-title="skytv4k",Hallmark Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7746
+#EXTINF:-1 group-title="skytv4k",Hallmark
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/515
+#EXTINF:-1 group-title="skytv4k",HBO Comedy HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/530
+#EXTINF:-1 group-title="skytv4k",HBO East
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/483
+#EXTINF:-1 group-title="skytv4k",HBO Family HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7748
+#EXTINF:-1 group-title="skytv4k",HBO HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/531
+#EXTINF:-1 group-title="skytv4k",HBO Signature HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7747
+#EXTINF:-1 group-title="skytv4k",HBO Signature
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/484
+#EXTINF:-1 group-title="skytv4k",HBO
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7776
+#EXTINF:-1 group-title="skytv4k",HBO Zone
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/532
+#EXTINF:-1 group-title="skytv4k",HGTV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/495
+#EXTINF:-1 group-title="skytv4k",HGTV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7782
+#EXTINF:-1 group-title="skytv4k",History HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/546
+#EXTINF:-1 group-title="skytv4k",History
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7781
+#EXTINF:-1 group-title="skytv4k",IFC HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7710
+#EXTINF:-1 group-title="skytv4k",Investigation Discovery HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7693
+#EXTINF:-1 group-title="skytv4k",Lifetime HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7745
+#EXTINF:-1 group-title="skytv4k",MLB HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/573
+#EXTINF:-1 group-title="skytv4k",MLB Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7701
+#EXTINF:-1 group-title="skytv4k",MLB Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/574
+#EXTINF:-1 group-title="skytv4k",MLB EXTRA INNINGS MULTI-VIEW (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107823
+#EXTINF:-1 group-title="skytv4k",MLB-1 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107810
+#EXTINF:-1 group-title="skytv4k",MLB-2 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107811
+#EXTINF:-1 group-title="skytv4k",MLB-3 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107812
+#EXTINF:-1 group-title="skytv4k",MLB-4 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107813
+#EXTINF:-1 group-title="skytv4k",MLB-5 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107814
+#EXTINF:-1 group-title="skytv4k",MLB-6 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107815
+#EXTINF:-1 group-title="skytv4k",MLB-7 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107816
+#EXTINF:-1 group-title="skytv4k",MLB-8 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107817
+#EXTINF:-1 group-title="skytv4k",MLB-9 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107818
+#EXTINF:-1 group-title="skytv4k",MLB-10 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107819
+#EXTINF:-1 group-title="skytv4k",MLB-11 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107820
+#EXTINF:-1 group-title="skytv4k",MLB-12 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107821
+#EXTINF:-1 group-title="skytv4k",MLB-13 (CX)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107822
+#EXTINF:-1 group-title="skytv4k",MSNBC HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/575
+#EXTINF:-1 group-title="skytv4k",MSNBC HD (Web)
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/16058
+#EXTINF:-1 group-title="skytv4k",MTV Base HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7744
+#EXTINF:-1 group-title="skytv4k",MTV Rocks
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/494
+#EXTINF:-1 group-title="skytv4k",Nat Geo Wild HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7692
+#EXTINF:-1 group-title="skytv4k",Nat Geographic HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7691
+#EXTINF:-1 group-title="skytv4k",National Geographic
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/517
+#EXTINF:-1 group-title="skytv4k",NBA HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/533
+#EXTINF:-1 group-title="skytv4k",NBA Live 1 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/8538
+#EXTINF:-1 group-title="skytv4k",NBC Golf Channel FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6147
+#EXTINF:-1 group-title="skytv4k",NBC Golf Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6146
+#EXTINF:-1 group-title="skytv4k",NBC Golf HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7743
+#EXTINF:-1 group-title="skytv4k",NBC News HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7742
+#EXTINF:-1 group-title="skytv4k",NBC SN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7741
+#EXTINF:-1 group-title="skytv4k",NBC News Now
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/490
+#EXTINF:-1 group-title="skytv4k",NBCSN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/555
+#EXTINF:-1 group-title="skytv4k",NFL Network 1
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/504
+#EXTINF:-1 group-title="skytv4k",NFL Network FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/505
+#EXTINF:-1 group-title="skytv4k",NFL Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/556
+#EXTINF:-1 group-title="skytv4k",NFL Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7793
+#EXTINF:-1 group-title="skytv4k",NFL Now HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7773
+#EXTINF:-1 group-title="skytv4k",NFL Redzone HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7772
+#EXTINF:-1 group-title="skytv4k",NHL Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/576
+#EXTINF:-1 group-title="skytv4k",Oprah Winfrey Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7740
+#EXTINF:-1 group-title="skytv4k",Outdoor Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/493
+#EXTINF:-1 group-title="skytv4k",Reelz HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7739
+#EXTINF:-1 group-title="skytv4k",Science HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7738
+#EXTINF:-1 group-title="skytv4k",SEC Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7707
+#EXTINF:-1 group-title="skytv4k",Showtime 2 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7737
+#EXTINF:-1 group-title="skytv4k",Showtime 2
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/534
+#EXTINF:-1 group-title="skytv4k",Showtime East HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7736
+#EXTINF:-1 group-title="skytv4k",Showtime FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/535
+#EXTINF:-1 group-title="skytv4k",Showtime Showcase HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7735
+#EXTINF:-1 group-title="skytv4k",Showtime West
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/485
+#EXTINF:-1 group-title="skytv4k",Paramount Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/518
+#EXTINF:-1 group-title="skytv4k",Paramount Network
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7727
+#EXTINF:-1 group-title="skytv4k",Starz Cinema
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/536
+#EXTINF:-1 group-title="skytv4k",Starz Comedy
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/537
+#EXTINF:-1 group-title="skytv4k",Starz Edge HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/519
+#EXTINF:-1 group-title="skytv4k",Starz Edge
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7780
+#EXTINF:-1 group-title="skytv4k",Starz Encore HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7731
+#EXTINF:-1 group-title="skytv4k",Starz Encore
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/538
+#EXTINF:-1 group-title="skytv4k",SyFy HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/548
+#EXTINF:-1 group-title="skytv4k",SyFy
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7779
+#EXTINF:-1 group-title="skytv4k",TBS HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/578
+#EXTINF:-1 group-title="skytv4k",TNT HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/549
+#EXTINF:-1 group-title="skytv4k",Travel Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7694
+#EXTINF:-1 group-title="skytv4k",Tru TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7705
+#EXTINF:-1 group-title="skytv4k",UFC Fight Pass
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6421
+#EXTINF:-1 group-title="skytv4k",Univision HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7704
+#EXTINF:-1 group-title="skytv4k",USA Network (backup) HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/520
+#EXTINF:-1 group-title="skytv4k",USA HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7729
+#EXTINF:-1 group-title="skytv4k",USA Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/547
+#EXTINF:-1 group-title="skytv4k",VH1 Classic
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/491
+#EXTINF:-1 group-title="skytv4k",WWE HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/562
+#EXTINF:-1 group-title="skytv4k",WWE Network FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7544
+#EXTINF:-1 group-title="skytv4k",WWE
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7778
+#EXTINF:-1 group-title="skytv4k",NESN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78410
+#EXTINF:-1 group-title="skytv4k",NESN Plus HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78411
+#EXTINF:-1 group-title="skytv4k",Universal Kids HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78675
+#EXTINF:-1 group-title="skytv4k",Fox Sports Prime Ticket HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78751
+#EXTINF:-1 group-title="skytv4k",AT&T SPORTSNET HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78752
+#EXTINF:-1 group-title="skytv4k",AT&T SPORTSNET SOUTHWEST HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78753
+#EXTINF:-1 group-title="skytv4k",Fox 2 Detroit HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78754
+#EXTINF:-1 group-title="skytv4k",Fox Sports Oklahoma HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78755
+#EXTINF:-1 group-title="skytv4k",Fox 2 San Francisco HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78756
+#EXTINF:-1 group-title="skytv4k",Fox Sports Arizona HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78757
+#EXTINF:-1 group-title="skytv4k",Fox Sports New Orleans HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78758
+#EXTINF:-1 group-title="skytv4k",Fox 4 Dallas | Fort Worth HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78759
+#EXTINF:-1 group-title="skytv4k",Fox 5 Atlanta HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78760
+#EXTINF:-1 group-title="skytv4k",Fox 5 New York HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78761
+#EXTINF:-1 group-title="skytv4k",Yes Network HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78762
+#EXTINF:-1 group-title="skytv4k",Fox 5 Washington DC HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78763
+#EXTINF:-1 group-title="skytv4k",MSG HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78764
+#EXTINF:-1 group-title="skytv4k",MSG 2 HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78765
+#EXTINF:-1 group-title="skytv4k",Fox 6 Milwaukee HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78768
+#EXTINF:-1 group-title="skytv4k",Fox 7 Austin HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78769
+#EXTINF:-1 group-title="skytv4k",Fox 9 Minneapolis-St. Paul HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78770
+#EXTINF:-1 group-title="skytv4k",Fox Sports Ohio HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78771
+#EXTINF:-1 group-title="skytv4k",Fox Sports TENNESSEE HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78772
+#EXTINF:-1 group-title="skytv4k",Fox Sports MIDWEST HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78773
+#EXTINF:-1 group-title="skytv4k",Fox 10 Phoenix HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78775
+#EXTINF:-1 group-title="skytv4k",Fox Sports San Antonio HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78776
+#EXTINF:-1 group-title="skytv4k",Fox Sports Time Ohio HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78777
+#EXTINF:-1 group-title="skytv4k",Fox Sports Ohio Plus HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78778
+#EXTINF:-1 group-title="skytv4k",SNY HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78779
+#EXTINF:-1 group-title="skytv4k",Fox 11 LosAngeles HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78780
+#EXTINF:-1 group-title="skytv4k",FNTSY Sports Network HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78781
+#EXTINF:-1 group-title="skytv4k",MSG+ 22 HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78782
+#EXTINF:-1 group-title="skytv4k",NBCSN Sacramento HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78783
+#EXTINF:-1 group-title="skytv4k",NBCSN Phili HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78784
+#EXTINF:-1 group-title="skytv4k",NBCSN SNY HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78785
+#EXTINF:-1 group-title="skytv4k",NBCSN Chicago Plus HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78786
+#EXTINF:-1 group-title="skytv4k",NBCSN Washington HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78787
+#EXTINF:-1 group-title="skytv4k",ABC 7 ( New York ) HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78802
+#EXTINF:-1 group-title="skytv4k",NBC New York HD VIP
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78803
+#EXTINF:-1 group-title="skytv4k",Lifetime Movies HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82796
+#EXTINF:-1 group-title="skytv4k",We TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82797
+#EXTINF:-1 group-title="skytv4k",ACC Network HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82798
+#EXTINF:-1 group-title="skytv4k",AccuWeather FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82799
+#EXTINF:-1 group-title="skytv4k",HBO LATINO HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82800
+#EXTINF:-1 group-title="skytv4k",The Movie Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82801
+#EXTINF:-1 group-title="skytv4k",HDNET MOVIES HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82802
+#EXTINF:-1 group-title="skytv4k",MGM FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82803
+#EXTINF:-1 group-title="skytv4k",MGM SCI-FI
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82804
+#EXTINF:-1 group-title="skytv4k",WEATHER NATION HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82814
+#EXTINF:-1 group-title="skytv4k",The Weather Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82815
+#EXTINF:-1 group-title="skytv4k",Bounce TV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82816
+#EXTINF:-1 group-title="skytv4k",HALLMARK DRAMA HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82817
+#EXTINF:-1 group-title="skytv4k",ME TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82818
+#EXTINF:-1 group-title="skytv4k",NECN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82819
+#EXTINF:-1 group-title="skytv4k",BBC America FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82820
+#EXTINF:-1 group-title="skytv4k",BBC America HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82821
+#EXTINF:-1 group-title="skytv4k",Law &amp; Crime Rewind (S) FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82822
+#EXTINF:-1 group-title="skytv4k",Law & Crime Network (F) FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82823
+#EXTINF:-1 group-title="skytv4k",Free Speech TV (S) FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82824
+#EXTINF:-1 group-title="skytv4k",Free Speech TV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82825
+#EXTINF:-1 group-title="skytv4k",TBD HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82826
+#EXTINF:-1 group-title="skytv4k",Court TV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82827
+#EXTINF:-1 group-title="skytv4k",COWBOY CHANNEL HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82829
+#EXTINF:-1 group-title="skytv4k",TCM HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82830
+#EXTINF:-1 group-title="skytv4k",FXM HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82831
+#EXTINF:-1 group-title="skytv4k",FXX HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82832
+#EXTINF:-1 group-title="skytv4k",Viceland HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82833
+#EXTINF:-1 group-title="skytv4k",Red Apple 21 - Fairfax County Public Schools - Virginia
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82841
+#EXTINF:-1 group-title="skytv4k",ION TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83204
+#EXTINF:-1 group-title="skytv4k",Outside TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83214
+#EXTINF:-1 group-title="skytv4k",Redbull TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83215
+#EXTINF:-1 group-title="skytv4k",SPORTSMAN CHANNEL FHD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83216
+#EXTINF:-1 group-title="skytv4k",Olympic Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83217
+#EXTINF:-1 group-title="skytv4k",Antenna TV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83548
+#EXTINF:-1 group-title="skytv4k",COOKING CHANNEL
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83549
+#EXTINF:-1 group-title="skytv4k",Cooking Channel HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83550
+#EXTINF:-1 group-title="skytv4k",Cozi TV
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83551
+#EXTINF:-1 group-title="skytv4k",CTV sci-fi HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83552
+#EXTINF:-1 group-title="skytv4k",CTV DRAMA HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83553
+#EXTINF:-1 group-title="skytv4k",EPIX  HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83555
+#EXTINF:-1 group-title="skytv4k",EPIX 2 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83556
+#EXTINF:-1 group-title="skytv4k",EPIX DRIVE IN HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83557
+#EXTINF:-1 group-title="skytv4k",EPIX HITS HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83558
+#EXTINF:-1 group-title="skytv4k",Logo HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83559
+#EXTINF:-1 group-title="skytv4k",Speed Sport 1 HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83560
+#EXTINF:-1 group-title="skytv4k",Oxygen HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83561
+#EXTINF:-1 group-title="skytv4k",Shorts TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83562
+#EXTINF:-1 group-title="skytv4k",Start TV HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83563
+#EXTINF:-1 group-title="skytv4k",Tastemade HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83564
+#EXTINF:-1 group-title="skytv4k",UP HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83565
+#EXTINF:-1 group-title="skytv4k",WGN America HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83566
+#EXTINF:-1 group-title="skytv4k",WGN-TV 9  Chicago HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83567
+#EXTINF:-1 group-title="skytv4k",WORLD FISHING NETWORK HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83568
+#EXTINF:-1 group-title="skytv4k",CMT HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/89983
+#EXTINF:-1 group-title="skytv4k",CBS WPEC West Palm Beach HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/90056
+#EXTINF:-1 group-title="skytv4k",Revolt HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/95073
+#EXTINF:-1 group-title="skytv4k",Buzzr HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/90060
+#EXTINF:-1 group-title="skytv4k",GAC Family HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/110605
+#EXTINF:-1 group-title="skytv4k",AWE HD
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/110772
+
+
 #EXTINF:-1 group-title="amster9216",DAS ERSTE 4K
 http://amster9216.pro:8080/play/live.php?mac=00:1A:79:1F:19:86&stream=552083&extension=ts&play_token=RxaVt3IbaG
 #EXTINF:-1 group-title="amster9216",ZDF 4K
