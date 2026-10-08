@@ -1,549 +1,1059 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="skytv4k", Marquee Sports Plus HD
+#EXTINF:-1 group-title="skytv4k-US", Marquee Sports Plus HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118142
-#EXTINF:-1 group-title="skytv4k", Marquee Sports Network HD
+#EXTINF:-1 group-title="skytv4k-US", Marquee Sports Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118141
-#EXTINF:-1 group-title="skytv4k",Newsmax TV HD
+#EXTINF:-1 group-title="skytv4k-US",Newsmax TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/90932
-#EXTINF:-1 group-title="skytv4k",A&E HD
+#EXTINF:-1 group-title="skytv4k-US",A&E HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/550
-#EXTINF:-1 group-title="skytv4k",A&E TV HD
+#EXTINF:-1 group-title="skytv4k-US",A&E TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7771
-#EXTINF:-1 group-title="skytv4k",ABC FHD
+#EXTINF:-1 group-title="skytv4k-US",ABC FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7592
-#EXTINF:-1 group-title="skytv4k",ABC HD
+#EXTINF:-1 group-title="skytv4k-US",ABC HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/539
-#EXTINF:-1 group-title="skytv4k",ABC News HD
+#EXTINF:-1 group-title="skytv4k-US",ABC News HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/540
-#EXTINF:-1 group-title="skytv4k",AFN Sport 1
+#EXTINF:-1 group-title="skytv4k-US",AFN Sport 1
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/1136
-#EXTINF:-1 group-title="skytv4k",Amazing Discoveries HD
+#EXTINF:-1 group-title="skytv4k-US",Amazing Discoveries HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/551
-#EXTINF:-1 group-title="skytv4k",AMC HD
+#EXTINF:-1 group-title="skytv4k-US",AMC HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/521
-#EXTINF:-1 group-title="skytv4k",AMC
+#EXTINF:-1 group-title="skytv4k-US",AMC
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7792
-#EXTINF:-1 group-title="skytv4k",Animal Planet
+#EXTINF:-1 group-title="skytv4k-US",Animal Planet
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7791
-#EXTINF:-1 group-title="skytv4k",beINSports HD
+#EXTINF:-1 group-title="skytv4k-US",beINSports HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/506
-#EXTINF:-1 group-title="skytv4k",BET HD
+#EXTINF:-1 group-title="skytv4k-US",BET HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7770
-#EXTINF:-1 group-title="skytv4k",Bloomberg Europe
+#EXTINF:-1 group-title="skytv4k-US",Bloomberg Europe
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/503
-#EXTINF:-1 group-title="skytv4k",Bloomberg TV HD
+#EXTINF:-1 group-title="skytv4k-US",Bloomberg TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/489
-#EXTINF:-1 group-title="skytv4k",Boomerang
+#EXTINF:-1 group-title="skytv4k-US",Boomerang
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/502
-#EXTINF:-1 group-title="skytv4k",Bravo HD
+#EXTINF:-1 group-title="skytv4k-US",Bravo HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/541
-#EXTINF:-1 group-title="skytv4k",Bravo
+#EXTINF:-1 group-title="skytv4k-US",Bravo
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7790
-#EXTINF:-1 group-title="skytv4k",BYU TV
+#EXTINF:-1 group-title="skytv4k-US",BYU TV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/522
-#EXTINF:-1 group-title="skytv4k",C-Span 1
+#EXTINF:-1 group-title="skytv4k-US",C-Span 1
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/564
-#EXTINF:-1 group-title="skytv4k",C-Span 2
+#EXTINF:-1 group-title="skytv4k-US",C-Span 2
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/565
-#EXTINF:-1 group-title="skytv4k",C-Span 3
+#EXTINF:-1 group-title="skytv4k-US",C-Span 3
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/566
-#EXTINF:-1 group-title="skytv4k",Cable News Network HD
+#EXTINF:-1 group-title="skytv4k-US",Cable News Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7769
-#EXTINF:-1 group-title="skytv4k",Cartoon Network
+#EXTINF:-1 group-title="skytv4k-US",Cartoon Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/523
-#EXTINF:-1 group-title="skytv4k",CBS
+#EXTINF:-1 group-title="skytv4k-US",CBS
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/486
-#EXTINF:-1 group-title="skytv4k",CBSN HD
+#EXTINF:-1 group-title="skytv4k-US",CBSN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/524
-#EXTINF:-1 group-title="skytv4k",CineMax 5 StarMax
+#EXTINF:-1 group-title="skytv4k-US",CineMax 5 StarMax
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/507
-#EXTINF:-1 group-title="skytv4k",CineMax Action HD
+#EXTINF:-1 group-title="skytv4k-US",CineMax Action HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/567
-#EXTINF:-1 group-title="skytv4k",Cinemax Action
+#EXTINF:-1 group-title="skytv4k-US",Cinemax Action
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7789
-#EXTINF:-1 group-title="skytv4k",CineMax ActionMax East
+#EXTINF:-1 group-title="skytv4k-US",CineMax ActionMax East
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/508
-#EXTINF:-1 group-title="skytv4k",CineMax East
+#EXTINF:-1 group-title="skytv4k-US",CineMax East
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/509
-#EXTINF:-1 group-title="skytv4k",Cinemax More HD
+#EXTINF:-1 group-title="skytv4k-US",Cinemax More HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7768
-#EXTINF:-1 group-title="skytv4k",CineMax MoreMax
+#EXTINF:-1 group-title="skytv4k-US",CineMax MoreMax
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/501
-#EXTINF:-1 group-title="skytv4k",CNBC
+#EXTINF:-1 group-title="skytv4k-US",CNBC
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/525
-#EXTINF:-1 group-title="skytv4k",CNN HD
+#EXTINF:-1 group-title="skytv4k-US",CNN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/568
-#EXTINF:-1 group-title="skytv4k",Comedy Central FHD
+#EXTINF:-1 group-title="skytv4k-US",Comedy Central FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/542
-#EXTINF:-1 group-title="skytv4k",Comedy Central
+#EXTINF:-1 group-title="skytv4k-US",Comedy Central
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7788
-#EXTINF:-1 group-title="skytv4k",CW HD
+#EXTINF:-1 group-title="skytv4k-US",CW HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/543
-#EXTINF:-1 group-title="skytv4k",CW
+#EXTINF:-1 group-title="skytv4k-US",CW
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7777
-#EXTINF:-1 group-title="skytv4k",CW11
+#EXTINF:-1 group-title="skytv4k-US",CW11
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/500
-#EXTINF:-1 group-title="skytv4k",Discovery Channel CA FHD
+#EXTINF:-1 group-title="skytv4k-US",Discovery Channel CA FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7580
-#EXTINF:-1 group-title="skytv4k",Discovery Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Discovery Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7767
-#EXTINF:-1 group-title="skytv4k",Discovery HD
+#EXTINF:-1 group-title="skytv4k-US",Discovery HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/526
-#EXTINF:-1 group-title="skytv4k",Discovery Science HD
+#EXTINF:-1 group-title="skytv4k-US",Discovery Science HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/510
-#EXTINF:-1 group-title="skytv4k",Discovery Velocity
+#EXTINF:-1 group-title="skytv4k-US",Discovery Velocity
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/527
-#EXTINF:-1 group-title="skytv4k",Disney Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Disney Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7766
-#EXTINF:-1 group-title="skytv4k",Disney XD HD
+#EXTINF:-1 group-title="skytv4k-US",Disney XD HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7765
-#EXTINF:-1 group-title="skytv4k",DIY Network HD
+#EXTINF:-1 group-title="skytv4k-US",DIY Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7728
-#EXTINF:-1 group-title="skytv4k",DIY Network
+#EXTINF:-1 group-title="skytv4k-US",DIY Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/482
-#EXTINF:-1 group-title="skytv4k",DW
+#EXTINF:-1 group-title="skytv4k-US",DW
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/528
-#EXTINF:-1 group-title="skytv4k",E! Entertainment HD
+#EXTINF:-1 group-title="skytv4k-US",E! Entertainment HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7764
-#EXTINF:-1 group-title="skytv4k",El Rey Network HD
+#EXTINF:-1 group-title="skytv4k-US",El Rey Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7715
-#EXTINF:-1 group-title="skytv4k",ESPN 1 HD
+#EXTINF:-1 group-title="skytv4k-US",ESPN 1 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7763
-#EXTINF:-1 group-title="skytv4k",ESPN 1
+#EXTINF:-1 group-title="skytv4k-US",ESPN 1
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/552
-#EXTINF:-1 group-title="skytv4k",ESPN 2 FHD
+#EXTINF:-1 group-title="skytv4k-US",ESPN 2 FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/569
-#EXTINF:-1 group-title="skytv4k",ESPN 2
+#EXTINF:-1 group-title="skytv4k-US",ESPN 2
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7787
-#EXTINF:-1 group-title="skytv4k",ESPN HD
+#EXTINF:-1 group-title="skytv4k-US",ESPN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/544
-#EXTINF:-1 group-title="skytv4k",Fight HD
+#EXTINF:-1 group-title="skytv4k-US",Fight HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/529
-#EXTINF:-1 group-title="skytv4k",Fight Sport HD
+#EXTINF:-1 group-title="skytv4k-US",Fight Sport HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/584
-#EXTINF:-1 group-title="skytv4k",Food Network HD
+#EXTINF:-1 group-title="skytv4k-US",Food Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/511
-#EXTINF:-1 group-title="skytv4k",Food Network
+#EXTINF:-1 group-title="skytv4k-US",Food Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7783
-#EXTINF:-1 group-title="skytv4k",FOX 43
+#EXTINF:-1 group-title="skytv4k-US",FOX 43
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/570
-#EXTINF:-1 group-title="skytv4k",Fox HD
+#EXTINF:-1 group-title="skytv4k-US",Fox HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/512
-#EXTINF:-1 group-title="skytv4k",Fox News HD
+#EXTINF:-1 group-title="skytv4k-US",Fox News HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/545
-#EXTINF:-1 group-title="skytv4k",Fox Soccer Plus HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Soccer Plus HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6206
-#EXTINF:-1 group-title="skytv4k",Fox Soccer Plus
+#EXTINF:-1 group-title="skytv4k-US",Fox Soccer Plus
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7785
-#EXTINF:-1 group-title="skytv4k",Fox Sports 1 HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports 1 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/553
-#EXTINF:-1 group-title="skytv4k",Fox Sports 1
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports 1
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7786
-#EXTINF:-1 group-title="skytv4k",Fox Sports 2 FHD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports 2 FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/554
-#EXTINF:-1 group-title="skytv4k",Fox Sports 2 HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports 2 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7759
-#EXTINF:-1 group-title="skytv4k",Fox Sports 506 HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports 506 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/571
-#EXTINF:-1 group-title="skytv4k",Fox Sports College Central HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports College Central HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7756
-#EXTINF:-1 group-title="skytv4k",Fox Sports HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7760
-#EXTINF:-1 group-title="skytv4k",Fox Sports North HD
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports North HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7752
-#EXTINF:-1 group-title="skytv4k",Free Form HD
+#EXTINF:-1 group-title="skytv4k-US",Free Form HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/572
-#EXTINF:-1 group-title="skytv4k",FreeForm HD
+#EXTINF:-1 group-title="skytv4k-US",FreeForm HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7688
-#EXTINF:-1 group-title="skytv4k",FX HD
+#EXTINF:-1 group-title="skytv4k-US",FX HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/513
-#EXTINF:-1 group-title="skytv4k",FX
+#EXTINF:-1 group-title="skytv4k-US",FX
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7784
-#EXTINF:-1 group-title="skytv4k",GSN HD
+#EXTINF:-1 group-title="skytv4k-US",GSN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7749
-#EXTINF:-1 group-title="skytv4k",H2
+#EXTINF:-1 group-title="skytv4k-US",H2
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/514
-#EXTINF:-1 group-title="skytv4k",Hallmark Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Hallmark Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7746
-#EXTINF:-1 group-title="skytv4k",Hallmark
+#EXTINF:-1 group-title="skytv4k-US",Hallmark
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/515
-#EXTINF:-1 group-title="skytv4k",HBO Comedy HD
+#EXTINF:-1 group-title="skytv4k-US",HBO Comedy HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/530
-#EXTINF:-1 group-title="skytv4k",HBO East
+#EXTINF:-1 group-title="skytv4k-US",HBO East
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/483
-#EXTINF:-1 group-title="skytv4k",HBO Family HD
+#EXTINF:-1 group-title="skytv4k-US",HBO Family HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7748
-#EXTINF:-1 group-title="skytv4k",HBO HD
+#EXTINF:-1 group-title="skytv4k-US",HBO HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/531
-#EXTINF:-1 group-title="skytv4k",HBO Signature HD
+#EXTINF:-1 group-title="skytv4k-US",HBO Signature HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7747
-#EXTINF:-1 group-title="skytv4k",HBO Signature
+#EXTINF:-1 group-title="skytv4k-US",HBO Signature
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/484
-#EXTINF:-1 group-title="skytv4k",HBO
+#EXTINF:-1 group-title="skytv4k-US",HBO
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7776
-#EXTINF:-1 group-title="skytv4k",HBO Zone
+#EXTINF:-1 group-title="skytv4k-US",HBO Zone
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/532
-#EXTINF:-1 group-title="skytv4k",HGTV HD
+#EXTINF:-1 group-title="skytv4k-US",HGTV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/495
-#EXTINF:-1 group-title="skytv4k",HGTV
+#EXTINF:-1 group-title="skytv4k-US",HGTV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7782
-#EXTINF:-1 group-title="skytv4k",History HD
+#EXTINF:-1 group-title="skytv4k-US",History HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/546
-#EXTINF:-1 group-title="skytv4k",History
+#EXTINF:-1 group-title="skytv4k-US",History
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7781
-#EXTINF:-1 group-title="skytv4k",IFC HD
+#EXTINF:-1 group-title="skytv4k-US",IFC HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7710
-#EXTINF:-1 group-title="skytv4k",Investigation Discovery HD
+#EXTINF:-1 group-title="skytv4k-US",Investigation Discovery HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7693
-#EXTINF:-1 group-title="skytv4k",Lifetime HD
+#EXTINF:-1 group-title="skytv4k-US",Lifetime HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7745
-#EXTINF:-1 group-title="skytv4k",MLB HD
+#EXTINF:-1 group-title="skytv4k-US",MLB HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/573
-#EXTINF:-1 group-title="skytv4k",MLB Network HD
+#EXTINF:-1 group-title="skytv4k-US",MLB Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7701
-#EXTINF:-1 group-title="skytv4k",MLB Network
+#EXTINF:-1 group-title="skytv4k-US",MLB Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/574
-#EXTINF:-1 group-title="skytv4k",MLB EXTRA INNINGS MULTI-VIEW (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB EXTRA INNINGS MULTI-VIEW (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107823
-#EXTINF:-1 group-title="skytv4k",MLB-1 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-1 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107810
-#EXTINF:-1 group-title="skytv4k",MLB-2 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-2 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107811
-#EXTINF:-1 group-title="skytv4k",MLB-3 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-3 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107812
-#EXTINF:-1 group-title="skytv4k",MLB-4 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-4 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107813
-#EXTINF:-1 group-title="skytv4k",MLB-5 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-5 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107814
-#EXTINF:-1 group-title="skytv4k",MLB-6 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-6 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107815
-#EXTINF:-1 group-title="skytv4k",MLB-7 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-7 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107816
-#EXTINF:-1 group-title="skytv4k",MLB-8 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-8 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107817
-#EXTINF:-1 group-title="skytv4k",MLB-9 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-9 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107818
-#EXTINF:-1 group-title="skytv4k",MLB-10 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-10 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107819
-#EXTINF:-1 group-title="skytv4k",MLB-11 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-11 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107820
-#EXTINF:-1 group-title="skytv4k",MLB-12 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-12 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107821
-#EXTINF:-1 group-title="skytv4k",MLB-13 (CX)
+#EXTINF:-1 group-title="skytv4k-US",MLB-13 (CX)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/107822
-#EXTINF:-1 group-title="skytv4k",MSNBC HD
+#EXTINF:-1 group-title="skytv4k-US",MSNBC HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/575
-#EXTINF:-1 group-title="skytv4k",MSNBC HD (Web)
+#EXTINF:-1 group-title="skytv4k-US",MSNBC HD (Web)
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/16058
-#EXTINF:-1 group-title="skytv4k",MTV Base HD
+#EXTINF:-1 group-title="skytv4k-US",MTV Base HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7744
-#EXTINF:-1 group-title="skytv4k",MTV Rocks
+#EXTINF:-1 group-title="skytv4k-US",MTV Rocks
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/494
-#EXTINF:-1 group-title="skytv4k",Nat Geo Wild HD
+#EXTINF:-1 group-title="skytv4k-US",Nat Geo Wild HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7692
-#EXTINF:-1 group-title="skytv4k",Nat Geographic HD
+#EXTINF:-1 group-title="skytv4k-US",Nat Geographic HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7691
-#EXTINF:-1 group-title="skytv4k",National Geographic
+#EXTINF:-1 group-title="skytv4k-US",National Geographic
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/517
-#EXTINF:-1 group-title="skytv4k",NBA HD
+#EXTINF:-1 group-title="skytv4k-US",NBA HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/533
-#EXTINF:-1 group-title="skytv4k",NBA Live 1 HD
+#EXTINF:-1 group-title="skytv4k-US",NBA Live 1 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/8538
-#EXTINF:-1 group-title="skytv4k",NBC Golf Channel FHD
+#EXTINF:-1 group-title="skytv4k-US",NBC Golf Channel FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6147
-#EXTINF:-1 group-title="skytv4k",NBC Golf Channel HD
+#EXTINF:-1 group-title="skytv4k-US",NBC Golf Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6146
-#EXTINF:-1 group-title="skytv4k",NBC Golf HD
+#EXTINF:-1 group-title="skytv4k-US",NBC Golf HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7743
-#EXTINF:-1 group-title="skytv4k",NBC News HD
+#EXTINF:-1 group-title="skytv4k-US",NBC News HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7742
-#EXTINF:-1 group-title="skytv4k",NBC SN HD
+#EXTINF:-1 group-title="skytv4k-US",NBC SN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7741
-#EXTINF:-1 group-title="skytv4k",NBC News Now
+#EXTINF:-1 group-title="skytv4k-US",NBC News Now
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/490
-#EXTINF:-1 group-title="skytv4k",NBCSN HD
+#EXTINF:-1 group-title="skytv4k-US",NBCSN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/555
-#EXTINF:-1 group-title="skytv4k",NFL Network 1
+#EXTINF:-1 group-title="skytv4k-US",NFL Network 1
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/504
-#EXTINF:-1 group-title="skytv4k",NFL Network FHD
+#EXTINF:-1 group-title="skytv4k-US",NFL Network FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/505
-#EXTINF:-1 group-title="skytv4k",NFL Network HD
+#EXTINF:-1 group-title="skytv4k-US",NFL Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/556
-#EXTINF:-1 group-title="skytv4k",NFL Network
+#EXTINF:-1 group-title="skytv4k-US",NFL Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7793
-#EXTINF:-1 group-title="skytv4k",NFL Now HD
+#EXTINF:-1 group-title="skytv4k-US",NFL Now HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7773
-#EXTINF:-1 group-title="skytv4k",NFL Redzone HD
+#EXTINF:-1 group-title="skytv4k-US",NFL Redzone HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7772
-#EXTINF:-1 group-title="skytv4k",NHL Network
+#EXTINF:-1 group-title="skytv4k-US",NHL Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/576
-#EXTINF:-1 group-title="skytv4k",Oprah Winfrey Network HD
+#EXTINF:-1 group-title="skytv4k-US",Oprah Winfrey Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7740
-#EXTINF:-1 group-title="skytv4k",Outdoor Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Outdoor Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/493
-#EXTINF:-1 group-title="skytv4k",Reelz HD
+#EXTINF:-1 group-title="skytv4k-US",Reelz HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7739
-#EXTINF:-1 group-title="skytv4k",Science HD
+#EXTINF:-1 group-title="skytv4k-US",Science HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7738
-#EXTINF:-1 group-title="skytv4k",SEC Network HD
+#EXTINF:-1 group-title="skytv4k-US",SEC Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7707
-#EXTINF:-1 group-title="skytv4k",Showtime 2 HD
+#EXTINF:-1 group-title="skytv4k-US",Showtime 2 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7737
-#EXTINF:-1 group-title="skytv4k",Showtime 2
+#EXTINF:-1 group-title="skytv4k-US",Showtime 2
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/534
-#EXTINF:-1 group-title="skytv4k",Showtime East HD
+#EXTINF:-1 group-title="skytv4k-US",Showtime East HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7736
-#EXTINF:-1 group-title="skytv4k",Showtime FHD
+#EXTINF:-1 group-title="skytv4k-US",Showtime FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/535
-#EXTINF:-1 group-title="skytv4k",Showtime Showcase HD
+#EXTINF:-1 group-title="skytv4k-US",Showtime Showcase HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7735
-#EXTINF:-1 group-title="skytv4k",Showtime West
+#EXTINF:-1 group-title="skytv4k-US",Showtime West
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/485
-#EXTINF:-1 group-title="skytv4k",Paramount Network HD
+#EXTINF:-1 group-title="skytv4k-US",Paramount Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/518
-#EXTINF:-1 group-title="skytv4k",Paramount Network
+#EXTINF:-1 group-title="skytv4k-US",Paramount Network
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7727
-#EXTINF:-1 group-title="skytv4k",Starz Cinema
+#EXTINF:-1 group-title="skytv4k-US",Starz Cinema
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/536
-#EXTINF:-1 group-title="skytv4k",Starz Comedy
+#EXTINF:-1 group-title="skytv4k-US",Starz Comedy
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/537
-#EXTINF:-1 group-title="skytv4k",Starz Edge HD
+#EXTINF:-1 group-title="skytv4k-US",Starz Edge HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/519
-#EXTINF:-1 group-title="skytv4k",Starz Edge
+#EXTINF:-1 group-title="skytv4k-US",Starz Edge
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7780
-#EXTINF:-1 group-title="skytv4k",Starz Encore HD
+#EXTINF:-1 group-title="skytv4k-US",Starz Encore HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7731
-#EXTINF:-1 group-title="skytv4k",Starz Encore
+#EXTINF:-1 group-title="skytv4k-US",Starz Encore
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/538
-#EXTINF:-1 group-title="skytv4k",SyFy HD
+#EXTINF:-1 group-title="skytv4k-US",SyFy HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/548
-#EXTINF:-1 group-title="skytv4k",SyFy
+#EXTINF:-1 group-title="skytv4k-US",SyFy
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7779
-#EXTINF:-1 group-title="skytv4k",TBS HD
+#EXTINF:-1 group-title="skytv4k-US",TBS HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/578
-#EXTINF:-1 group-title="skytv4k",TNT HD
+#EXTINF:-1 group-title="skytv4k-US",TNT HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/549
-#EXTINF:-1 group-title="skytv4k",Travel Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Travel Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7694
-#EXTINF:-1 group-title="skytv4k",Tru TV HD
+#EXTINF:-1 group-title="skytv4k-US",Tru TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7705
-#EXTINF:-1 group-title="skytv4k",UFC Fight Pass
+#EXTINF:-1 group-title="skytv4k-US",UFC Fight Pass
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/6421
-#EXTINF:-1 group-title="skytv4k",Univision HD
+#EXTINF:-1 group-title="skytv4k-US",Univision HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7704
-#EXTINF:-1 group-title="skytv4k",USA Network (backup) HD
+#EXTINF:-1 group-title="skytv4k-US",USA Network (backup) HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/520
-#EXTINF:-1 group-title="skytv4k",USA HD
+#EXTINF:-1 group-title="skytv4k-US",USA HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7729
-#EXTINF:-1 group-title="skytv4k",USA Network HD
+#EXTINF:-1 group-title="skytv4k-US",USA Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/547
-#EXTINF:-1 group-title="skytv4k",VH1 Classic
+#EXTINF:-1 group-title="skytv4k-US",VH1 Classic
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/491
-#EXTINF:-1 group-title="skytv4k",WWE HD
+#EXTINF:-1 group-title="skytv4k-US",WWE HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/562
-#EXTINF:-1 group-title="skytv4k",WWE Network FHD
+#EXTINF:-1 group-title="skytv4k-US",WWE Network FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7544
-#EXTINF:-1 group-title="skytv4k",WWE
+#EXTINF:-1 group-title="skytv4k-US",WWE
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/7778
-#EXTINF:-1 group-title="skytv4k",NESN HD
+#EXTINF:-1 group-title="skytv4k-US",NESN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78410
-#EXTINF:-1 group-title="skytv4k",NESN Plus HD
+#EXTINF:-1 group-title="skytv4k-US",NESN Plus HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78411
-#EXTINF:-1 group-title="skytv4k",Universal Kids HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Universal Kids HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78675
-#EXTINF:-1 group-title="skytv4k",Fox Sports Prime Ticket HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports Prime Ticket HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78751
-#EXTINF:-1 group-title="skytv4k",AT&T SPORTSNET HD VIP
+#EXTINF:-1 group-title="skytv4k-US",AT&T SPORTSNET HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78752
-#EXTINF:-1 group-title="skytv4k",AT&T SPORTSNET SOUTHWEST HD VIP
+#EXTINF:-1 group-title="skytv4k-US",AT&T SPORTSNET SOUTHWEST HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78753
-#EXTINF:-1 group-title="skytv4k",Fox 2 Detroit HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 2 Detroit HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78754
-#EXTINF:-1 group-title="skytv4k",Fox Sports Oklahoma HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports Oklahoma HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78755
-#EXTINF:-1 group-title="skytv4k",Fox 2 San Francisco HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 2 San Francisco HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78756
-#EXTINF:-1 group-title="skytv4k",Fox Sports Arizona HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports Arizona HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78757
-#EXTINF:-1 group-title="skytv4k",Fox Sports New Orleans HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports New Orleans HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78758
-#EXTINF:-1 group-title="skytv4k",Fox 4 Dallas | Fort Worth HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 4 Dallas | Fort Worth HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78759
-#EXTINF:-1 group-title="skytv4k",Fox 5 Atlanta HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 5 Atlanta HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78760
-#EXTINF:-1 group-title="skytv4k",Fox 5 New York HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 5 New York HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78761
-#EXTINF:-1 group-title="skytv4k",Yes Network HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Yes Network HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78762
-#EXTINF:-1 group-title="skytv4k",Fox 5 Washington DC HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 5 Washington DC HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78763
-#EXTINF:-1 group-title="skytv4k",MSG HD VIP
+#EXTINF:-1 group-title="skytv4k-US",MSG HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78764
-#EXTINF:-1 group-title="skytv4k",MSG 2 HD VIP
+#EXTINF:-1 group-title="skytv4k-US",MSG 2 HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78765
-#EXTINF:-1 group-title="skytv4k",Fox 6 Milwaukee HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 6 Milwaukee HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78768
-#EXTINF:-1 group-title="skytv4k",Fox 7 Austin HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 7 Austin HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78769
-#EXTINF:-1 group-title="skytv4k",Fox 9 Minneapolis-St. Paul HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 9 Minneapolis-St. Paul HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78770
-#EXTINF:-1 group-title="skytv4k",Fox Sports Ohio HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports Ohio HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78771
-#EXTINF:-1 group-title="skytv4k",Fox Sports TENNESSEE HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports TENNESSEE HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78772
-#EXTINF:-1 group-title="skytv4k",Fox Sports MIDWEST HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports MIDWEST HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78773
-#EXTINF:-1 group-title="skytv4k",Fox 10 Phoenix HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 10 Phoenix HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78775
-#EXTINF:-1 group-title="skytv4k",Fox Sports San Antonio HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports San Antonio HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78776
-#EXTINF:-1 group-title="skytv4k",Fox Sports Time Ohio HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports Time Ohio HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78777
-#EXTINF:-1 group-title="skytv4k",Fox Sports Ohio Plus HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox Sports Ohio Plus HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78778
-#EXTINF:-1 group-title="skytv4k",SNY HD VIP
+#EXTINF:-1 group-title="skytv4k-US",SNY HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78779
-#EXTINF:-1 group-title="skytv4k",Fox 11 LosAngeles HD VIP
+#EXTINF:-1 group-title="skytv4k-US",Fox 11 LosAngeles HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78780
-#EXTINF:-1 group-title="skytv4k",FNTSY Sports Network HD VIP
+#EXTINF:-1 group-title="skytv4k-US",FNTSY Sports Network HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78781
-#EXTINF:-1 group-title="skytv4k",MSG+ 22 HD VIP
+#EXTINF:-1 group-title="skytv4k-US",MSG+ 22 HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78782
-#EXTINF:-1 group-title="skytv4k",NBCSN Sacramento HD VIP
+#EXTINF:-1 group-title="skytv4k-US",NBCSN Sacramento HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78783
-#EXTINF:-1 group-title="skytv4k",NBCSN Phili HD VIP
+#EXTINF:-1 group-title="skytv4k-US",NBCSN Phili HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78784
-#EXTINF:-1 group-title="skytv4k",NBCSN SNY HD VIP
+#EXTINF:-1 group-title="skytv4k-US",NBCSN SNY HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78785
-#EXTINF:-1 group-title="skytv4k",NBCSN Chicago Plus HD VIP
+#EXTINF:-1 group-title="skytv4k-US",NBCSN Chicago Plus HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78786
-#EXTINF:-1 group-title="skytv4k",NBCSN Washington HD VIP
+#EXTINF:-1 group-title="skytv4k-US",NBCSN Washington HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78787
-#EXTINF:-1 group-title="skytv4k",ABC 7 ( New York ) HD VIP
+#EXTINF:-1 group-title="skytv4k-US",ABC 7 ( New York ) HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78802
-#EXTINF:-1 group-title="skytv4k",NBC New York HD VIP
+#EXTINF:-1 group-title="skytv4k-US",NBC New York HD VIP
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/78803
-#EXTINF:-1 group-title="skytv4k",Lifetime Movies HD
+#EXTINF:-1 group-title="skytv4k-US",Lifetime Movies HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82796
-#EXTINF:-1 group-title="skytv4k",We TV HD
+#EXTINF:-1 group-title="skytv4k-US",We TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82797
-#EXTINF:-1 group-title="skytv4k",ACC Network HD
+#EXTINF:-1 group-title="skytv4k-US",ACC Network HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82798
-#EXTINF:-1 group-title="skytv4k",AccuWeather FHD
+#EXTINF:-1 group-title="skytv4k-US",AccuWeather FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82799
-#EXTINF:-1 group-title="skytv4k",HBO LATINO HD
+#EXTINF:-1 group-title="skytv4k-US",HBO LATINO HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82800
-#EXTINF:-1 group-title="skytv4k",The Movie Channel HD
+#EXTINF:-1 group-title="skytv4k-US",The Movie Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82801
-#EXTINF:-1 group-title="skytv4k",HDNET MOVIES HD
+#EXTINF:-1 group-title="skytv4k-US",HDNET MOVIES HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82802
-#EXTINF:-1 group-title="skytv4k",MGM FHD
+#EXTINF:-1 group-title="skytv4k-US",MGM FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82803
-#EXTINF:-1 group-title="skytv4k",MGM SCI-FI
+#EXTINF:-1 group-title="skytv4k-US",MGM SCI-FI
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82804
-#EXTINF:-1 group-title="skytv4k",WEATHER NATION HD
+#EXTINF:-1 group-title="skytv4k-US",WEATHER NATION HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82814
-#EXTINF:-1 group-title="skytv4k",The Weather Channel HD
+#EXTINF:-1 group-title="skytv4k-US",The Weather Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82815
-#EXTINF:-1 group-title="skytv4k",Bounce TV
+#EXTINF:-1 group-title="skytv4k-US",Bounce TV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82816
-#EXTINF:-1 group-title="skytv4k",HALLMARK DRAMA HD
+#EXTINF:-1 group-title="skytv4k-US",HALLMARK DRAMA HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82817
-#EXTINF:-1 group-title="skytv4k",ME TV HD
+#EXTINF:-1 group-title="skytv4k-US",ME TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82818
-#EXTINF:-1 group-title="skytv4k",NECN HD
+#EXTINF:-1 group-title="skytv4k-US",NECN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82819
-#EXTINF:-1 group-title="skytv4k",BBC America FHD
+#EXTINF:-1 group-title="skytv4k-US",BBC America FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82820
-#EXTINF:-1 group-title="skytv4k",BBC America HD
+#EXTINF:-1 group-title="skytv4k-US",BBC America HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82821
-#EXTINF:-1 group-title="skytv4k",Law &amp; Crime Rewind (S) FHD
+#EXTINF:-1 group-title="skytv4k-US",Law &amp; Crime Rewind (S) FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82822
-#EXTINF:-1 group-title="skytv4k",Law & Crime Network (F) FHD
+#EXTINF:-1 group-title="skytv4k-US",Law & Crime Network (F) FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82823
-#EXTINF:-1 group-title="skytv4k",Free Speech TV (S) FHD
+#EXTINF:-1 group-title="skytv4k-US",Free Speech TV (S) FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82824
-#EXTINF:-1 group-title="skytv4k",Free Speech TV
+#EXTINF:-1 group-title="skytv4k-US",Free Speech TV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82825
-#EXTINF:-1 group-title="skytv4k",TBD HD
+#EXTINF:-1 group-title="skytv4k-US",TBD HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82826
-#EXTINF:-1 group-title="skytv4k",Court TV
+#EXTINF:-1 group-title="skytv4k-US",Court TV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82827
-#EXTINF:-1 group-title="skytv4k",COWBOY CHANNEL HD
+#EXTINF:-1 group-title="skytv4k-US",COWBOY CHANNEL HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82829
-#EXTINF:-1 group-title="skytv4k",TCM HD
+#EXTINF:-1 group-title="skytv4k-US",TCM HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82830
-#EXTINF:-1 group-title="skytv4k",FXM HD
+#EXTINF:-1 group-title="skytv4k-US",FXM HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82831
-#EXTINF:-1 group-title="skytv4k",FXX HD
+#EXTINF:-1 group-title="skytv4k-US",FXX HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82832
-#EXTINF:-1 group-title="skytv4k",Viceland HD
+#EXTINF:-1 group-title="skytv4k-US",Viceland HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82833
-#EXTINF:-1 group-title="skytv4k",Red Apple 21 - Fairfax County Public Schools - Virginia
+#EXTINF:-1 group-title="skytv4k-US",Red Apple 21 - Fairfax County Public Schools - Virginia
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/82841
-#EXTINF:-1 group-title="skytv4k",ION TV HD
+#EXTINF:-1 group-title="skytv4k-US",ION TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83204
-#EXTINF:-1 group-title="skytv4k",Outside TV HD
+#EXTINF:-1 group-title="skytv4k-US",Outside TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83214
-#EXTINF:-1 group-title="skytv4k",Redbull TV HD
+#EXTINF:-1 group-title="skytv4k-US",Redbull TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83215
-#EXTINF:-1 group-title="skytv4k",SPORTSMAN CHANNEL FHD
+#EXTINF:-1 group-title="skytv4k-US",SPORTSMAN CHANNEL FHD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83216
-#EXTINF:-1 group-title="skytv4k",Olympic Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Olympic Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83217
-#EXTINF:-1 group-title="skytv4k",Antenna TV
+#EXTINF:-1 group-title="skytv4k-US",Antenna TV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83548
-#EXTINF:-1 group-title="skytv4k",COOKING CHANNEL
+#EXTINF:-1 group-title="skytv4k-US",COOKING CHANNEL
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83549
-#EXTINF:-1 group-title="skytv4k",Cooking Channel HD
+#EXTINF:-1 group-title="skytv4k-US",Cooking Channel HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83550
-#EXTINF:-1 group-title="skytv4k",Cozi TV
+#EXTINF:-1 group-title="skytv4k-US",Cozi TV
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83551
-#EXTINF:-1 group-title="skytv4k",CTV sci-fi HD
+#EXTINF:-1 group-title="skytv4k-US",CTV sci-fi HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83552
-#EXTINF:-1 group-title="skytv4k",CTV DRAMA HD
+#EXTINF:-1 group-title="skytv4k-US",CTV DRAMA HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83553
-#EXTINF:-1 group-title="skytv4k",EPIX  HD
+#EXTINF:-1 group-title="skytv4k-US",EPIX  HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83555
-#EXTINF:-1 group-title="skytv4k",EPIX 2 HD
+#EXTINF:-1 group-title="skytv4k-US",EPIX 2 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83556
-#EXTINF:-1 group-title="skytv4k",EPIX DRIVE IN HD
+#EXTINF:-1 group-title="skytv4k-US",EPIX DRIVE IN HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83557
-#EXTINF:-1 group-title="skytv4k",EPIX HITS HD
+#EXTINF:-1 group-title="skytv4k-US",EPIX HITS HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83558
-#EXTINF:-1 group-title="skytv4k",Logo HD
+#EXTINF:-1 group-title="skytv4k-US",Logo HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83559
-#EXTINF:-1 group-title="skytv4k",Speed Sport 1 HD
+#EXTINF:-1 group-title="skytv4k-US",Speed Sport 1 HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83560
-#EXTINF:-1 group-title="skytv4k",Oxygen HD
+#EXTINF:-1 group-title="skytv4k-US",Oxygen HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83561
-#EXTINF:-1 group-title="skytv4k",Shorts TV HD
+#EXTINF:-1 group-title="skytv4k-US",Shorts TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83562
-#EXTINF:-1 group-title="skytv4k",Start TV HD
+#EXTINF:-1 group-title="skytv4k-US",Start TV HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83563
-#EXTINF:-1 group-title="skytv4k",Tastemade HD
+#EXTINF:-1 group-title="skytv4k-US",Tastemade HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83564
-#EXTINF:-1 group-title="skytv4k",UP HD
+#EXTINF:-1 group-title="skytv4k-US",UP HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83565
-#EXTINF:-1 group-title="skytv4k",WGN America HD
+#EXTINF:-1 group-title="skytv4k-US",WGN America HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83566
-#EXTINF:-1 group-title="skytv4k",WGN-TV 9  Chicago HD
+#EXTINF:-1 group-title="skytv4k-US",WGN-TV 9  Chicago HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83567
-#EXTINF:-1 group-title="skytv4k",WORLD FISHING NETWORK HD
+#EXTINF:-1 group-title="skytv4k-US",WORLD FISHING NETWORK HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83568
-#EXTINF:-1 group-title="skytv4k",CMT HD
+#EXTINF:-1 group-title="skytv4k-US",CMT HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/89983
-#EXTINF:-1 group-title="skytv4k",CBS WPEC West Palm Beach HD
+#EXTINF:-1 group-title="skytv4k-US",CBS WPEC West Palm Beach HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/90056
-#EXTINF:-1 group-title="skytv4k",Revolt HD
+#EXTINF:-1 group-title="skytv4k-US",Revolt HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/95073
-#EXTINF:-1 group-title="skytv4k",Buzzr HD
+#EXTINF:-1 group-title="skytv4k-US",Buzzr HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/90060
-#EXTINF:-1 group-title="skytv4k",GAC Family HD
+#EXTINF:-1 group-title="skytv4k-US",GAC Family HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/110605
-#EXTINF:-1 group-title="skytv4k",AWE HD
+#EXTINF:-1 group-title="skytv4k-US",AWE HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/110772
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ACTION THRILLER HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118699
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ACTION ADVENTURA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118704
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ACTION COMEDY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118703
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ACTION CRIME HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118702
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ACTION DRAMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118701
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ACTION HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118700
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ADVENTURE HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118698
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME BIOGRAPHY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118697
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME COMEDY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118696
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME COMEDY ROMANCE HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118695
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME CRIME  THRILLER HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118694
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME CRIME HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118693
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME DRAMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118692
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME DRAMA ROMANCE HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118691
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME DRAMA THRILLER HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118690
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME FAMILY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118689
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME FANTASY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118688
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME HISTORY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118687
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME HORROR HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118686
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME MUSICAL HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118685
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME MYSTERY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118684
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME ROMANCE HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118683
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME SCI-FI HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118682
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME SPORT HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118681
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME THRILLER HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118680
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME WAR HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118679
+#EXTINF:-1 group-title="skytv4k-24/7",AMAZON PRIME WESTERN HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118678
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX 2020-2022 CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118677
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX ACTION CRIME CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118676
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX ACTION THRILLER CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118675
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX ADVENTURE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118674
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX ANIMATION ADVENTURE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118673
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX BIOGRAPHY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118672
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CINEMA 1 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118671
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CINEMA 2 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118670
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ACTION ADVENTURE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118669
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ACTION CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118668
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ACTION CRIME CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118667
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ACTION THRILLER CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118666
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ADVENTURE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118665
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ANIMATED ADVENTURE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118664
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC BIOGRAPHY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118663
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC CINEMA 1 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118662
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC CINEMA 2 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118661
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC COMEDY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118660
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC CRIME CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118659
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC DOCUMENTARY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118658
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC DRAMA CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118657
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC FAMILY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118656
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC FANTASY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118655
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC HISTORY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118654
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC HORROR CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118653
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC MYSTERY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118652
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC ROMANCE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118651
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC SCIFI CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118650
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC SPORT CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118649
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CLASSIC THRILLER 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118648
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX COMEDY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118647
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX CRIME CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118646
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX DOCUMENTARY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118645
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX DRAMA CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118644
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX FAMILY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118643
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX FANTASY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118642
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX HISTORY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118641
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX HORROR CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118640
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX MYSTERY CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118639
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX ROMANCE CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118638
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX SCIFI CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118637
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX SPORTS CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118636
+#EXTINF:-1 group-title="skytv4k-24/7",HBO MAX THRILLER CINEMA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118635
+#EXTINF:-1 group-title="skytv4k-24/7",BLOODLINE HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118634
+#EXTINF:-1 group-title="skytv4k-24/7",HOME BEFORE DARK HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118633
+#EXTINF:-1 group-title="skytv4k-24/7",12 MONKEY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118632
+#EXTINF:-1 group-title="skytv4k-24/7",13 REASONS WHY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118631
+#EXTINF:-1 group-title="skytv4k-24/7",24 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118630
+#EXTINF:-1 group-title="skytv4k-24/7",Hulu Cinema 1 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118629
+#EXTINF:-1 group-title="skytv4k-24/7",911 HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118628
+#EXTINF:-1 group-title="skytv4k-24/7",A SERIES OF UNFORTUNATE EVENTS HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118627
+#EXTINF:-1 group-title="skytv4k-24/7",ABSENTIA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118626
+#EXTINF:-1 group-title="skytv4k-24/7",AGENTS OF SHEILD HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118625
+#EXTINF:-1 group-title="skytv4k-24/7",ALEX INC HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118624
+#EXTINF:-1 group-title="skytv4k-24/7",ALTERED CARBON HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118623
+#EXTINF:-1 group-title="skytv4k-24/7",AMERICAN HORROR STORY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118622
+#EXTINF:-1 group-title="skytv4k-24/7",ANNE WITH AN E HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118621
+#EXTINF:-1 group-title="skytv4k-24/7",ARCHER HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118620
+#EXTINF:-1 group-title="skytv4k-24/7",ARRESTED DEVELOPMENT HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118619
+#EXTINF:-1 group-title="skytv4k-24/7",ARROW HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118618
+#EXTINF:-1 group-title="skytv4k-24/7",ASH VS EVIL DEAD HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118617
+#EXTINF:-1 group-title="skytv4k-24/7",ATLANTA HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118616
+#EXTINF:-1 group-title="skytv4k-24/7",BALLERS HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118614
+#EXTINF:-1 group-title="skytv4k-24/7",BANSHEE HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118613
+#EXTINF:-1 group-title="skytv4k-24/7",BARRY HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118612
+#EXTINF:-1 group-title="skytv4k-24/7",BATES MOTEL HD 24/7 VIP UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118611
+#EXTINF:-1 group-title="skytv4k-24/7",2 Broke Girls 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83634
+#EXTINF:-1 group-title="skytv4k-24/7",30 Rock 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83635
+#EXTINF:-1 group-title="skytv4k-24/7",7th Heaven 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83636
+#EXTINF:-1 group-title="skytv4k-24/7",American Dad 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83637
+#EXTINF:-1 group-title="skytv4k-24/7",Animal Kingdom US 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83639
+#EXTINF:-1 group-title="skytv4k-24/7",Anne with an E 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83640
+#EXTINF:-1 group-title="skytv4k-24/7",Archer (2009) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83641
+#EXTINF:-1 group-title="skytv4k-24/7",Babylon 5 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83642
+#EXTINF:-1 group-title="skytv4k-24/7",Ballers 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83643
+#EXTINF:-1 group-title="skytv4k-24/7",Band Of Brothers 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83644
+#EXTINF:-1 group-title="skytv4k-24/7",Beverly Hills 90210 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83645
+#EXTINF:-1 group-title="skytv4k-24/7",Bitten 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83646
+#EXTINF:-1 group-title="skytv4k-24/7",Black Mirror 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83647
+#EXTINF:-1 group-title="skytv4k-24/7",Black-ish 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83648
+#EXTINF:-1 group-title="skytv4k-24/7",Blue Bloods 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83649
+#EXTINF:-1 group-title="skytv4k-24/7",Bobs Burgers 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83650
+#EXTINF:-1 group-title="skytv4k-24/7",Bones 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83651
+#EXTINF:-1 group-title="skytv4k-24/7",Bosch 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83652
+#EXTINF:-1 group-title="skytv4k-24/7",Boston Legal 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83653
+#EXTINF:-1 group-title="skytv4k-24/7",Brooklyn Nine-Nine 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83654
+#EXTINF:-1 group-title="skytv4k-24/7",Buffy The Vampire Slayer 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83655
+#EXTINF:-1 group-title="skytv4k-24/7",Burn Notice 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83656
+#EXTINF:-1 group-title="skytv4k-24/7",Call The Midwife 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83657
+#EXTINF:-1 group-title="skytv4k-24/7",Chicago Fire 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83658
+#EXTINF:-1 group-title="skytv4k-24/7",Chicago PD 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83659
+#EXTINF:-1 group-title="skytv4k-24/7",Constantine 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83660
+#EXTINF:-1 group-title="skytv4k-24/7",Cougar Town 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83661
+#EXTINF:-1 group-title="skytv4k-24/7",CSI 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83662
+#EXTINF:-1 group-title="skytv4k-24/7",CSI Cyber 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83663
+#EXTINF:-1 group-title="skytv4k-24/7",CSI Miami 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83664
+#EXTINF:-1 group-title="skytv4k-24/7",CSI New York 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83665
+#EXTINF:-1 group-title="skytv4k-24/7",Deadwood 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83666
+#EXTINF:-1 group-title="skytv4k-24/7",Death in Paradise 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83667
+#EXTINF:-1 group-title="skytv4k-24/7",Demolition Man 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83668
+#EXTINF:-1 group-title="skytv4k-24/7",Derek 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83669
+#EXTINF:-1 group-title="skytv4k-24/7",Dirty Sexy Money 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83670
+#EXTINF:-1 group-title="skytv4k-24/7",Doctor Who 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83671
+#EXTINF:-1 group-title="skytv4k-24/7",Downton Abbey 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83672
+#EXTINF:-1 group-title="skytv4k-24/7",Eli Stone 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83673
+#EXTINF:-1 group-title="skytv4k-24/7",ER 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83674
+#EXTINF:-1 group-title="skytv4k-24/7",Eureka 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83675
+#EXTINF:-1 group-title="skytv4k-24/7",Fall Guy 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83676
+#EXTINF:-1 group-title="skytv4k-24/7",Fargo 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83677
+#EXTINF:-1 group-title="skytv4k-24/7",Firefly 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83678
+#EXTINF:-1 group-title="skytv4k-24/7",Forever (US) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83679
+#EXTINF:-1 group-title="skytv4k-24/7",Fringe 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83680
+#EXTINF:-1 group-title="skytv4k-24/7",Girls 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83681
+#EXTINF:-1 group-title="skytv4k-24/7",Gossip Girl 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83682
+#EXTINF:-1 group-title="skytv4k-24/7",Graceland 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83683
+#EXTINF:-1 group-title="skytv4k-24/7",Hannah Montana 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83684
+#EXTINF:-1 group-title="skytv4k-24/7",Hannibal 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83685
+#EXTINF:-1 group-title="skytv4k-24/7",Hotel Babylon 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83686
+#EXTINF:-1 group-title="skytv4k-24/7",House 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83687
+#EXTINF:-1 group-title="skytv4k-24/7",Hustle 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83688
+#EXTINF:-1 group-title="skytv4k-24/7",Its Always Sunny in Philadelphia 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83689
+#EXTINF:-1 group-title="skytv4k-24/7",Jackass 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83690
+#EXTINF:-1 group-title="skytv4k-24/7",Keeping Faith 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83691
+#EXTINF:-1 group-title="skytv4k-24/7",Kevin Can Wait 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83692
+#EXTINF:-1 group-title="skytv4k-24/7",Last Man Standing (US) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83693
+#EXTINF:-1 group-title="skytv4k-24/7",Law And Order 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83694
+#EXTINF:-1 group-title="skytv4k-24/7",MacGyver (1985) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83695
+#EXTINF:-1 group-title="skytv4k-24/7",Mad Men 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83696
+#EXTINF:-1 group-title="skytv4k-24/7",Madam Secretary 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83697
+#EXTINF:-1 group-title="skytv4k-24/7",Mafiosa 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83698
+#EXTINF:-1 group-title="skytv4k-24/7",Magnum P.I (1980) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83699
+#EXTINF:-1 group-title="skytv4k-24/7",Medium 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83700
+#EXTINF:-1 group-title="skytv4k-24/7",Midsomer Murders 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83701
+#EXTINF:-1 group-title="skytv4k-24/7",Misfits 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83702
+#EXTINF:-1 group-title="skytv4k-24/7",Money Heist 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83703
+#EXTINF:-1 group-title="skytv4k-24/7",Moonlighting 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83704
+#EXTINF:-1 group-title="skytv4k-24/7",Mr. Bean 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83705
+#EXTINF:-1 group-title="skytv4k-24/7",Murder She Wrote 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83706
+#EXTINF:-1 group-title="skytv4k-24/7",Nashville (2012) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83707
+#EXTINF:-1 group-title="skytv4k-24/7",NCIS 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83708
+#EXTINF:-1 group-title="skytv4k-24/7",NCIS Los Angeles 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83709
+#EXTINF:-1 group-title="skytv4k-24/7",NCIS New Orleans 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83710
+#EXTINF:-1 group-title="skytv4k-24/7",Nip Tuck 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83711
+#EXTINF:-1 group-title="skytv4k-24/7",Numb3rs 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83712
+#EXTINF:-1 group-title="skytv4k-24/7",Outsiders 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83713
+#EXTINF:-1 group-title="skytv4k-24/7",OZ 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83714
+#EXTINF:-1 group-title="skytv4k-24/7",Primeval 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83715
+#EXTINF:-1 group-title="skytv4k-24/7",Quantico 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83716
+#EXTINF:-1 group-title="skytv4k-24/7",Queen Sugar 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83717
+#EXTINF:-1 group-title="skytv4k-24/7",Reno 911 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83718
+#EXTINF:-1 group-title="skytv4k-24/7",Rick and Morty 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83719
+#EXTINF:-1 group-title="skytv4k-24/7",Ripper Street 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83720
+#EXTINF:-1 group-title="skytv4k-24/7",Robin Hood 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83721
+#EXTINF:-1 group-title="skytv4k-24/7",Rome 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83722
+#EXTINF:-1 group-title="skytv4k-24/7",Rules of Engagement 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83723
+#EXTINF:-1 group-title="skytv4k-24/7",Scandal 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83724
+#EXTINF:-1 group-title="skytv4k-24/7",Seinfeld 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83725
+#EXTINF:-1 group-title="skytv4k-24/7",Shameless 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83726
+#EXTINF:-1 group-title="skytv4k-24/7",Star Trek Deep Space Nine 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83727
+#EXTINF:-1 group-title="skytv4k-24/7",Star Trek Enterprise 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83728
+#EXTINF:-1 group-title="skytv4k-24/7",Star Trek The Next Generation 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83729
+#EXTINF:-1 group-title="skytv4k-24/7",Star Trek The Original Series 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83730
+#EXTINF:-1 group-title="skytv4k-24/7",Star Trek Voyager 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83731
+#EXTINF:-1 group-title="skytv4k-24/7",Stargate Atlantis 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83732
+#EXTINF:-1 group-title="skytv4k-24/7",Stargate SG-1 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83733
+#EXTINF:-1 group-title="skytv4k-24/7",Superstore 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83734
+#EXTINF:-1 group-title="skytv4k-24/7",Taken (2002) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83735
+#EXTINF:-1 group-title="skytv4k-24/7",That 70s Show 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83736
+#EXTINF:-1 group-title="skytv4k-24/7",The Pacific (2010) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83737
+#EXTINF:-1 group-title="skytv4k-24/7",The 100 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83738
+#EXTINF:-1 group-title="skytv4k-24/7",The A-Team 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83739
+#EXTINF:-1 group-title="skytv4k-24/7",The Affair 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83740
+#EXTINF:-1 group-title="skytv4k-24/7",The Chicago Code 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83741
+#EXTINF:-1 group-title="skytv4k-24/7",The Carbonaro Effect 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83742
+#EXTINF:-1 group-title="skytv4k-24/7",The Dukes Of Hazzard 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83743
+#EXTINF:-1 group-title="skytv4k-24/7",The Equalizer 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83744
+#EXTINF:-1 group-title="skytv4k-24/7",The Inbetweeners 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83745
+#EXTINF:-1 group-title="skytv4k-24/7",The island with Bear Grylls 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83746
+#EXTINF:-1 group-title="skytv4k-24/7",The O.C 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83747
+#EXTINF:-1 group-title="skytv4k-24/7",The Office (UK) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83748
+#EXTINF:-1 group-title="skytv4k-24/7",The Real Hustle 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83749
+#EXTINF:-1 group-title="skytv4k-24/7",The Sarah Jane Adventures (2007) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83750
+#EXTINF:-1 group-title="skytv4k-24/7",The Six Million Dollar Man 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83751
+#EXTINF:-1 group-title="skytv4k-24/7",The Tudors 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83752
+#EXTINF:-1 group-title="skytv4k-24/7",The Unit 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83753
+#EXTINF:-1 group-title="skytv4k-24/7",Top Gear UK 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83754
+#EXTINF:-1 group-title="skytv4k-24/7",Top Gear America 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83755
+#EXTINF:-1 group-title="skytv4k-24/7",Torchwood 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83756
+#EXTINF:-1 group-title="skytv4k-24/7",True Detective 24/7
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83757
+#EXTINF:-1 group-title="skytv4k-24/7",Two And A Half Men 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83758
+#EXTINF:-1 group-title="skytv4k-24/7",Unforgotten 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83759
+#EXTINF:-1 group-title="skytv4k-24/7",Vera 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83760
+#EXTINF:-1 group-title="skytv4k-24/7",Veronica Mars 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83761
+#EXTINF:-1 group-title="skytv4k-24/7",White Gold 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83762
+#EXTINF:-1 group-title="skytv4k-24/7",Witnesses 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83763
+#EXTINF:-1 group-title="skytv4k-24/7",Wrong Man 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83764
+#EXTINF:-1 group-title="skytv4k-24/7",The X-Files 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83765
+#EXTINF:-1 group-title="skytv4k-24/7",Z-Nation 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83766
+#EXTINF:-1 group-title="skytv4k-24/7",Las Vegas 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/83767
+#EXTINF:-1 group-title="skytv4k-24/7",Alien Nation 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92811
+#EXTINF:-1 group-title="skytv4k-24/7",Earth Final Conflict 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92810
+#EXTINF:-1 group-title="skytv4k-24/7",The Pretender (1996) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92809
+#EXTINF:-1 group-title="skytv4k-24/7",Diffrent Strokes (1978) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92808
+#EXTINF:-1 group-title="skytv4k-24/7",Its Garry Shandlings Show (1986) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92807
+#EXTINF:-1 group-title="skytv4k-24/7",Witchblade (2001) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92806
+#EXTINF:-1 group-title="skytv4k-24/7",Now And Again (1999) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92805
+#EXTINF:-1 group-title="skytv4k-24/7",Spawn (1997) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92804
+#EXTINF:-1 group-title="skytv4k-24/7",Brideshead Revisited (1981) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92803
+#EXTINF:-1 group-title="skytv4k-24/7",Birds of Prey 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92802
+#EXTINF:-1 group-title="skytv4k-24/7",My So-Called Life 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92801
+#EXTINF:-1 group-title="skytv4k-24/7",Jazz 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92800
+#EXTINF:-1 group-title="skytv4k-24/7",John Doe (2002) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92799
+#EXTINF:-1 group-title="skytv4k-24/7",Inch High Private Eye (1973) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92798
+#EXTINF:-1 group-title="skytv4k-24/7",Mortal Kombat Conquest 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92797
+#EXTINF:-1 group-title="skytv4k-24/7",Stella (2005) 24/7
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92796
+#EXTINF:-1 group-title="skytv4k-24/7",The Take (2009) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92795
+#EXTINF:-1 group-title="skytv4k-24/7",Wonderfalls 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92794
+#EXTINF:-1 group-title="skytv4k-24/7",Time Trax (1993) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92793
+#EXTINF:-1 group-title="skytv4k-24/7",The Sentinel (1996) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92792
+#EXTINF:-1 group-title="skytv4k-24/7",Great Chefs Of The East 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92791
+#EXTINF:-1 group-title="skytv4k-24/7",Survivors (2008) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92790
+#EXTINF:-1 group-title="skytv4k-24/7",Survivors (1975) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92789
+#EXTINF:-1 group-title="skytv4k-24/7",The Tripods 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92788
+#EXTINF:-1 group-title="skytv4k-24/7",Joan Of Arcadia 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92787
+#EXTINF:-1 group-title="skytv4k-24/7",Max Headroom (1987) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92786
+#EXTINF:-1 group-title="skytv4k-24/7",Roswell 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92785
+#EXTINF:-1 group-title="skytv4k-24/7",Jeremiah (2002) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92784
+#EXTINF:-1 group-title="skytv4k-24/7",Sapphire and Steel (1979) 24/7 UK
+http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/92783
 
 
 #EXTINF:-1 group-title="amster9216",DAS ERSTE 4K
