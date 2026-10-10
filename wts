@@ -1,5 +1,391 @@
 #EXTM3U
 
+"#EXTINF:-1 group-title=""xpto"",UK: ITV 1 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253599.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: ITV 2 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253600.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: ITV 3 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253601.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: ITV4 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253602.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: BBC ONE HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253603.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: BBC TWO HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253604.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: BBC THREE HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253605.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: BBC FOUR HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253606.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: BBC NEWS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253607.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: FREESPORTS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253608.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: BOX NATION HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253609.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SONY MAX HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253610.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: DMAX HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253611.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: FILM 4 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253612.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: CARTOON NETWORK HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253613.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: NICK JR HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253614.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: DISCOVERY CHANNEL HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253615.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: NATIONAL GEO HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253616.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: NATIONAL GEO WILD HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253617.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY ATLANTIC HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253618.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY COMEDY HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253619.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CRIME HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253620.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY ARTS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253621.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY WITNESS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253622.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA ACTION HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253623.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA COMEDY HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253624.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA DRAMA HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253625.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA FAMILY HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253626.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA GREATS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253627.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA PREMIER HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253628.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA SCI-FI HORROR HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253629.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA ANIMATION HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253630.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA SELECT HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253631.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY CINEMA THRILLER HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253632.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS FOOTBALL HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253633.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS PREMIER LEAGUE HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253634.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS MAIN EVENT HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253635.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS NEWS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253636.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS MIX HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253637.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS F1 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253638.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS ACTION HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253639.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS ARENA HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253640.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS GOLF HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253641.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS RACING HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253642.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS CRICKET HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253643.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: SKY SPORTS TENNIS HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253644.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: EUROSPORTS 1 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253645.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: EUROSPORTS 2 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253646.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: PREMIER SPORTS 1 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253647.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: PREMIER SPORTS 2 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253648.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 1 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253649.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 2 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253650.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 3 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253651.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 4 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253652.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 5 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253653.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 6 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253654.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 7 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253655.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: TNT SPORTS 8 HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/253656.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BBC_1_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84617.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BBC_2_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84618.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BBC_3_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84619.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BBC_4_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84620.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BBC_NEW_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84621.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_4_Seven_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84622.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_At_The_Races
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84623.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BT_Sport_2_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84624.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BT_Sport_3_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84625.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BT_Sport_ESPN_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84626.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_ITV_1
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84627.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_ITV_2
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84628.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_ITV_3
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84629.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_ITV_4
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84630.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_UFC_FIGHT_PASS
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84631.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Challenge
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84632.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_CBS_Justice
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84633.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_CBS_REALITY
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84634.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Channel_4_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84635.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Channel_5_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84636.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Channel_5_USA
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84637.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Movies_Action&Adventure
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84638.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_MOVIES_CRIME_&_THRILLER
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84639.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_MOVIES_DRAMA
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84640.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Movies_Family
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84641.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Living_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84642.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Movies_Premiere
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84643.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_MOVIES_SELECT
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84644.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_MOVIES_Disney
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84645.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Movies_SyFi-Horror
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84646.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Comedy_Central_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84647.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Comedy_Central_Extra
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84648.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Crime_&_Investigation
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84649.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_CBS_Drama
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84650.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISCOVERY_SCIENCE
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84651.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_EUROSPORT_1
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84652.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_EUROSPORT_2
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84653.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Eir_Sports_1
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84654.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Eir_Sports_2
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84655.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Disney_Junior
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84656.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISNEY_CHANNEL_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84657.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DRAMA
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84658.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DMAX_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84659.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Discovery_Shed
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84660.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISCOVERY_TURBO
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84661.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_FOX_SPORTS
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84662.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISCOVERY_HISTORY
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84663.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISCOVERY_INVESTIGATION
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84664.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Home
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84665.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Home_&_Health
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84666.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_MTV_Dance
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84667.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_MTV_Rocks
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84668.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_MTV_Hits
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84669.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_MTV_Classic
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84670.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_HORROR_CHANNEL
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84671.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_LFC_TV_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84672.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_France_24_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84673.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Premier_Sports_1_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84674.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISCOVERY_Channel_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84675.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_E!_Entertainment_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84676.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_NAT_GEO_WILD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84677.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_NAT._GEO._FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84678.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Celtic_FC_TV (Live for Matches)
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84679.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_news
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84680.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Action_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84681.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Mix_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84682.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Mix_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84683.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Arena_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84684.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Arena_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84685.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Cricket_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84686.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Cricket_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84687.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_SPORTS_GOLF_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84688.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_SPORTS_MAIN_EVENT_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84689.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Main_Event_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84690.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Premier_League_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84691.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Premier_League_FullHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84692.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Football_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84693.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Football_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84694.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_SPORTS_F1_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84695.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Sports_Golf_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84697.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BoxNation_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84698.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Alibi
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84699.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Animal_Planet
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84700.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Dave
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84701.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_E4
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84702.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Film_4
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84703.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Gold
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84704.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_RTE_One_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84705.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_RTE_TWO_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84706.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Setanta_Sports_1
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84707.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_2
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84708.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_Arts_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84709.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_Atlantic_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84710.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SKY_NEWS
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84711.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_One
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84712.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sky_MUTV_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84713.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Sony_Movies
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84714.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_EDEN
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84715.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Travel_Channel
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84716.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_True_Entertainment
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84717.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Universal
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84718.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_VIVA
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84719.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Watch
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84720.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_WWE_Network
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84721.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Yesterday
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84722.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_CBeebies_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84723.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_DISNEY_XD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84724.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Cartoon_Network_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84725.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_NICK_JUNIOR_Too
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84726.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_NICKTOONS
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84727.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_RACING_UK
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84728.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_UTV_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84729.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_TLC
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84730.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_FOX_NEWS
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84731.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_FOOD_NETWORK
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84732.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_QUEST
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84733.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Quest_Red
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84734.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Movies4Men
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84735.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_SYFY_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84736.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_TCM
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84737.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_History_Channel_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84738.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Box_Hits_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84739.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BOX_OFFICE_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84740.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BT_Sport_3_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84741.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BT_Sport_2_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84742.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_BT_Sport_1_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84743.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Tiny_Pop_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84744.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Premier_Sports_2_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84745.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_La_Liga_Tv_FHD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84746.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_FREE_SPORTS_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84747.ts"
+"#EXTINF:-1 group-title=""xpto"",UK_Colors_CinePlex_HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84748.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: Sky Sports Tennis HD
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84749.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: Premier Sport 1
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84750.ts"
+"#EXTINF:-1 group-title=""xpto"",UK: Premier Sport 2
+https://star-xpto.com:443/live/pOuQcHk9iD10/RqEqOr0mYa67/84751.ts"
+
+
 #EXTINF:-1 group-title="skytv4k-US", Marquee Sports Plus HD
 http://skytv4k.org:8080/JuergenBanas/WkbCL6Ug2s/118142
 #EXTINF:-1 group-title="skytv4k-US", Marquee Sports Network HD
