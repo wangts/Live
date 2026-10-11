@@ -1,5 +1,51 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="dreamvue",CA Crave 1
+http://dreamvue.xyz:80/flavia/flavia1/3817
+#EXTINF:-1 group-title="dreamvue",CA Crave 2
+http://dreamvue.xyz:80/flavia/flavia1/3816
+#EXTINF:-1 group-title="dreamvue",CA Crave 3
+http://dreamvue.xyz:80/flavia/flavia1/3815
+#EXTINF:-1 group-title="dreamvue",CA Crave 4
+http://dreamvue.xyz:80/flavia/flavia1/3814
+#EXTINF:-1 group-title="dreamvue",CA HBO
+http://dreamvue.xyz:80/flavia/flavia1/3732
+#EXTINF:-1 group-title="dreamvue",CA HBO 1
+http://dreamvue.xyz:80/flavia/flavia1/3730
+#EXTINF:-1 group-title="dreamvue",CA HBO 2
+http://dreamvue.xyz:80/flavia/flavia1/3731
+#EXTINF:-1 group-title="dreamvue",CA Starz 1
+http://dreamvue.xyz:80/flavia/flavia1/3648
+#EXTINF:-1 group-title="dreamvue",CA Starz 2
+http://dreamvue.xyz:80/flavia/flavia1/3647
+#EXTINF:-1 group-title="dreamvue",CA Super Channel Quest
+http://dreamvue.xyz:80/flavia/flavia1/855034
+#EXTINF:-1 group-title="dreamvue",CA Super Channel Heart & Home
+http://dreamvue.xyz:80/flavia/flavia1/3645
+#EXTINF:-1 group-title="dreamvue",CA Super Channel Vault
+http://dreamvue.xyz:80/flavia/flavia1/3644
+#EXTINF:-1 group-title="dreamvue",CA Super Channel Fuse
+http://dreamvue.xyz:80/flavia/flavia1/3646
+#EXTINF:-1 group-title="dreamvue",CA Hollywood Suite 2000's
+http://dreamvue.xyz:80/flavia/flavia1/3722
+#EXTINF:-1 group-title="dreamvue",CA Hollywood Suite 90's
+http://dreamvue.xyz:80/flavia/flavia1/3719
+#EXTINF:-1 group-title="dreamvue",CA Hollywood Suite 80's
+http://dreamvue.xyz:80/flavia/flavia1/3720
+#EXTINF:-1 group-title="dreamvue",CA Hollywood Suite 70's
+http://dreamvue.xyz:80/flavia/flavia1/3721
+#EXTINF:-1 group-title="dreamvue",CA AMC
+http://dreamvue.xyz:80/flavia/flavia1/3876
+#EXTINF:-1 group-title="dreamvue",CA MovieTime
+http://dreamvue.xyz:80/flavia/flavia1/3699
+#EXTINF:-1 group-title="dreamvue",CA Silver Screen Classics
+http://dreamvue.xyz:80/flavia/flavia1/3651
+#EXTINF:-1 group-title="dreamvue",CA Turner Classic Movies TCM
+http://dreamvue.xyz:80/flavia/flavia1/3634
+#EXTINF:-1 group-title="dreamvue",CA Rewind
+http://dreamvue.xyz:80/flavia/flavia1/641213
+
+
 #EXTINF:-1 group-title="prestalacuenta",CA: A&E HD
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/324304.ts
 #EXTINF:-1 group-title="prestalacuenta",CA: ABC SPARK HD
