@@ -1,5 +1,373 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="bouiti",##### US - PREMIUM #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/69537.ts
+#EXTINF:-1 group-title="bouiti",US - HBO EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71855.ts
+#EXTINF:-1 group-title="bouiti",US - HBO WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71854.ts
+#EXTINF:-1 group-title="bouiti",US - HBO LATINO EAST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/189297.ts
+#EXTINF:-1 group-title="bouiti",US - HBO LATINO WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/189296.ts
+#EXTINF:-1 group-title="bouiti",US - HBO HITS EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1271018.ts
+#EXTINF:-1 group-title="bouiti",US - HBO HITS WEST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71881.ts
+#EXTINF:-1 group-title="bouiti",US - RETRO PLEX EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71886.ts
+#EXTINF:-1 group-title="bouiti",US - RETRO PLEX WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1060159.ts
+#EXTINF:-1 group-title="bouiti",US - HBO COMEDY HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71866.ts
+#EXTINF:-1 group-title="bouiti",US - HBO ZONE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/83135.ts
+#EXTINF:-1 group-title="bouiti",US - HBO SIGNATURE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71865.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ WITH SHOWTIME EAST FHD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1427912.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ WITH SHOWTIME WEST FHD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1427913.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71853.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME WEST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71852.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME 2 HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71893.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME 2 WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1032494.ts
+#EXTINF:-1 group-title="bouiti",US - SHO x BET HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/189298.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME NEXT HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71898.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME NEXT WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1032495.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME SHOWCASE EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71894.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME SHOWCASE WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1032496.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME FAMILY ZONE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71896.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME EXTREME HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71895.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME WOMEN EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71897.ts
+#EXTINF:-1 group-title="bouiti",US - SHOWTIME WOMEN WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1032497.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71862.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ WEST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71873.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ EDGE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71888.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ CINEMA HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71864.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ COMEDY HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71887.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ KIDS AND FAMILY HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71877.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ IN BLACK EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71889.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71870.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE ACTION HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71899.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE FAMILY HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71878.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71872.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE CLASSIC HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71874.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE BLACK HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71875.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE WESTERNS HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71876.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE SUSPENSE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71879.ts
+#EXTINF:-1 group-title="bouiti",US - STARZ ENCORE ESPANYOL HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/200959.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71904.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX WEST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71860.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX ACTION MAX EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71905.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX 5 STARMAX HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71868.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX MORE MAX EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1269341.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX MORE MAX WEST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71900.ts
+#EXTINF:-1 group-title="bouiti",US - MGM+ EAST HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71857.ts
+#EXTINF:-1 group-title="bouiti",US - MGM+ HITS HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71858.ts
+#EXTINF:-1 group-title="bouiti",US - MGM+ MARQUEE HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71863.ts
+#EXTINF:-1 group-title="bouiti",US - SCREENPIX HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/275011.ts
+#EXTINF:-1 group-title="bouiti",US - SCREENPIX ACTION HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/275012.ts
+#EXTINF:-1 group-title="bouiti",US - SCREENPIX VOICES HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/275013.ts
+#EXTINF:-1 group-title="bouiti",US - SCREENPIX WESTERNS HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/275014.ts
+#EXTINF:-1 group-title="bouiti",US - GREAT FHD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1382486.ts
+#EXTINF:-1 group-title="bouiti",US - CINE SONY HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71861.ts
+#EXTINF:-1 group-title="bouiti",US - CINE LIFE HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/200961.ts
+#EXTINF:-1 group-title="bouiti",US - COMEDY DYNAMICS HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/275015.ts
+#EXTINF:-1 group-title="bouiti",US - TURNER CLASSIC MOVIES HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71869.ts
+#EXTINF:-1 group-title="bouiti",US - THE FILM DETECTIVE HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/200960.ts
+#EXTINF:-1 group-title="bouiti",US - INDIE PLEX HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71885.ts
+#EXTINF:-1 group-title="bouiti",US - MOVIE PLEX HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71884.ts
+#EXTINF:-1 group-title="bouiti",US - MIRAMAX MOVIE CHANNEL HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1293664.ts
+#EXTINF:-1 group-title="bouiti",US - GREAT AMERICAN FAITH & LIVING HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1060169.ts
+#EXTINF:-1 group-title="bouiti",US - AFRO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1060175.ts
+#EXTINF:-1 group-title="bouiti",US - HDNET MOVIES HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71883.ts
+#EXTINF:-1 group-title="bouiti",US - HOLLYWOOD SUITE 70s HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984846.ts
+#EXTINF:-1 group-title="bouiti",US - HOLLYWOOD SUITE 80s & 90s HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984847.ts
+#EXTINF:-1 group-title="bouiti",US - HOLLYWOOD SUITE 2000s HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984848.ts
+#EXTINF:-1 group-title="bouiti",US - HOLLYWOOD SUITE 2010s+ HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984845.ts
+#EXTINF:-1 group-title="bouiti",US - MY TIME MOVIE NETWORK HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1032499.ts
+#EXTINF:-1 group-title="bouiti",US - GRAVITAS MOVIES HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/978352.ts
+#EXTINF:-1 group-title="bouiti",US - CINEMAX LATINO EAST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/977937.ts
+#EXTINF:-1 group-title="bouiti",US - SONY MOVIE CHANNEL HD ◉
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71415.ts
+#EXTINF:-1 group-title="bouiti",US - LIFETIME MOVIES HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/71413.ts
+#EXTINF:-1 group-title="bouiti",##### US - FILMRISE #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055237.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE WESTERN HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984835.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE UNSOLVED MYSTERIES HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984834.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE MYSTERIES HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984833.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE FREE MOVIES HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984832.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE TRUE CRIME HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984831.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE ACTION HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984830.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE HORROR HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984829.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE SCI-FI HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984828.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE PELÍCULAS GRATIS HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984827.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE CRÍMENES VERDADEROS HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984826.ts
+#EXTINF:-1 group-title="bouiti",US - FILMRISE CONCURSOS DE COCINA HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/984825.ts
+#EXTINF:-1 group-title="bouiti",##### US - HBO MAX #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255872.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND INFO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1280634.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255873.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255874.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 3 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255875.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 4 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255876.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 5 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255877.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 6 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255878.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 7 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255879.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 8 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255880.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 9 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255881.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 10 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255882.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 11 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255883.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 12 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255884.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 13 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255885.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 14 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255886.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 15 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255887.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 16 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255888.ts
+#EXTINF:-1 group-title="bouiti",US - HBO MAX ON-DEMAND 17 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1255889.ts
+#EXTINF:-1 group-title="bouiti",##### US - DISNEY+ #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258185.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ INFO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1333032.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ PREMIERE 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258173.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ PREMIERE 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258174.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258175.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258176.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 3 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258177.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 4 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258178.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 5 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258179.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 6 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258180.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 7 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258181.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 8 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258182.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 9 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258183.ts
+#EXTINF:-1 group-title="bouiti",US - DISNEY+ SEREIS 10 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1258184.ts
+#EXTINF:-1 group-title="bouiti",##### US - APPLE TV+ #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054888.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES INFO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1333031.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054886.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054885.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 3 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054884.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 4 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054883.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 5 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054882.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 6 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054881.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 7 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054880.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 8 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054879.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 9 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054878.ts
+#EXTINF:-1 group-title="bouiti",US - APPLE TV+ SERIES 10 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054877.ts
+#EXTINF:-1 group-title="bouiti",##### US - HULU #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054947.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS INFO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054974.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054973.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054972.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 3 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054971.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 4 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054970.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 5 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054969.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 6 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054968.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 7 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054967.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 8 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054966.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 9 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054965.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 10 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054964.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 11 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054963.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 12 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054962.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 13 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054961.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 14 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054960.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 15 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054959.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 16 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054958.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 17 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054957.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 18 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054956.ts
+#EXTINF:-1 group-title="bouiti",US - HULU ORIGINALS 19 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1054955.ts
+#EXTINF:-1 group-title="bouiti",##### US - PARAMOUNT+ #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055136.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT NETWORK WEST HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1060173.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND INFO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055046.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055047.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055048.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 3 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055049.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 4 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055050.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 5 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055051.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 6 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055052.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 7 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055053.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 8 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055054.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 9 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055055.ts
+#EXTINF:-1 group-title="bouiti",US - PARAMOUNT+ ON-DEMAND 10 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055056.ts
+#EXTINF:-1 group-title="bouiti",##### US - PEACOCK #####
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055131.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES INFO HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055033.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 1 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055034.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 2 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055035.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 3 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055036.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 4 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055037.ts
+#EXTINF:-1 group-title="bouiti",US -  PEACOCK SERIES 5 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055038.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 6 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055039.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 7 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055040.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 8 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055041.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 9 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055042.ts
+#EXTINF:-1 group-title="bouiti",US -  PEACOCK SERIES 10 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055043.ts
+#EXTINF:-1 group-title="bouiti",US -  PEACOCK SERIES 11 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055044.ts
+#EXTINF:-1 group-title="bouiti",US - PEACOCK SERIES 12 HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/1055045.ts
+#EXTINF:-1 group-title="bouiti",US - CRUNCHYROLL HD
+http://bouiti.com/live/K3P35C7/6WJ7VUC/633262.ts
+
+
 #EXTINF:-1 group-title="dreamvue",CA Crave 1
 http://dreamvue.xyz:80/flavia/flavia1/3817
 #EXTINF:-1 group-title="dreamvue",CA Crave 2
