@@ -1,5 +1,237 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="watchdog",CA : CBC
+http://watchdog.build/live/0228902066/tc674KJ3du/1f0b77b0-b016-4c05-ad03-35a5ccf80463.ts
+#EXTINF:-1 group-title="watchdog",CA : CBC TORONTO
+http://watchdog.build/live/0228902066/tc674KJ3du/8b4190e7-bc42-4e34-962f-5b9fb1b6fe89.ts
+#EXTINF:-1 group-title="watchdog",CA : CITY TV TORONTO
+http://watchdog.build/live/0228902066/tc674KJ3du/46e31ee9-54d7-428e-bebf-87479a4a035e.ts
+#EXTINF:-1 group-title="watchdog",CA : CTV
+http://watchdog.build/live/0228902066/tc674KJ3du/1d4fb4b8-6db8-4fa9-a400-2158749d5664.ts
+#EXTINF:-1 group-title="watchdog",CA : CTV COMEDY
+http://watchdog.build/live/0228902066/tc674KJ3du/8a096813-9f86-4364-a9c6-85c98e50a1a3.ts
+#EXTINF:-1 group-title="watchdog",CA : CTV DRAMA
+http://watchdog.build/live/0228902066/tc674KJ3du/60c06291-0470-4286-9aff-a2bc63a30e3f.ts
+#EXTINF:-1 group-title="watchdog",CA : CTV SCI-FI
+http://watchdog.build/live/0228902066/tc674KJ3du/15809d0a-3ad0-4993-a1ed-1832ebd95b53.ts
+#EXTINF:-1 group-title="watchdog",CA : CTV TORONTO
+http://watchdog.build/live/0228902066/tc674KJ3du/65ead561-4298-42d8-8e72-9fe33894755c.ts
+#EXTINF:-1 group-title="watchdog",CA : E!
+http://watchdog.build/live/0228902066/tc674KJ3du/8a043ee5-c28c-4597-85bb-99a51dc87b04.ts
+#EXTINF:-1 group-title="watchdog",CA : GLOBAL TORONTO
+http://watchdog.build/live/0228902066/tc674KJ3du/0db6092d-a4c0-4322-b7af-22413fdfeaaf.ts
+#EXTINF:-1 group-title="watchdog",CA : SHOWCASE
+http://watchdog.build/live/0228902066/tc674KJ3du/ec6858c1-2448-47c7-ab5b-d15f89655610.ts
+#EXTINF:-1 group-title="watchdog",CA : TSN 1
+http://watchdog.build/live/0228902066/tc674KJ3du/65b625fa-62d3-44a5-9be1-2d895fb96cef.ts
+#EXTINF:-1 group-title="watchdog",CA : TSN 2
+http://watchdog.build/live/0228902066/tc674KJ3du/f1ceaa07-9046-4314-bd17-736d28e3ef2d.ts
+#EXTINF:-1 group-title="watchdog",CA : TSN 3
+http://watchdog.build/live/0228902066/tc674KJ3du/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.ts
+#EXTINF:-1 group-title="watchdog",CA : TSN 4
+http://watchdog.build/live/0228902066/tc674KJ3du/64074fc6-43e9-4e52-92b9-838b2f21a22c.ts
+#EXTINF:-1 group-title="watchdog",CA : TSN 5
+http://watchdog.build/live/0228902066/tc674KJ3du/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.ts
+#EXTINF:-1 group-title="watchdog",24/7: 2 Broke Girls
+http://watchdog.build/live/0228902066/tc674KJ3du/2b26e4b7-6606-4f80-b14e-f4e6b825e157.ts
+#EXTINF:-1 group-title="watchdog",24/7: Black Mirror
+http://watchdog.build/live/0228902066/tc674KJ3du/97c501a1-99a1-47b0-aea4-cfafbd17048e.ts
+#EXTINF:-1 group-title="watchdog",24/7: Californication
+http://watchdog.build/live/0228902066/tc674KJ3du/7310134f-3ff3-435c-b366-5c61f898ab2e.ts
+#EXTINF:-1 group-title="watchdog",24/7: Friends
+http://watchdog.build/live/0228902066/tc674KJ3du/42e28695-e795-4674-b007-670664ae6fe5.ts
+#EXTINF:-1 group-title="watchdog",24/7: Game of Thrones
+http://watchdog.build/live/0228902066/tc674KJ3du/0192196f-87c3-40a9-8b92-e281e93086f5.ts
+#EXTINF:-1 group-title="watchdog",24/7: The Boys
+http://watchdog.build/live/0228902066/tc674KJ3du/bc0d908a-e0cc-4dd2-95c1-8d202c5bfb06.ts
+#EXTINF:-1 group-title="watchdog",24/7: Two and a Half Men
+http://watchdog.build/live/0228902066/tc674KJ3du/4e1ea34e-eeb7-44bb-8545-f84fba0fa61f.ts
+#EXTINF:-1 group-title="watchdog",24/7: Westworld
+http://watchdog.build/live/0228902066/tc674KJ3du/9bf0fed5-9486-4a2f-aef1-4d2a57e7a453.ts
+#EXTINF:-1 group-title="watchdog",4K : BIG TEN NETWORK
+http://watchdog.build/live/0228902066/tc674KJ3du/cb5bcf86-e51f-4f3e-938d-5676cac9639d.ts
+#EXTINF:-1 group-title="watchdog",4K : ESPN
+http://watchdog.build/live/0228902066/tc674KJ3du/e35369c8-4937-49e9-a6d2-e39ae201464c.ts
+#EXTINF:-1 group-title="watchdog",4K : FOX
+http://watchdog.build/live/0228902066/tc674KJ3du/2eb22c93-0ef8-44e5-aad7-ea6d75cd8113.ts
+#EXTINF:-1 group-title="watchdog",4K : NOW SPORTS 4K
+http://watchdog.build/live/0228902066/tc674KJ3du/fedfe5b8-aaa8-461c-af40-20e49107fb2d.ts
+#EXTINF:-1 group-title="watchdog",4K : SKY SPORTS 01
+http://watchdog.build/live/0228902066/tc674KJ3du/b35ff510-ba9a-4d60-a22c-2b3c90a6983c.ts
+#EXTINF:-1 group-title="watchdog",4K : SKY SPORTS 02
+http://watchdog.build/live/0228902066/tc674KJ3du/5cea7c45-ead3-41b7-9b09-3975a9d4d2ca.ts
+#EXTINF:-1 group-title="watchdog",4K : SKY SPORTS F1
+http://watchdog.build/live/0228902066/tc674KJ3du/438edd20-aeb5-4e52-a443-207440415a25.ts
+#EXTINF:-1 group-title="watchdog",4K : SKY SPORTS MAIN EVENT
+http://watchdog.build/live/0228902066/tc674KJ3du/41dcd37a-05ce-4f7a-b9fd-240ad9a175dc.ts
+#EXTINF:-1 group-title="watchdog",4K : TNT SPORTS ULTIMATE 4K
+http://watchdog.build/live/0228902066/tc674KJ3du/2b00a63f-429a-47e0-b505-3307f100ef9c.ts
+#EXTINF:-1 group-title="watchdog",CA : CRAVE 1
+http://watchdog.build/live/0228902066/tc674KJ3du/4aea29e6-822a-4516-9300-ff6f26573005.ts
+#EXTINF:-1 group-title="watchdog",CA : CRAVE 2
+http://watchdog.build/live/0228902066/tc674KJ3du/2da0df01-7653-4bed-bb95-cbcb2c991c37.ts
+#EXTINF:-1 group-title="watchdog",CA : CRAVE 3
+http://watchdog.build/live/0228902066/tc674KJ3du/d2a25995-aceb-49af-aa80-710b36bfb0e6.ts
+#EXTINF:-1 group-title="watchdog",CA : CRAVE 4
+http://watchdog.build/live/0228902066/tc674KJ3du/9e50f43d-801c-4229-beb3-38bdbf14dc13.ts
+#EXTINF:-1 group-title="watchdog",CA : FX
+http://watchdog.build/live/0228902066/tc674KJ3du/b38acbbb-f374-4ca6-8004-2606d4601862.ts
+#EXTINF:-1 group-title="watchdog",CA : FXX
+http://watchdog.build/live/0228902066/tc674KJ3du/8b21f1ed-000c-438f-9ebc-85e3e72b9789.ts
+#EXTINF:-1 group-title="watchdog",CA : HBO 1
+http://watchdog.build/live/0228902066/tc674KJ3du/b1d7b83c-33c6-4349-9e27-94b5ce564175.ts
+#EXTINF:-1 group-title="watchdog",CA : HBO 2
+http://watchdog.build/live/0228902066/tc674KJ3du/b22780a6-4505-4644-bb17-2da2f7b2f5cd.ts
+#EXTINF:-1 group-title="watchdog",CA : MOVIETIME
+http://watchdog.build/live/0228902066/tc674KJ3du/766d1b89-4005-4353-a553-322a58ca86b1.ts
+#EXTINF:-1 group-title="watchdog",CA : SILVER SCREEN CLASSICS
+http://watchdog.build/live/0228902066/tc674KJ3du/feefd731-143b-4307-ac39-2808e70068ee.ts
+#EXTINF:-1 group-title="watchdog",CA : TCM
+http://watchdog.build/live/0228902066/tc674KJ3du/ce0695af-2012-4a32-8e5f-5be5005de156.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA ACTION
+http://watchdog.build/live/0228902066/tc674KJ3du/9f764494-a742-45e1-a857-af6515cd098f.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA COMEDY
+http://watchdog.build/live/0228902066/tc674KJ3du/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA DRAMA
+http://watchdog.build/live/0228902066/tc674KJ3du/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA FAMILY
+http://watchdog.build/live/0228902066/tc674KJ3du/55755742-d541-45c1-ae7d-793dc1b71a69.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA GREATS
+http://watchdog.build/live/0228902066/tc674KJ3du/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA HITS
+http://watchdog.build/live/0228902066/tc674KJ3du/50325fb3-2b41-44f1-903f-9baf15cad14d.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA PREMIERE
+http://watchdog.build/live/0228902066/tc674KJ3du/7c001dcd-9496-431f-825c-f994e1e45ae6.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA SCI-FI
+http://watchdog.build/live/0228902066/tc674KJ3du/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA SELECT
+http://watchdog.build/live/0228902066/tc674KJ3du/e2d27348-6402-4da0-841f-44ac41f5d748.ts
+#EXTINF:-1 group-title="watchdog",GB : SKY CINEMA THRILLER
+http://watchdog.build/live/0228902066/tc674KJ3du/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.ts
+#EXTINF:-1 group-title="watchdog",PM : US CINEMAX ACTION
+http://watchdog.build/live/0228902066/tc674KJ3du/2e4655de-b701-4fb0-9bf4-054d2001b0f5.ts
+#EXTINF:-1 group-title="watchdog",PM : US CINEMAX ACTION WEST
+http://watchdog.build/live/0228902066/tc674KJ3du/7e9bf33e-2ae3-467c-9ab0-f0958ad0b4b4.ts
+#EXTINF:-1 group-title="watchdog",PM : US CINEMAX HITS WEST
+http://watchdog.build/live/0228902066/tc674KJ3du/a1cbdf12-8d45-4abb-9a7a-0982819ddc02.ts
+#EXTINF:-1 group-title="watchdog",PM : US CINEMAX WEST
+http://watchdog.build/live/0228902066/tc674KJ3du/bde85358-f548-42e3-9b91-24ebbd232149.ts
+#EXTINF:-1 group-title="watchdog",PM : US HERSPHERE
+http://watchdog.build/live/0228902066/tc674KJ3du/4349f2af-76b4-498d-9616-be8067c2fad9.ts
+#EXTINF:-1 group-title="watchdog",PM : US MOVIESPHERE
+http://watchdog.build/live/0228902066/tc674KJ3du/4ce84e37-0ab6-4cc8-841d-70bc65813321.ts
+#EXTINF:-1 group-title="watchdog",PM : US MOVIESPHERE GOLD
+http://watchdog.build/live/0228902066/tc674KJ3du/2fc4c4a1-9346-4e8c-ac32-e77465c8ac77.ts
+#EXTINF:-1 group-title="watchdog",US : CINEMAX
+http://watchdog.build/live/0228902066/tc674KJ3du/bbaca83b-132f-431e-bffd-1de99b156156.ts
+#EXTINF:-1 group-title="watchdog",US : CINEMAX HITS
+http://watchdog.build/live/0228902066/tc674KJ3du/8d7be64e-5196-4865-878d-67d79325c3b2.ts
+#EXTINF:-1 group-title="watchdog",US : CINEMAX MOVIEMAX
+http://watchdog.build/live/0228902066/tc674KJ3du/c1f192fb-e16c-4139-88f3-ad8f21d4ce66.ts
+#EXTINF:-1 group-title="watchdog",US : FLIX
+http://watchdog.build/live/0228902066/tc674KJ3du/cc583753-c272-4b35-842b-727d6e7555bb.ts
+#EXTINF:-1 group-title="watchdog",US : FMC
+http://watchdog.build/live/0228902066/tc674KJ3du/398ec815-528a-4cfb-9935-244a57ff918d.ts
+#EXTINF:-1 group-title="watchdog",US : FX
+http://watchdog.build/live/0228902066/tc674KJ3du/0bc5076a-871a-4574-ba14-2302049aa688.ts
+#EXTINF:-1 group-title="watchdog",US : FXM
+http://watchdog.build/live/0228902066/tc674KJ3du/b319309c-5199-40bf-9bb6-8bbd16fc7158.ts
+#EXTINF:-1 group-title="watchdog",US : FXX
+http://watchdog.build/live/0228902066/tc674KJ3du/e9fc2880-b9cd-46ef-b80e-0830d51303ae.ts
+#EXTINF:-1 group-title="watchdog",US : HALLMARK CHANNEL
+http://watchdog.build/live/0228902066/tc674KJ3du/d8b41395-18cc-43d8-9b29-de013c747519.ts
+#EXTINF:-1 group-title="watchdog",US : HALLMARK FAMILY
+http://watchdog.build/live/0228902066/tc674KJ3du/e749bf16-cc31-47fc-85bd-b2b34dda30a6.ts
+#EXTINF:-1 group-title="watchdog",US : HALLMARK MYSTERY
+http://watchdog.build/live/0228902066/tc674KJ3du/93e58709-6bb6-4fa9-a5a5-66f30dc3589a.ts
+#EXTINF:-1 group-title="watchdog",US : HBO COMEDY
+http://watchdog.build/live/0228902066/tc674KJ3du/7b7443ed-d764-4a7a-b3f4-b5fcb347f68e.ts
+#EXTINF:-1 group-title="watchdog",US : HBO DRAMA EAST
+http://watchdog.build/live/0228902066/tc674KJ3du/d5243253-180b-47fb-b7b0-3448b280480f.ts
+#EXTINF:-1 group-title="watchdog",US : HBO EAST
+http://watchdog.build/live/0228902066/tc674KJ3du/cf866ce9-3357-426c-a87d-9fbc3c806f79.ts
+#EXTINF:-1 group-title="watchdog",US : HBO HITS
+http://watchdog.build/live/0228902066/tc674KJ3du/43b3b7ea-80a1-4610-a6ae-70329e6fe2ae.ts
+#EXTINF:-1 group-title="watchdog",US : HBO MOVIES
+http://watchdog.build/live/0228902066/tc674KJ3du/91370594-0b36-446d-bd17-158347f7cc89.ts
+#EXTINF:-1 group-title="watchdog",US : HDNET MOVIES
+http://watchdog.build/live/0228902066/tc674KJ3du/df6aab6f-9cae-46c5-a126-8dce303504a9.ts
+#EXTINF:-1 group-title="watchdog",US : INDIEPLEX
+http://watchdog.build/live/0228902066/tc674KJ3du/be85f09e-3282-4de0-8701-2f9bf31d03b3.ts
+#EXTINF:-1 group-title="watchdog",US : LIFETIME
+http://watchdog.build/live/0228902066/tc674KJ3du/fe76ab5f-3b2d-42c8-9032-ff7d87d27339.ts
+#EXTINF:-1 group-title="watchdog",US : LIFETIME MOVIE NETWORK
+http://watchdog.build/live/0228902066/tc674KJ3du/5c58d082-54cf-4328-8e9e-1af484707883.ts
+#EXTINF:-1 group-title="watchdog",US : MGM+
+http://watchdog.build/live/0228902066/tc674KJ3du/8b067ad2-9419-41ca-b598-a149581bb9a5.ts
+#EXTINF:-1 group-title="watchdog",US : MGM+ DRIVE-IN
+http://watchdog.build/live/0228902066/tc674KJ3du/0c7ffa48-2560-4672-9d17-2626ee060355.ts
+#EXTINF:-1 group-title="watchdog",US : MGM+ HITS
+http://watchdog.build/live/0228902066/tc674KJ3du/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.ts
+#EXTINF:-1 group-title="watchdog",US : MGM+ MARQUEE
+http://watchdog.build/live/0228902066/tc674KJ3du/acde4878-8208-4bf0-b118-e24650b9d910.ts
+#EXTINF:-1 group-title="watchdog",US : SCREENPIX
+http://watchdog.build/live/0228902066/tc674KJ3du/ef9e0063-9478-45d0-8e88-ddb35d46ab5c.ts
+#EXTINF:-1 group-title="watchdog",US : SCREENPIX ACTION
+http://watchdog.build/live/0228902066/tc674KJ3du/1ee165c7-310b-4379-b775-5508c46acabb.ts
+#EXTINF:-1 group-title="watchdog",US : SCREENPIX VOICES
+http://watchdog.build/live/0228902066/tc674KJ3du/9864e2ea-575c-4dce-b98d-27b5312234e6.ts
+#EXTINF:-1 group-title="watchdog",US : SCREENPIX WESTERNS
+http://watchdog.build/live/0228902066/tc674KJ3du/fc7833af-cc11-44a1-8529-77e6fead0f02.ts
+#EXTINF:-1 group-title="watchdog",US : SHO X BET
+http://watchdog.build/live/0228902066/tc674KJ3du/215b6d42-7ca6-4e3f-9ebb-3d2d6e97c223.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME 2
+http://watchdog.build/live/0228902066/tc674KJ3du/e46e35cc-2ad7-4f99-8701-b26d65eed19c.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME EAST
+http://watchdog.build/live/0228902066/tc674KJ3du/951f812f-7fc2-4f3d-b16a-89b008d75d94.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME EXTREME
+http://watchdog.build/live/0228902066/tc674KJ3du/862261ae-6b38-4bab-8075-01cf87c4e0d7.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME FAMILY ZONE
+http://watchdog.build/live/0228902066/tc674KJ3du/3b97fc18-9bff-41e2-ad7b-f46a0cb37531.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME  NEXT
+http://watchdog.build/live/0228902066/tc674KJ3du/68cac6b8-6ea0-4f10-804a-6e5e7916cf7d.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME SHOWCASE
+http://watchdog.build/live/0228902066/tc674KJ3du/27a1a946-29e0-4496-8b9c-f51bf4cd0694.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME WEST
+http://watchdog.build/live/0228902066/tc674KJ3du/96a3da86-86ac-4195-9781-25614a1ec290.ts
+#EXTINF:-1 group-title="watchdog",US : SHOWTIME WOMEN
+http://watchdog.build/live/0228902066/tc674KJ3du/8086546f-e5d0-46d9-a817-89c59826126b.ts
+#EXTINF:-1 group-title="watchdog",US : SONY MOVIE CHANNEL
+http://watchdog.build/live/0228902066/tc674KJ3du/62c90b67-7be5-4f08-b95f-1de89cc4424c.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ CINEMA
+http://watchdog.build/live/0228902066/tc674KJ3du/1896d9b4-941a-4edb-ba4b-b88a7cca678a.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ COMEDY
+http://watchdog.build/live/0228902066/tc674KJ3du/e8c78330-8776-4907-968e-db1f0f6010ea.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ EAST
+http://watchdog.build/live/0228902066/tc674KJ3du/b5771b63-1b3c-42ce-886a-a65ea33c16bd.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ EDGE
+http://watchdog.build/live/0228902066/tc674KJ3du/e885db74-17a8-4d37-a7f1-75d502d253c9.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE
+http://watchdog.build/live/0228902066/tc674KJ3du/11d3e629-f14b-4c07-9e41-4246b0f9903d.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE ACTION
+http://watchdog.build/live/0228902066/tc674KJ3du/409058f3-f91a-4923-8ea9-48217f985923.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ  ENCORE BLACK
+http://watchdog.build/live/0228902066/tc674KJ3du/2f24cf2f-a937-41d2-9a9e-17401489f45f.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE CLASSIC
+http://watchdog.build/live/0228902066/tc674KJ3du/347beb2d-168e-467d-94be-c28101a4d900.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE FAMILY
+http://watchdog.build/live/0228902066/tc674KJ3du/906946cc-ec9b-4b47-a8c8-bfef3fb8d014.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE SUSPENSE
+http://watchdog.build/live/0228902066/tc674KJ3du/8ddd80ff-20cf-4c05-b632-d6f52cd8204d.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE WEST
+http://watchdog.build/live/0228902066/tc674KJ3du/f636b697-cbd3-4c00-affd-62f92eb38eb3.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ ENCORE WESTERNS
+http://watchdog.build/live/0228902066/tc674KJ3du/01d0650b-8e43-4b4c-93e0-6cf15df8555b.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ IN BLACK
+http://watchdog.build/live/0228902066/tc674KJ3du/2b936dc5-5dc9-4dbf-b3e3-370fc570a6bd.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ KIDS & FAMILY
+http://watchdog.build/live/0228902066/tc674KJ3du/ff06494f-3b85-418f-b9ee-a32947e51a5e.ts
+#EXTINF:-1 group-title="watchdog",US : STARZ WEST
+http://watchdog.build/live/0228902066/tc674KJ3du/130f386e-95da-4dfa-8226-587ff39499d7.ts
+#EXTINF:-1 group-title="watchdog",US : TCM
+http://watchdog.build/live/0228902066/tc674KJ3du/4b1353af-f155-4e64-8024-0e649bdb4c85.ts
+
+
 #EXTINF:-1 group-title="bouiti",##### US - PREMIUM #####
 http://bouiti.com/live/K3P35C7/6WJ7VUC/69537.ts
 #EXTINF:-1 group-title="bouiti",US - HBO EAST HD ◉
