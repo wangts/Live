@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="131",UK: Sky Sci-fi
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/206888
+#EXTINF:-1 group-title="131",⚜️⚜️ UK MOVIES ⚜️⚜️
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/105652
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Action ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/10653
+#EXTINF:-1 group-title="131",UK:SKY CINEMA Thriller ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/23046
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Premiere ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/86100
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Comedy ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/96680
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Family ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/128142
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Hits ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/71371
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Select ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/19529
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Greats ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/31101
+#EXTINF:-1 group-title="131",UK: SKY CINEMA Drama ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/156434
+#EXTINF:-1 group-title="131",UK: SONY MOVIES Classic ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/66947
+#EXTINF:-1 group-title="131",UK: TCM ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/4224
+#EXTINF:-1 group-title="131",UK: FILM 4 ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/94805
+#EXTINF:-1 group-title="131",UK: SKY CINEMA GREATS ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/97709
+#EXTINF:-1 group-title="131",UK: GREAT! MOVIES ACTION ᴴᴰ
+http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/41687
+
+
 #EXTINF:-1 group-title="watchdog",CA : CBC
 http://watchdog.build/live/0228902066/tc674KJ3du/1f0b77b0-b016-4c05-ad03-35a5ccf80463.ts
 #EXTINF:-1 group-title="watchdog",CA : CBC TORONTO
