@@ -1,5 +1,71 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="185.102",┃CA EN┃ HBO 1 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907604&extension=ts&play_token=4UL1Kpp4Do
+#EXTINF:-1 group-title="185.102",┃CA EN┃ HBO 2 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907605&extension=ts&play_token=grrA0zR8ct
+#EXTINF:-1 group-title="185.102",┃CA EN┃ AMC HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907615&extension=ts&play_token=Ng3qyHtuFg
+#EXTINF:-1 group-title="185.102",┃CA EN┃ ACTION HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907616&extension=ts&play_token=bqQzuAfYbU
+#EXTINF:-1 group-title="185.102",┃CA EN┃ MOVIETIME HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907618&extension=ts&play_token=4fIzg6YYdi
+#EXTINF:-1 group-title="185.102",┃CA EN┃ SHOWCASE HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907632&extension=ts&play_token=eFsBv7iEgF
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN1E HD (CRAVE 1 TV)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907607&extension=ts&play_token=GSM0scUSHK
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN1E (CRAVE TV 1)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907611&extension=ts&play_token=RcHGxmF4C5
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN2E HD (CRAVE 2 TV)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907608&extension=ts&play_token=6n6xN4ZuXl
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN2E (CRAVE TV 2)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907612&extension=ts&play_token=M0HffCczwY
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN3E HD (CRAVE 3 TV)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907609&extension=ts&play_token=vb5nAa5B8j
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN3E (CRAVE TV 3)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907613&extension=ts&play_token=qNq4bZC7sJ
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN4E HD (CRAVE 4 TV)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907610&extension=ts&play_token=TBVlfnCYoV
+#EXTINF:-1 group-title="185.102",┃CA EN┃ TMN4E (CRAVE TV 4)
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907614&extension=ts&play_token=Cg6pBYaetJ
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND INFO HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569127&extension=ts&play_token=1jrjGxtMfP
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 1 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569126&extension=ts&play_token=oZLGCYnpnY
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 2 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569125&extension=ts&play_token=XfvnUSIm2I
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 3 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569124&extension=ts&play_token=awzPfZaZcC
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 4 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569123&extension=ts&play_token=xINFa1EZ7K
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 5 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569122&extension=ts&play_token=X7lIjkocQa
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 6 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569121&extension=ts&play_token=nHhC9Mtlud
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 7 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569120&extension=ts&play_token=crmXlGA6bY
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 8 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569119&extension=ts&play_token=5cRILVIqjr
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 9 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569118&extension=ts&play_token=8CJFr7Xrjn
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 10 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569117&extension=ts&play_token=ffXdTevgjT
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 11 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569116&extension=ts&play_token=jKLKLkzI9s
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 12 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569115&extension=ts&play_token=N6DJpjEhpY
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 13 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569114&extension=ts&play_token=MyqUtBa6BP
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 14 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569113&extension=ts&play_token=SutyGGThCp
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 15 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569112&extension=ts&play_token=p1tk4xRdCj
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 16 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569111&extension=ts&play_token=FwxMRZpjSq
+#EXTINF:-1 group-title="185.102",┃US┃ HBO MAX ON-DEMAND 17 HD
+http://185.102.171.235:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=569110&extension=ts&play_token=HpJdGbryAD
+
+
 #EXTINF:-1 group-title="131",UK: Sky Sci-fi
 http://131.123.40.197:2095/mrt6666tv/mrt0302cc00mm55/206888
 #EXTINF:-1 group-title="131",⚜️⚜️ UK MOVIES ⚜️⚜️
