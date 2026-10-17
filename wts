@@ -1,5 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="zw00",US - ACTIONMAX
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628584&extension=ts&play_token=LtDM5qAaFd
+#EXTINF:-1 group-title="zw00",US - SHOWTIME WOMEN WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628554&extension=ts&play_token=UMVQyNV5Ec
+#EXTINF:-1 group-title="zw00",US - SHOWTIME BET WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628552&extension=ts&play_token=ZT2w9wG100
+#EXTINF:-1 group-title="zw00",US - STARZ COMEDY WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628546&extension=ts&play_token=f9JXPEUijM
+#EXTINF:-1 group-title="zw00",US - STARZ IN BLACK
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628542&extension=ts&play_token=KptWU3mau0
+#EXTINF:-1 group-title="zw00",US - STARZENCORE FAMILY WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628533&extension=ts&play_token=fMMdMcmJXK
+#EXTINF:-1 group-title="zw00",US - STARZ ENCORE SUSPENSE WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628532&extension=ts&play_token=l7ENiQ1tc9
+#EXTINF:-1 group-title="zw00",US - STARZ ENCORE SUSPENSE
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628531&extension=ts&play_token=pLUzwx97AV
+#EXTINF:-1 group-title="zw00",US - RETRO PLEX
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628528&extension=ts&play_token=nqBnFBdx0T
+#EXTINF:-1 group-title="zw00",US - THRILLERMAX WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628522&extension=ts&play_token=W2l25Tyl5N
+#EXTINF:-1 group-title="zw00",US - TCM WEST
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628518&extension=ts&play_token=DvSUaFR9FF
+#EXTINF:-1 group-title="zw00",US - SCREENPIX VOICES US
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628515&extension=ts&play_token=m4MxiNd297
+#EXTINF:-1 group-title="zw00",US - SCREENPIX WESTERNS US
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628514&extension=ts&play_token=Y6HOKGApbu
+#EXTINF:-1 group-title="zw00",US - STARZENCORE CLASSIC
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628513&extension=ts&play_token=bzC2MQLWSg
+#EXTINF:-1 group-title="zw00",US - MOVIEMAX
+http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628511&extension=ts&play_token=aQRt8CJHtx
+
+
 #EXTINF:-1 group-title="zerotv",PORNBOX: BUMS BUS
 http://zerotv.eu:8080/play/live.php?mac=A0:BB:3E:14:E8:AB&stream=855801&extension=ts&play_token=tNkUh310KO
 #EXTINF:-1 group-title="zerotv",PORNBOX: BABES
