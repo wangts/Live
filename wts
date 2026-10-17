@@ -30,47 +30,47 @@ http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628514&extension
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628513&extension=ts&play_token=bzC2MQLWSg
 #EXTINF:-1 group-title="zw00",US - MOVIEMAX
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628511&extension=ts&play_token=aQRt8CJHtx
-#EXTINF:-1 group-title="zw01",US - ACTIONMAX
+#EXTINF:-1 group-title="zw00",US - ACTIONMAX
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628584&extension=ts&play_token=T09zSVF05F
-#EXTINF:-1 group-title="zw02",US - SHOWTIME BET WEST
+#EXTINF:-1 group-title="zw00",US - SHOWTIME BET WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628552&extension=ts&play_token=otbfCvA69a
-#EXTINF:-1 group-title="zw03",US - STARZ COMEDY WEST
+#EXTINF:-1 group-title="zw00",US - STARZ COMEDY WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628546&extension=ts&play_token=DvDCw3htmX
-#EXTINF:-1 group-title="zw04",US - STARZ IN BLACK
+#EXTINF:-1 group-title="zw00",US - STARZ IN BLACK
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628542&extension=ts&play_token=2wGOTnahRF
-#EXTINF:-1 group-title="zw05",US - STARZ ENCORE CLASSIC WEST
+#EXTINF:-1 group-title="zw00",US - STARZ ENCORE CLASSIC WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628535&extension=ts&play_token=rzmV7IOzn6
-#EXTINF:-1 group-title="zw06",US - STARZENCORE FAMILY WEST
+#EXTINF:-1 group-title="zw00",US - STARZENCORE FAMILY WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628533&extension=ts&play_token=moC2IsKlSG
-#EXTINF:-1 group-title="zw07",US - STARZ ENCORE SUSPENSE WEST
+#EXTINF:-1 group-title="zw00",US - STARZ ENCORE SUSPENSE WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628532&extension=ts&play_token=29G3UGsREK
-#EXTINF:-1 group-title="zw08",US - STARZ ENCORE SUSPENSE
+#EXTINF:-1 group-title="zw00",US - STARZ ENCORE SUSPENSE
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628531&extension=ts&play_token=ORiPBswJTk
-#EXTINF:-1 group-title="zw09",US - STARZENCORE WESTERNS
+#EXTINF:-1 group-title="zw00",US - STARZENCORE WESTERNS
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628530&extension=ts&play_token=LHQ98OkAbK
-#EXTINF:-1 group-title="zw10",US - STARZ ENCORE WESTERN WEST
+#EXTINF:-1 group-title="zw00",US - STARZ ENCORE WESTERN WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628529&extension=ts&play_token=lFif9pUQAn
-#EXTINF:-1 group-title="zw11",US - RETRO PLEX
+#EXTINF:-1 group-title="zw00",US - RETRO PLEX
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628528&extension=ts&play_token=7YnjSehR1a
-#EXTINF:-1 group-title="zw12",US - HBO 2
+#EXTINF:-1 group-title="zw00",US - HBO 2
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628527&extension=ts&play_token=2FKyiQH5Yf
-#EXTINF:-1 group-title="zw13",US - SHOWTIME 2
+#EXTINF:-1 group-title="zw00",US - SHOWTIME 2
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628524&extension=ts&play_token=GUCUAo8yY2
-#EXTINF:-1 group-title="zw14",US - THRILLERMAX WEST
+#EXTINF:-1 group-title="zw00",US - THRILLERMAX WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628522&extension=ts&play_token=zhShPyVfsK
-#EXTINF:-1 group-title="zw15",US - INDIEPLEX WEST
+#EXTINF:-1 group-title="zw00",US - INDIEPLEX WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628521&extension=ts&play_token=6RYTSjYST8
-#EXTINF:-1 group-title="zw16",US - TCM WEST
+#EXTINF:-1 group-title="zw00",US - TCM WEST
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628518&extension=ts&play_token=wlbwpOdJwN
-#EXTINF:-1 group-title="zw17",US - SCREENPIX ACTION US
+#EXTINF:-1 group-title="zw00",US - SCREENPIX ACTION US
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628517&extension=ts&play_token=a5YmJHudJR
-#EXTINF:-1 group-title="zw18",US - SCREENPIX US
+#EXTINF:-1 group-title="zw00",US - SCREENPIX US
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628516&extension=ts&play_token=vz8Jq7iZGT
-#EXTINF:-1 group-title="zw19",US - SCREENPIX VOICES US
+#EXTINF:-1 group-title="zw00",US - SCREENPIX VOICES US
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628515&extension=ts&play_token=ZAjQiqlr3W
-#EXTINF:-1 group-title="zw20",US - SCREENPIX WESTERNS US
+#EXTINF:-1 group-title="zw00",US - SCREENPIX WESTERNS US
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628514&extension=ts&play_token=HvNWIace39
-#EXTINF:-1 group-title="zw21",US - MOVIEMAX
+#EXTINF:-1 group-title="zw00",US - MOVIEMAX
 http://zw00.xyz:8080/play/live.php?mac=00:1A:79:07:C0:9F&stream=628511&extension=ts&play_token=KdtdIau00y
 
 
