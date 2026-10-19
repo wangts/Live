@@ -1,5 +1,67 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855743&extension=ts&play_token=YjCNI3jAT0
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855742&extension=ts&play_token=vZy67dL4zu
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX MORE MAX HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855741&extension=ts&play_token=oFOkZC0gVO
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX MORE MAX HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855740&extension=ts&play_token=WD8TEJDSjh
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX THRILLER MAX HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855737&extension=ts&play_token=ECqdI3RfPJ
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX THRILLER MAX HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855736&extension=ts&play_token=gxxI7OxlP1
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX ACTION MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855744&extension=ts&play_token=SKL5z7haND
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX MOVIE MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855739&extension=ts&play_token=sjzcvgNPdw
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX 5 STAR MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855745&extension=ts&play_token=oMIVI2sSYJ
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX OUTER MAX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855738&extension=ts&play_token=noNMmImp0g
+#EXTINF:-1 group-title="light-ott",┃USA┃ CINEMAX LATINO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855735&extension=ts&play_token=pHqXe1CGG2
+#EXTINF:-1 group-title="light-ott",┃USA┃ MGM+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855731&extension=ts&play_token=L4uR59vjKL
+#EXTINF:-1 group-title="light-ott",┃USA┃ MGM+ HITS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855733&extension=ts&play_token=eDyMPkMbke
+#EXTINF:-1 group-title="light-ott",┃USA┃ MGM+ DRIVE-IN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855734&extension=ts&play_token=39a8vFVxNP
+#EXTINF:-1 group-title="light-ott",┃USA┃ MGM+ MARQUEE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855732&extension=ts&play_token=j1ZhgZACAy
+#EXTINF:-1 group-title="light-ott",┃USA┃ SCREEN PIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855728&extension=ts&play_token=qBK1Xr73tK
+#EXTINF:-1 group-title="light-ott",┃USA┃ SCREEN PIX ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855727&extension=ts&play_token=B4k9yqT7rl
+#EXTINF:-1 group-title="light-ott",┃USA┃ SCREEN PIX VOICES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855726&extension=ts&play_token=PeipO8YG7r
+#EXTINF:-1 group-title="light-ott",┃USA┃ SCREEN PIX WESTERNS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855725&extension=ts&play_token=WeUlznDfnJ
+#EXTINF:-1 group-title="light-ott",┃USA┃ THE MOVIE CHANNEL HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855719&extension=ts&play_token=Bz4Mvj81eD
+#EXTINF:-1 group-title="light-ott",┃USA┃ THE MOVIE CHANNEL HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855718&extension=ts&play_token=DXz4R93qv3
+#EXTINF:-1 group-title="light-ott",┃USA┃ THE MOVIE CHANNEL EXTRA HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855721&extension=ts&play_token=AUSM4kmnnT
+#EXTINF:-1 group-title="light-ott",┃USA┃ THE MOVIE CHANNEL EXTRA HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855720&extension=ts&play_token=Y6YNwFcm1q
+#EXTINF:-1 group-title="light-ott",┃USA┃ FLIX HD [EAST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855717&extension=ts&play_token=5B6JycMl8T
+#EXTINF:-1 group-title="light-ott",┃USA┃ FLIX HD [WEST]
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855716&extension=ts&play_token=XM7xgcKE5U
+#EXTINF:-1 group-title="light-ott",┃USA┃ SONY MOVIE CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855724&extension=ts&play_token=gE0gyq5kuT
+#EXTINF:-1 group-title="light-ott",┃USA┃ AMC THRILLERS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855722&extension=ts&play_token=hvrD6A106u
+#EXTINF:-1 group-title="light-ott",┃USA┃ SUNDANCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855723&extension=ts&play_token=6LsO7jq1Q0
+#EXTINF:-1 group-title="light-ott",┃USA┃ MY TIME MOVIE NETWORK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855730&extension=ts&play_token=nuUEoDDxHz
+#EXTINF:-1 group-title="light-ott",┃USA┃ PIXL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:9D:76&stream=855729&extension=ts&play_token=LIajlm6U3r
+
+
 #EXTINF:-1 group-title="crystalott",|PORNBOX| FAMILY SWAP XXX
 http://crystalott.co:80/KATKHEINZ/K5PNBZJQYP/1578482
 #EXTINF:-1 group-title="crystalott",|ADULT| HUSTLER HD
