@@ -1,5 +1,65 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ HBO 1 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907604&extension=ts&play_token=yvG88LA2gr
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ HBO 2 HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907605&extension=ts&play_token=vlpvTWFaii
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ A&E HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907630&extension=ts&play_token=Del0Jm2FnE
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ AMC HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907615&extension=ts&play_token=XwHvRMGNCa
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ BET HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907627&extension=ts&play_token=x2GWlF1933
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ BRAVO HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907628&extension=ts&play_token=fHk5WY7JPW
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ ABC SPARK HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907606&extension=ts&play_token=ZW214Xwu7f
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ ACTION HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907616&extension=ts&play_token=7kzXWS8Gwp
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TCM HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907617&extension=ts&play_token=z9VNoafSrb
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ DEJAVIEW
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907625&extension=ts&play_token=Bq5OUTZ1mD
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ DEJAVIEW HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907624&extension=ts&play_token=54gkg7LL7h
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ FAMILY EAST
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907619&extension=ts&play_token=nqfCIIGZVC
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ FAMILY EAST
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907620&extension=ts&play_token=bZCxDGg6Vn
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ LIFETIME HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907631&extension=ts&play_token=JL73rHJI9J
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ MOVIETIME HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907618&extension=ts&play_token=D94r5ZdhOl
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ SHOWCASE HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907632&extension=ts&play_token=ozTPTiSthb
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ SILVER SCREEN CLASSICS
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907626&extension=ts&play_token=JfubfXmUa2
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ Z TELE HD
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907629&extension=ts&play_token=h4if0JeCxe
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN1E HD (CRAVE 1 TV)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907607&extension=ts&play_token=L0MD01M30j
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN1E (CRAVE TV 1)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907611&extension=ts&play_token=dUbNydXjTu
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN2E HD (CRAVE 2 TV)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907608&extension=ts&play_token=FnqytKlxXJ
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN2E (CRAVE TV 2)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907612&extension=ts&play_token=kYgQPUMkjc
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN3E HD (CRAVE 3 TV)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907609&extension=ts&play_token=tcq7rMIssc
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN3E (CRAVE TV 3)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907613&extension=ts&play_token=j3FjgtCnTc
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN4E HD (CRAVE 4 TV)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907610&extension=ts&play_token=RGao79uRDj
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ TMN4E (CRAVE TV 4)
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907614&extension=ts&play_token=jvfSiqnZYE
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ SUPER CHANNEL FUSE
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907621&extension=ts&play_token=8nhK69SaK9
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ SUPER CHANNEL HEART & HOME
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907622&extension=ts&play_token=OvEhCWmEE4
+#EXTINF:-1 group-title="hey-ott",┃CA EN┃ SUPER CHANNEL VAULT
+http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907623&extension=ts&play_token=SHA1Gcb9dy
+
+
 #EXTINF:-1 group-title="unimaster",CA: CBC TORONTO
 http://unimaster.us:80/mustafasanlier/f7EtMmiLt/356571
 #EXTINF:-1 group-title="unimaster",CA: CITY TORONTO
