@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="tv-278956",24-7 Altered Carbon
+http://tv-278956.ifiesta.net:8080/live/TV-13086383561888/231006460908/258628.ts
+#EXTINF:-1 group-title="tv-278956",24-7 Banshee
+http://tv-278956.ifiesta.net:8080/live/TV-13086383561888/231006460908/258620.ts
+#EXTINF:-1 group-title="tv-278956",24-7 Baywatch
+http://tv-278956.ifiesta.net:8080/live/TV-13086383561888/231006460908/258617.ts
+#EXTINF:-1 group-title="tv-278956",24-7 Family Guy
+http://tv-278956.ifiesta.net:8080/live/TV-13086383561888/231006460908/258374.ts
+#EXTINF:-1 group-title="tv-278956",24-7 Futurama
+http://tv-278956.ifiesta.net:8080/live/TV-13086383561888/231006460908/258367.ts
+#EXTINF:-1 group-title="tv-278956",24-7 Friends
+http://tv-278956.ifiesta.net:8080/live/TV-13086383561888/231006460908/258362.ts
+
+
 #EXTINF:-1 group-title="hey-ott",┃CA EN┃ HBO 1 HD
 http://line.hey-ott.net:80/play/live.php?mac=A0:BB:3E:A6:D1:7B&stream=907604&extension=ts&play_token=yvG88LA2gr
 #EXTINF:-1 group-title="hey-ott",┃CA EN┃ HBO 2 HD
