@@ -1,5 +1,219 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="primestreams",CA: CBC TORONTO
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36855.ts
+#EXTINF:-1 group-title="primestreams",CA: CRAVE 1
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114587.ts
+#EXTINF:-1 group-title="primestreams",CA: CRAVE 2
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114588.ts
+#EXTINF:-1 group-title="primestreams",CA: CRAVE 3
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114589.ts
+#EXTINF:-1 group-title="primestreams",CA: CRAVE 4
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114590.ts
+#EXTINF:-1 group-title="primestreams",CA: CTV
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36917.ts
+#EXTINF:-1 group-title="primestreams",CA: CTV 2
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36837.ts
+#EXTINF:-1 group-title="primestreams",CA: CTV COMEDY
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36843.ts
+#EXTINF:-1 group-title="primestreams",CA: CTV DRAMA
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114591.ts
+#EXTINF:-1 group-title="primestreams",CA: CTV SCIFI
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114592.ts
+#EXTINF:-1 group-title="primestreams",CA: CTV TORONTO
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36848.ts
+#EXTINF:-1 group-title="primestreams",CA: E!
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36910.ts
+#EXTINF:-1 group-title="primestreams",CA: GLOBAL TORONTO
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36811.ts
+#EXTINF:-1 group-title="primestreams",CA: HBO 1
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36805.ts
+#EXTINF:-1 group-title="primestreams",CA: HBO HITS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36903.ts
+#EXTINF:-1 group-title="primestreams",CA: LOVE NATURE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36792.ts
+#EXTINF:-1 group-title="primestreams",CA: SHOWCASE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36779.ts
+#EXTINF:-1 group-title="primestreams",HBO
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1265.ts
+#EXTINF:-1 group-title="primestreams",HBO LATINO
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118526.ts
+#EXTINF:-1 group-title="primestreams",HBO (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/77224.ts
+#EXTINF:-1 group-title="primestreams",HBO LATINO (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110777.ts
+#EXTINF:-1 group-title="primestreams",HBO COMEDY
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1465.ts
+#EXTINF:-1 group-title="primestreams",HBO COMEDY (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110775.ts
+#EXTINF:-1 group-title="primestreams",HBO DRAMA
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/2515.ts
+#EXTINF:-1 group-title="primestreams",HBO DRAMA (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110778.ts
+#EXTINF:-1 group-title="primestreams",HBO HITS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95926.ts
+#EXTINF:-1 group-title="primestreams",HBO HITS (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110774.ts
+#EXTINF:-1 group-title="primestreams",HBO MOVIES
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95924.ts
+#EXTINF:-1 group-title="primestreams",HBO MOVIES (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110779.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1282.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110767.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX LATINO
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110770.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX ACTION
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95935.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX ACTION (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110769.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX CLASSICS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/89057.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX HITS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95932.ts
+#EXTINF:-1 group-title="primestreams",CINEMAX HITS (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110768.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1580.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/39223.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME 2
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95922.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME 2 (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110780.ts
+#EXTINF:-1 group-title="primestreams",SHOxBET
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/90710.ts
+#EXTINF:-1 group-title="primestreams",SHOxBET (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110781.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME EXTREME
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95921.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME EXTREME (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110782.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME FAMILY ZONE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/99421.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME FAMILY ZONE (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110786.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME NEXT
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/89082.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME NEXT (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110784.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME SHOWCASE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1421.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME SHOWCASE (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110783.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME WOMEN
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/97654.ts
+#EXTINF:-1 group-title="primestreams",SHOWTIME WOMEN (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110785.ts
+#EXTINF:-1 group-title="primestreams",STARZ
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1271.ts
+#EXTINF:-1 group-title="primestreams",STARZ (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98749.ts
+#EXTINF:-1 group-title="primestreams",STARZ CINEMA
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/97655.ts
+#EXTINF:-1 group-title="primestreams",STARZ COMEDY
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95919.ts
+#EXTINF:-1 group-title="primestreams",STARZ EDGE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95918.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/94991.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110791.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE ESPANOL
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110790.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE ACTION
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95801.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE BLACK
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/97580.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE CLASSIC
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95873.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE FAMILY
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/97581.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE SUSPENSE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95802.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE WESTERNS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/92315.ts
+#EXTINF:-1 group-title="primestreams",STARZ ENCORE WESTERNS (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118507.ts
+#EXTINF:-1 group-title="primestreams",STARZ IN BLACK
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/89055.ts
+#EXTINF:-1 group-title="primestreams",STARZ KIDS & FAMILY
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/95916.ts
+#EXTINF:-1 group-title="primestreams",FLIX
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114576.ts
+#EXTINF:-1 group-title="primestreams",FLIX (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118501.ts
+#EXTINF:-1 group-title="primestreams",HDNET MOVIES
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/111040.ts
+#EXTINF:-1 group-title="primestreams",INDIEPLEX
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118495.ts
+#EXTINF:-1 group-title="primestreams",MOVIEPLEX
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110084.ts
+#EXTINF:-1 group-title="primestreams",RETROPLEX
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110085.ts
+#EXTINF:-1 group-title="primestreams",SCREENPIX
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114257.ts
+#EXTINF:-1 group-title="primestreams",SCREENPIX ACTION
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114258.ts
+#EXTINF:-1 group-title="primestreams",SCREENPIX VOICES
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114264.ts
+#EXTINF:-1 group-title="primestreams",SCREENPIX WESTERNS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114259.ts
+#EXTINF:-1 group-title="primestreams",THE MOVIE CHANNEL
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/96959.ts
+#EXTINF:-1 group-title="primestreams",THE MOVIE CHANNEL (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118508.ts
+#EXTINF:-1 group-title="primestreams",THE MOVIE CHANNEL EXTRA
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114262.ts
+#EXTINF:-1 group-title="primestreams",THE MOVIE CHANNEL EXTRA (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118509.ts
+#EXTINF:-1 group-title="primestreams",MGM+
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/1360.ts
+#EXTINF:-1 group-title="primestreams",MGM+ (WEST)
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/110772.ts
+#EXTINF:-1 group-title="primestreams",MGM+ HITS
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98755.ts
+#EXTINF:-1 group-title="primestreams",MGM+ DRIVE-IN
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/99588.ts
+#EXTINF:-1 group-title="primestreams",MGM+ MARQUEE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/38629.ts
+#EXTINF:-1 group-title="primestreams",MOVIE SPHERE
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/118686.ts
+#EXTINF:-1 group-title="primestreams",MOVIE SPHERE GOLD
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/119700.ts
+#EXTINF:-1 group-title="primestreams",HI-YAH!
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/119956.ts
+#EXTINF:-1 group-title="primestreams",HOLLYWOOD SUITE 70s+
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114266.ts
+#EXTINF:-1 group-title="primestreams",HOLLYWOOD SUITE 80s & 90s
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114267.ts
+#EXTINF:-1 group-title="primestreams",HOLLYWOOD SUITE 2000s
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114268.ts
+#EXTINF:-1 group-title="primestreams",HOLLYWOOD SUITE 2010s
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/114269.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA ACTION | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98800.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA COMEDY | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98799.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA DRAMA | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98797.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA FAMILY | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98796.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA GREATS | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98795.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA HITS | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98794.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA PREMIER | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98793.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA SCI-FI HORROR | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98792.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA SELECT | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98791.ts
+#EXTINF:-1 group-title="primestreams",SKY CINEMA THRILLER | VIP
+http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/98790.ts
+
+
 #EXTINF:-1 group-title="qcho",HBO East HD
 http://5.mdtv.me:80/play/TG8GN5n7KUb9esb81HjNpG2C9Sm-ocBHRbmmG3A4dV_Er33csD9lMkH9I8YpTN7UFYr0U6I768co8YUdujvmXoDwGnUTdZ2-ZQxU16RZ0mgYDvxqEd3x77I-L0D20xqV6AaQKd2bnBM0OI2ZR2ln2qr8H3uz2CbStMwapG4kv2E?ext=.ts
 #EXTINF:-1 group-title="qcho",HBO West HD
