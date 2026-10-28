@@ -1,5 +1,71 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="btc",CA-P| TSN 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=106026&extension=ts&play_token=g302sK8YjH
+#EXTINF:-1 group-title="btc",CA-P| TSN 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=106023&extension=ts&play_token=5zijz2vLse
+#EXTINF:-1 group-title="btc",CA-P| TSN 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=106020&extension=ts&play_token=wDLC40I70F
+#EXTINF:-1 group-title="btc",CA-P| TSN 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=106017&extension=ts&play_token=Gmrg7H7IVD
+#EXTINF:-1 group-title="btc",CA-P| TSN 5 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=106014&extension=ts&play_token=1uDEmlusnR
+#EXTINF:-1 group-title="btc",CA-P| CRAVE 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105961&extension=ts&play_token=l6mZWWMOVb
+#EXTINF:-1 group-title="btc",CA-P| CRAVE 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105959&extension=ts&play_token=H1sz81QJMO
+#EXTINF:-1 group-title="btc",CA-P| CRAVE 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105957&extension=ts&play_token=PGr6KizTaZ
+#EXTINF:-1 group-title="btc",CA-P| CRAVE 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105955&extension=ts&play_token=zsN3BlGRjX
+#EXTINF:-1 group-title="btc",CA-P| CTV Toronto FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105939&extension=ts&play_token=qE8r3RNj7P
+#EXTINF:-1 group-title="btc",CA-P| CTV Drama FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105937&extension=ts&play_token=4dkgwFFUYr
+#EXTINF:-1 group-title="btc",CA-P| CTV Comedy FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105934&extension=ts&play_token=ynNlNjFndK
+#EXTINF:-1 group-title="btc",CA-P| CTV Sci Fi FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105931&extension=ts&play_token=7Rxz9Qir8L
+#EXTINF:-1 group-title="btc",CA-P| Global Toronto FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105842&extension=ts&play_token=2SlnIS4l6R
+#EXTINF:-1 group-title="btc",CA | CBC Torontoⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105783&extension=ts&play_token=00J9JTRAqU
+#EXTINF:-1 group-title="btc",CA | City TV Torontoⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105768&extension=ts&play_token=ohAylxzkr9
+#EXTINF:-1 group-title="btc",CA | Crave 1ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105759&extension=ts&play_token=QSJdnc8Ogh
+#EXTINF:-1 group-title="btc",CA | Crave 2ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105758&extension=ts&play_token=t7tTn29M2J
+#EXTINF:-1 group-title="btc",CA | Crave 3ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105757&extension=ts&play_token=2n602A30Y4
+#EXTINF:-1 group-title="btc",CA | Crave 4ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105756&extension=ts&play_token=arn4lJLmlm
+#EXTINF:-1 group-title="btc",CA | CTV Sci-Fiⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105738&extension=ts&play_token=i9t6fDKU2u
+#EXTINF:-1 group-title="btc",CA | CTV Torontoⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105737&extension=ts&play_token=s2oQkbmJsm
+#EXTINF:-1 group-title="btc",CA | HBO 2ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105693&extension=ts&play_token=xhpMLOoAZ8
+#EXTINF:-1 group-title="btc",CA | HBOⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105692&extension=ts&play_token=n5ZMYy1tEG
+#EXTINF:-1 group-title="btc",CA | Movietimeⓧ HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105667&extension=ts&play_token=SmtDGeHxFE
+#EXTINF:-1 group-title="btc",CA | Starz 1ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105610&extension=ts&play_token=rMJGLZascl
+#EXTINF:-1 group-title="btc",CA | Starz 2ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105609&extension=ts&play_token=6fw2wNl5mX
+#EXTINF:-1 group-title="btc",CA | TSN 1ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105544&extension=ts&play_token=ofhgdAOoui
+#EXTINF:-1 group-title="btc",CA | TSN 2ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105543&extension=ts&play_token=QtpUVggGiK
+#EXTINF:-1 group-title="btc",CA | TSN 3ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105542&extension=ts&play_token=DfHK9o4wMY
+#EXTINF:-1 group-title="btc",CA | TSN 4ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105541&extension=ts&play_token=q69oAddHpF
+#EXTINF:-1 group-title="btc",CA | TSN 5ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:EF:57:86&stream=105540&extension=ts&play_token=hAMJysoWYw
+
+
 #EXTINF:-1 group-title="primestreams",CA: CBC TORONTO
 http://primestreams.tv:826/live/f6R52pMyZ/ozssB0FJ3Z/36855.ts
 #EXTINF:-1 group-title="primestreams",CA: CRAVE 1
