@@ -1,5 +1,55 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="jackofclubs",CA Crave 1
+http://jackofclubs.vip/live/Life12345/Life12345/181891.ts
+#EXTINF:-1 group-title="jackofclubs",CA Crave 2
+http://jackofclubs.vip/live/Life12345/Life12345/181892.ts
+#EXTINF:-1 group-title="jackofclubs",CA Crave 3
+http://jackofclubs.vip/live/Life12345/Life12345/181893.ts
+#EXTINF:-1 group-title="jackofclubs",CA Crave 4
+http://jackofclubs.vip/live/Life12345/Life12345/181894.ts
+#EXTINF:-1 group-title="jackofclubs",CA FX
+http://jackofclubs.vip/live/Life12345/Life12345/181954.ts
+#EXTINF:-1 group-title="jackofclubs",CA FXX
+http://jackofclubs.vip/live/Life12345/Life12345/181955.ts
+#EXTINF:-1 group-title="jackofclubs",CA HBO 1
+http://jackofclubs.vip/live/Life12345/Life12345/181971.ts
+#EXTINF:-1 group-title="jackofclubs",CA HBO 2
+http://jackofclubs.vip/live/Life12345/Life12345/181972.ts
+#EXTINF:-1 group-title="jackofclubs",CA MOVIETIME HD
+http://jackofclubs.vip/live/Life12345/Life12345/182015.ts
+#EXTINF:-1 group-title="jackofclubs",CA OMNI
+http://jackofclubs.vip/live/Life12345/Life12345/182036.ts
+#EXTINF:-1 group-title="jackofclubs",CA OMNI 2
+http://jackofclubs.vip/live/Life12345/Life12345/182037.ts
+#EXTINF:-1 group-title="jackofclubs",CA OWN
+http://jackofclubs.vip/live/Life12345/Life12345/182040.ts
+#EXTINF:-1 group-title="jackofclubs",CA Showcase
+http://jackofclubs.vip/live/Life12345/Life12345/182072.ts
+#EXTINF:-1 group-title="jackofclubs",CA SILVER SCREEN CLASSICS
+http://jackofclubs.vip/live/Life12345/Life12345/182073.ts
+#EXTINF:-1 group-title="jackofclubs",CA SPIKE TV / PARAMOUNT
+http://jackofclubs.vip/live/Life12345/Life12345/182075.ts
+#EXTINF:-1 group-title="jackofclubs",CA Starz 2
+http://jackofclubs.vip/live/Life12345/Life12345/182086.ts
+#EXTINF:-1 group-title="jackofclubs",CA TCM
+http://jackofclubs.vip/live/Life12345/Life12345/182170.ts
+#EXTINF:-1 group-title="jackofclubs",CA LIFETIME MOVIE NETWORK
+http://jackofclubs.vip/live/Life12345/Life12345/228567.ts
+#EXTINF:-1 group-title="jackofclubs",CA Super Channel Vault  HD
+http://jackofclubs.vip/live/Life12345/Life12345/182089.ts
+#EXTINF:-1 group-title="jackofclubs",CA Super Channel Fuse
+http://jackofclubs.vip/live/Life12345/Life12345/182087.ts
+#EXTINF:-1 group-title="jackofclubs",CA Starz 1
+http://jackofclubs.vip/live/Life12345/Life12345/182085.ts
+#EXTINF:-1 group-title="jackofclubs",CA Hollywood Suite 2000's
+http://jackofclubs.vip/live/Life12345/Life12345/1108839.ts
+#EXTINF:-1 group-title="jackofclubs",CA Hollywood Suite 70's
+http://jackofclubs.vip/live/Life12345/Life12345/1108840.ts
+#EXTINF:-1 group-title="jackofclubs",CA Hollywood Suite 80's & 90's
+http://jackofclubs.vip/live/Life12345/Life12345/1108841.ts
+
+
 #EXTINF:-1 group-title="31.43",CA: CBC TORONTO
 http://31.43.191.125:8080/VIP011171764930814150/ac4adbc08c83/5418
 #EXTINF:-1 group-title="31.43",CA: CITY TORONTO
