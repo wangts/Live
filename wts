@@ -1,5 +1,171 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="usafhd",PM : CA CRAVE 1
+http://hostengine.live/live/john/franklin/53646.ts
+#EXTINF:-1 group-title="usafhd",PM : CA CRAVE 2
+http://hostengine.live/live/john/franklin/53647.ts
+#EXTINF:-1 group-title="usafhd",PM : CA CRAVE 3
+http://hostengine.live/live/john/franklin/53648.ts
+#EXTINF:-1 group-title="usafhd",PM : CA CRAVE 4
+http://hostengine.live/live/john/franklin/53649.ts
+#EXTINF:-1 group-title="usafhd",PM : CA FX
+http://hostengine.live/live/john/franklin/53689.ts
+#EXTINF:-1 group-title="usafhd",PM : CA FXX
+http://hostengine.live/live/john/franklin/53690.ts
+#EXTINF:-1 group-title="usafhd",PM : CA HBO 1
+http://hostengine.live/live/john/franklin/53701.ts
+#EXTINF:-1 group-title="usafhd",PM : CA HBO 2
+http://hostengine.live/live/john/franklin/53702.ts
+#EXTINF:-1 group-title="usafhd",PM : CA MOVIETIME
+http://hostengine.live/live/john/franklin/53718.ts
+#EXTINF:-1 group-title="usafhd",PM : CA SILVER SCREEN CLASSICS
+http://hostengine.live/live/john/franklin/53745.ts
+#EXTINF:-1 group-title="usafhd",PM : CA TCM
+http://hostengine.live/live/john/franklin/53797.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA ACTION
+http://hostengine.live/live/john/franklin/53956.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA COMEDY
+http://hostengine.live/live/john/franklin/53959.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA DRAMA
+http://hostengine.live/live/john/franklin/53961.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA FAMILY
+http://hostengine.live/live/john/franklin/53962.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA GREATS
+http://hostengine.live/live/john/franklin/53963.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA HITS
+http://hostengine.live/live/john/franklin/53964.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA PREMIERE
+http://hostengine.live/live/john/franklin/53965.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA SCI-FI
+http://hostengine.live/live/john/franklin/53966.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA SELECT
+http://hostengine.live/live/john/franklin/53958.ts
+#EXTINF:-1 group-title="usafhd",PM : UK SKY CINEMA THRILLER
+http://hostengine.live/live/john/franklin/53967.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX
+http://hostengine.live/live/john/franklin/56276.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX ACTION
+http://hostengine.live/live/john/franklin/286643.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX ACTION WEST
+http://hostengine.live/live/john/franklin/326776.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX CLASSICS
+http://hostengine.live/live/john/franklin/226310.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX HITS
+http://hostengine.live/live/john/franklin/56277.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX HITS WEST
+http://hostengine.live/live/john/franklin/326775.ts
+#EXTINF:-1 group-title="usafhd",PM : US CINEMAX WEST
+http://hostengine.live/live/john/franklin/326771.ts
+#EXTINF:-1 group-title="usafhd",PM : US FLIX
+http://hostengine.live/live/john/franklin/287247.ts
+#EXTINF:-1 group-title="usafhd",PM : US FMC
+http://hostengine.live/live/john/franklin/286645.ts
+#EXTINF:-1 group-title="usafhd",PM : US FXM
+http://hostengine.live/live/john/franklin/56284.ts
+#EXTINF:-1 group-title="usafhd",PM : US HALLMARK CHANNEL
+http://hostengine.live/live/john/franklin/56286.ts
+#EXTINF:-1 group-title="usafhd",PM : US HALLMARK FAMILY
+http://hostengine.live/live/john/franklin/56287.ts
+#EXTINF:-1 group-title="usafhd",PM : US HALLMARK MYSTERY
+http://hostengine.live/live/john/franklin/56288.ts
+#EXTINF:-1 group-title="usafhd",PM : US HBO COMEDY
+http://hostengine.live/live/john/franklin/56290.ts
+#EXTINF:-1 group-title="usafhd",PM : US HBO DRAMA EAST
+http://hostengine.live/live/john/franklin/56293.ts
+#EXTINF:-1 group-title="usafhd",PM : US HBO EAST
+http://hostengine.live/live/john/franklin/56291.ts
+#EXTINF:-1 group-title="usafhd",PM : US HBO HITS
+http://hostengine.live/live/john/franklin/56289.ts
+#EXTINF:-1 group-title="usafhd",PM : US HBO MOVIES
+http://hostengine.live/live/john/franklin/56294.ts
+#EXTINF:-1 group-title="usafhd",PM : US HDNET MOVIES
+http://hostengine.live/live/john/franklin/286644.ts
+#EXTINF:-1 group-title="usafhd",PM : US HERSPHERE
+http://hostengine.live/live/john/franklin/308226.ts
+#EXTINF:-1 group-title="usafhd",PM : US INDIEPLEX
+http://hostengine.live/live/john/franklin/287245.ts
+#EXTINF:-1 group-title="usafhd",PM : US LIFETIME
+http://hostengine.live/live/john/franklin/56295.ts
+#EXTINF:-1 group-title="usafhd",PM : US LIFETIME MOVIE NETWORK
+http://hostengine.live/live/john/franklin/56296.ts
+#EXTINF:-1 group-title="usafhd",PM : US MGM+
+http://hostengine.live/live/john/franklin/56279.ts
+#EXTINF:-1 group-title="usafhd",PM : US MGM+ DRIVE-IN
+http://hostengine.live/live/john/franklin/56281.ts
+#EXTINF:-1 group-title="usafhd",PM : US MGM+ HITS
+http://hostengine.live/live/john/franklin/56280.ts
+#EXTINF:-1 group-title="usafhd",PM : US MGM+ MARQUEE
+http://hostengine.live/live/john/franklin/56282.ts
+#EXTINF:-1 group-title="usafhd",PM : US MOVIESPHERE
+http://hostengine.live/live/john/franklin/308225.ts
+#EXTINF:-1 group-title="usafhd",PM : US MOVIESPHERE GOLD
+http://hostengine.live/live/john/franklin/341743.ts
+#EXTINF:-1 group-title="usafhd",PM : US SCREENPIX
+http://hostengine.live/live/john/franklin/254826.ts
+#EXTINF:-1 group-title="usafhd",PM : US SCREENPIX ACTION
+http://hostengine.live/live/john/franklin/271926.ts
+#EXTINF:-1 group-title="usafhd",PM : US SCREENPIX VOICES
+http://hostengine.live/live/john/franklin/254824.ts
+#EXTINF:-1 group-title="usafhd",PM : US SCREENPIX WESTERNS
+http://hostengine.live/live/john/franklin/254825.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHO X BET
+http://hostengine.live/live/john/franklin/56297.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME  NEXT
+http://hostengine.live/live/john/franklin/56298.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME 2
+http://hostengine.live/live/john/franklin/56299.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME EAST
+http://hostengine.live/live/john/franklin/56300.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME EXTREME
+http://hostengine.live/live/john/franklin/56301.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME FAMILY ZONE
+http://hostengine.live/live/john/franklin/56302.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME SHOWCASE
+http://hostengine.live/live/john/franklin/56303.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME WEST
+http://hostengine.live/live/john/franklin/56304.ts
+#EXTINF:-1 group-title="usafhd",PM : US SHOWTIME WOMEN
+http://hostengine.live/live/john/franklin/56305.ts
+#EXTINF:-1 group-title="usafhd",PM : US SONY MOVIE CHANNEL
+http://hostengine.live/live/john/franklin/56306.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ  ENCORE BLACK
+http://hostengine.live/live/john/franklin/56307.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ CINEMA
+http://hostengine.live/live/john/franklin/56308.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ COMEDY
+http://hostengine.live/live/john/franklin/56309.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ EAST
+http://hostengine.live/live/john/franklin/56310.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ EDGE
+http://hostengine.live/live/john/franklin/56311.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE
+http://hostengine.live/live/john/franklin/56312.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE ACTION
+http://hostengine.live/live/john/franklin/56313.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE CLASSICS
+http://hostengine.live/live/john/franklin/56314.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE FAMILY
+http://hostengine.live/live/john/franklin/56315.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE SUSPENSE
+http://hostengine.live/live/john/franklin/56316.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE WEST
+http://hostengine.live/live/john/franklin/56317.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ ENCORE WESTERNS
+http://hostengine.live/live/john/franklin/56318.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ IN BLACK
+http://hostengine.live/live/john/franklin/56319.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ KIDS & FAMILY
+http://hostengine.live/live/john/franklin/56320.ts
+#EXTINF:-1 group-title="usafhd",PM : US STARZ WEST
+http://hostengine.live/live/john/franklin/56321.ts
+#EXTINF:-1 group-title="usafhd",PM : US TCM
+http://hostengine.live/live/john/franklin/56323.ts
+#EXTINF:-1 group-title="usafhd",PM : US THE MOVIE CHANNEL
+http://hostengine.live/live/john/franklin/251825.ts
+#EXTINF:-1 group-title="usafhd",PM : US THE MOVIE CHANNEL EXTRA
+http://hostengine.live/live/john/franklin/251826.ts
+
+
 #EXTINF:-1 group-title="t77ert",[USA] 50 Cent Action Channel
 http://t77ert.top:8080/4c:c9:5e:6d:19:084/cGMQYOYDjvyg5Ku/250213
 #EXTINF:-1 group-title="t77ert",[USA] AMC HD
