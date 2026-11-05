@@ -1,5 +1,183 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="pirateiptv",CA : BBC WORLD NEWS
+http://hostengine.live/live/AllieKlar/68779722/53608.ts
+#EXTINF:-1 group-title="pirateiptv",CA : BNN BLOOMBERG
+http://hostengine.live/live/AllieKlar/68779722/53611.ts
+#EXTINF:-1 group-title="pirateiptv",CA : BUSINESS BLOOMBERG HD
+http://hostengine.live/live/AllieKlar/68779722/53613.ts
+#EXTINF:-1 group-title="pirateiptv",CA : CBC NEWS NETWORK
+http://hostengine.live/live/AllieKlar/68779722/53624.ts
+#EXTINF:-1 group-title="pirateiptv",CA : CNBC CANADA
+http://hostengine.live/live/AllieKlar/68779722/53636.ts
+#EXTINF:-1 group-title="pirateiptv",CA : CNN
+http://hostengine.live/live/AllieKlar/68779722/53637.ts
+#EXTINF:-1 group-title="pirateiptv",CA : CTV NEWS CHANNEL
+http://hostengine.live/live/AllieKlar/68779722/53658.ts
+#EXTINF:-1 group-title="pirateiptv",CA : FOX NEWS
+http://hostengine.live/live/AllieKlar/68779722/53687.ts
+#EXTINF:-1 group-title="pirateiptv",GB : AL JAZEERA ENG
+http://hostengine.live/live/AllieKlar/68779722/53834.ts
+#EXTINF:-1 group-title="pirateiptv",GB : BBC NEWS HD
+http://hostengine.live/live/AllieKlar/68779722/53840.ts
+#EXTINF:-1 group-title="pirateiptv",GB : CNN
+http://hostengine.live/live/AllieKlar/68779722/185233.ts
+#EXTINF:-1 group-title="pirateiptv",GB : GB NEWS
+http://hostengine.live/live/AllieKlar/68779722/122840.ts
+#EXTINF:-1 group-title="pirateiptv",GB : RTE NEWS
+http://hostengine.live/live/AllieKlar/68779722/53950.ts
+#EXTINF:-1 group-title="pirateiptv",GB : SKY NEWS
+http://hostengine.live/live/AllieKlar/68779722/53974.ts
+#EXTINF:-1 group-title="pirateiptv",US : BAY NEWS 9 TAMPA
+http://hostengine.live/live/AllieKlar/68779722/325691.ts
+#EXTINF:-1 group-title="pirateiptv",US : BBC WORLD NEWS
+http://hostengine.live/live/AllieKlar/68779722/184402.ts
+#EXTINF:-1 group-title="pirateiptv",US : BLOOMBERG TV
+http://hostengine.live/live/AllieKlar/68779722/56584.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS 247
+http://hostengine.live/live/AllieKlar/68779722/54167.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS BAY AREA
+http://hostengine.live/live/AllieKlar/68779722/54160.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS BOSTON
+http://hostengine.live/live/AllieKlar/68779722/54161.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS CHICAGO
+http://hostengine.live/live/AllieKlar/68779722/54162.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS COLORADO
+http://hostengine.live/live/AllieKlar/68779722/54164.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS LOS ANGELES
+http://hostengine.live/live/AllieKlar/68779722/54165.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS MINNESOTA
+http://hostengine.live/live/AllieKlar/68779722/54166.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS NEW YORK
+http://hostengine.live/live/AllieKlar/68779722/54168.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS PHILADELPHIA
+http://hostengine.live/live/AllieKlar/68779722/54169.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS PHILADELPHIA
+http://hostengine.live/live/AllieKlar/68779722/54170.ts
+#EXTINF:-1 group-title="pirateiptv",US : CBS NEWS TEXAS
+http://hostengine.live/live/AllieKlar/68779722/54163.ts
+#EXTINF:-1 group-title="pirateiptv",US : CHEDDAR NEWS
+http://hostengine.live/live/AllieKlar/68779722/56585.ts
+#EXTINF:-1 group-title="pirateiptv",US : CNBC
+http://hostengine.live/live/AllieKlar/68779722/56586.ts
+#EXTINF:-1 group-title="pirateiptv",US : CNBC WORLD
+http://hostengine.live/live/AllieKlar/68779722/56587.ts
+#EXTINF:-1 group-title="pirateiptv",US : CNN
+http://hostengine.live/live/AllieKlar/68779722/56588.ts
+#EXTINF:-1 group-title="pirateiptv",US : CNN INTERNATIONAL
+http://hostengine.live/live/AllieKlar/68779722/337600.ts
+#EXTINF:-1 group-title="pirateiptv",US : CSPAN 1
+http://hostengine.live/live/AllieKlar/68779722/56589.ts
+#EXTINF:-1 group-title="pirateiptv",US : CSPAN 2
+http://hostengine.live/live/AllieKlar/68779722/56590.ts
+#EXTINF:-1 group-title="pirateiptv",US : FOX BUSINESS
+http://hostengine.live/live/AllieKlar/68779722/56592.ts
+#EXTINF:-1 group-title="pirateiptv",US : FOX NEWS CHANNEL
+http://hostengine.live/live/AllieKlar/68779722/56593.ts
+#EXTINF:-1 group-title="pirateiptv",US : FOX NEWS LIVE NOW
+http://hostengine.live/live/AllieKlar/68779722/309456.ts
+#EXTINF:-1 group-title="pirateiptv",US : FRANCE 24 ENGLISH
+http://hostengine.live/live/AllieKlar/68779722/295121.ts
+#EXTINF:-1 group-title="pirateiptv",US : MS NOW
+http://hostengine.live/live/AllieKlar/68779722/56595.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 (CAROLINAS) - CHARLOTTE
+http://hostengine.live/live/AllieKlar/68779722/325685.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 (CAROLINAS) - COASTAL
+http://hostengine.live/live/AllieKlar/68779722/325684.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 (CAROLINAS) - GREENSBORO
+http://hostengine.live/live/AllieKlar/68779722/325683.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 (CAROLINAS) - MOUNTAIN
+http://hostengine.live/live/AllieKlar/68779722/325682.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 (CAROLINAS) - RALEIGH
+http://hostengine.live/live/AllieKlar/68779722/325681.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (KENTUCKY) - COVINGTON
+http://hostengine.live/live/AllieKlar/68779722/325690.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (KENTUCKY) - EVANSVILLE
+http://hostengine.live/live/AllieKlar/68779722/325671.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (KENTUCKY) LEXINGTON
+http://hostengine.live/live/AllieKlar/68779722/325670.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (KENTUCKY) LOUISVILLE
+http://hostengine.live/live/AllieKlar/68779722/325669.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (MA) PITTSFIELD
+http://hostengine.live/live/AllieKlar/68779722/325667.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (MA) SPRINGFIELD
+http://hostengine.live/live/AllieKlar/68779722/325666.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (MA) WORCESTER
+http://hostengine.live/live/AllieKlar/68779722/325665.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - (NEW YORK) ROCHESTER
+http://hostengine.live/live/AllieKlar/68779722/325663.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - ALBANY CAPITAL REGION
+http://hostengine.live/live/AllieKlar/68779722/325688.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - AUSTIN
+http://hostengine.live/live/AllieKlar/68779722/325687.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - BUFFALO
+http://hostengine.live/live/AllieKlar/68779722/325686.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - CENTRAL NY
+http://hostengine.live/live/AllieKlar/68779722/325680.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - CINCINNATI
+http://hostengine.live/live/AllieKlar/68779722/325679.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - CLEVELAND/AKRON
+http://hostengine.live/live/AllieKlar/68779722/325678.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - COLUMBUS
+http://hostengine.live/live/AllieKlar/68779722/325677.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - DALLAS -FT WORTH
+http://hostengine.live/live/AllieKlar/68779722/325676.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - DAYTON
+http://hostengine.live/live/AllieKlar/68779722/325675.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - EL PASO TEXAS
+http://hostengine.live/live/AllieKlar/68779722/325674.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - GREEN BAY/APPLETON
+http://hostengine.live/live/AllieKlar/68779722/325673.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - HUDSON VALLEY
+http://hostengine.live/live/AllieKlar/68779722/325672.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - MADISON
+http://hostengine.live/live/AllieKlar/68779722/325668.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - MILWAUKEE
+http://hostengine.live/live/AllieKlar/68779722/325664.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - NEW YORK (NYC)
+http://hostengine.live/live/AllieKlar/68779722/308665.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - SAN ANTONIO
+http://hostengine.live/live/AllieKlar/68779722/325662.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - SOUTHERN CALIFORNIA
+http://hostengine.live/live/AllieKlar/68779722/325689.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - ST LOUIS
+http://hostengine.live/live/AllieKlar/68779722/325661.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 1 - TOLEDO/LIMA
+http://hostengine.live/live/AllieKlar/68779722/325660.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS 13 CENTRAL FLORIDA
+http://hostengine.live/live/AllieKlar/68779722/281800.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 BROOKLYN
+http://hostengine.live/live/AllieKlar/68779722/56596.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 CONNECTICUT
+http://hostengine.live/live/AllieKlar/68779722/56597.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 HUDSON VALLEY
+http://hostengine.live/live/AllieKlar/68779722/56598.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 LONG ISLAND
+http://hostengine.live/live/AllieKlar/68779722/56599.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 NEW JERSEY
+http://hostengine.live/live/AllieKlar/68779722/56600.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 THE BRONX
+http://hostengine.live/live/AllieKlar/68779722/56601.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWS12 WESTCHESTER
+http://hostengine.live/live/AllieKlar/68779722/56602.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWSMAX TV
+http://hostengine.live/live/AllieKlar/68779722/56603.ts
+#EXTINF:-1 group-title="pirateiptv",US : NEWSNATION
+http://hostengine.live/live/AllieKlar/68779722/225548.ts
+#EXTINF:-1 group-title="pirateiptv",US : ONE AMERICA NEWS ENCORE
+http://hostengine.live/live/AllieKlar/68779722/56606.ts
+#EXTINF:-1 group-title="pirateiptv",US : ONE AMERICA NEWS NETWORK
+http://hostengine.live/live/AllieKlar/68779722/56607.ts
+#EXTINF:-1 group-title="pirateiptv",US : RT NEWS ENGLISH
+http://hostengine.live/live/AllieKlar/68779722/308896.ts
+#EXTINF:-1 group-title="pirateiptv",US : SCRIPPS NEWS
+http://hostengine.live/live/AllieKlar/68779722/56605.ts
+#EXTINF:-1 group-title="pirateiptv",US : WGN
+http://hostengine.live/live/AllieKlar/68779722/56610.ts
+#EXTINF:-1 group-title="pirateiptv",US : WPLG MIAMI (LOCAL NEWS)
+http://hostengine.live/live/AllieKlar/68779722/343221.ts
+
+
 #EXTINF:-1 group-title="strong8k.space",##### US - PREMIUM #####
 http://strong8k.space/live/YL3TV7UEA550DYZ/vhRMlUM9TH/69537.ts
 #EXTINF:-1 group-title="strong8k.space",US - HBO EAST HD ◉
