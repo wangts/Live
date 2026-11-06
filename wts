@@ -1,5 +1,51 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| TSN 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=106026&extension=ts&play_token=Oxe25WQ0ho
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| TSN 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=106023&extension=ts&play_token=Y340cqjnd7
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| TSN 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=106020&extension=ts&play_token=DGMdDeS1Gi
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| TSN 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=106017&extension=ts&play_token=TzEqIL4dxm
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| TSN 5 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=106014&extension=ts&play_token=j6WhKMWNYC
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CRAVE 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105961&extension=ts&play_token=sQaXUMb6ub
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CRAVE 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105959&extension=ts&play_token=vtQCsYO1uT
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CRAVE 3 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105957&extension=ts&play_token=ch7IvAvSod
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CRAVE 4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105955&extension=ts&play_token=iHM3mYWMl0
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Drama FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105937&extension=ts&play_token=Mt1KOlQwfU
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Comedy FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105934&extension=ts&play_token=zKn7GNBbeX
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Sci Fi FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105931&extension=ts&play_token=1HcmNqepmR
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Life FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105928&extension=ts&play_token=H3HrQ0fXsl
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Nature FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105884&extension=ts&play_token=wCbxBebAqM
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Nature HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105883&extension=ts&play_token=S9k5jT9IG8
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CTV Wild FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105881&extension=ts&play_token=bvbUV2ZxE3
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| HGTV FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105868&extension=ts&play_token=XLx7Lyl1AJ
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| Global Toronto FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105842&extension=ts&play_token=NUMxBmD7MK
+#EXTINF:-1 group-title="mining-vegasbaby",CA-P| CityTV Toronto FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105820&extension=ts&play_token=mFhRyMckwR
+#EXTINF:-1 group-title="mining-vegasbaby",CA | CTV Torontoⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105737&extension=ts&play_token=bXP7h6gvNw
+#EXTINF:-1 group-title="mining-vegasbaby",CA | Starz 1ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105610&extension=ts&play_token=YmtVGp4tml
+#EXTINF:-1 group-title="mining-vegasbaby",CA | Starz 2ⓧ
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:53:E9&stream=105609&extension=ts&play_token=WyuFSnRtRW
+
+
 #EXTINF:-1 group-title="pirateiptv",CA : BBC WORLD NEWS
 http://hostengine.live/live/AllieKlar/68779722/53608.ts
 #EXTINF:-1 group-title="pirateiptv",CA : BNN BLOOMBERG
