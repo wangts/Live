@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="dolbydream",CA CTV 2
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3297.ts
+#EXTINF:-1 group-title="dolbydream",CA CBC Toronto HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3322.ts
+#EXTINF:-1 group-title="dolbydream",CA CTV Drama HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3335.ts
+#EXTINF:-1 group-title="dolbydream",CA Citytv Toronto HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3341.ts
+#EXTINF:-1 group-title="dolbydream",CA Showcase HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3354.ts
+#EXTINF:-1 group-title="dolbydream",CA TSN 1 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3372.ts
+#EXTINF:-1 group-title="dolbydream",CA TSN 2 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3373.ts
+#EXTINF:-1 group-title="dolbydream",CA TSN 3 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3374.ts
+#EXTINF:-1 group-title="dolbydream",CA TSN 4 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3375.ts
+#EXTINF:-1 group-title="dolbydream",CA TSN 5 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3376.ts
+#EXTINF:-1 group-title="dolbydream",CA MovieTime
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3403.ts
+#EXTINF:-1 group-title="dolbydream",CA CTV Comedy Channel
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3408.ts
+#EXTINF:-1 group-title="dolbydream",CA HBO 2
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3409.ts
+#EXTINF:-1 group-title="dolbydream",CA HBO 1
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3410.ts
+#EXTINF:-1 group-title="dolbydream",CA Starz 1
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3411.ts
+#EXTINF:-1 group-title="dolbydream",CA Starz 2
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3412.ts
+#EXTINF:-1 group-title="dolbydream",CA TMN1E Crave 1 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3432.ts
+#EXTINF:-1 group-title="dolbydream",CA TMN2E Crave 2 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3433.ts
+#EXTINF:-1 group-title="dolbydream",CA TMN3E Crave 3 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3434.ts
+#EXTINF:-1 group-title="dolbydream",CA TMN4E Crave 4 HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3435.ts
+#EXTINF:-1 group-title="dolbydream",CA CTV SCI-FI
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3454.ts
+#EXTINF:-1 group-title="dolbydream",CA CTV TORONTO
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3455.ts
+#EXTINF:-1 group-title="dolbydream",CA GLOBAL TORONTO HD
+http://app.dolbydream.life:7715/live/PCEL4KOW6ZVJ/039045419374/3510.ts
+
+
 #EXTINF:-1 group-title="filex",US: 5 STAR MAX HD
 http://filex.homes:8080/live/MAINCORE/X3rMZTzddV/290907.ts
 #EXTINF:-1 group-title="filex",US: ABC Spark HD
