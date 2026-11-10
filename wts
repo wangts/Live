@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX HD [EAST]
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855743&extension=ts&play_token=AyDJXd5Db3
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX HD [WEST]
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855742&extension=ts&play_token=HVAa28H4K1
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX MORE MAX HD [EAST]
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855741&extension=ts&play_token=0mpiBihvES
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX MORE MAX HD [WEST]
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855740&extension=ts&play_token=KaVkwNwp7V
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX ACTION MAX HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855744&extension=ts&play_token=9IxyHXyv8n
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX 5 STAR MAX HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855745&extension=ts&play_token=VynT8V1Y2k
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ CINEMAX LATINO HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855735&extension=ts&play_token=TwL7PoF5mh
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ MGM+ HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855731&extension=ts&play_token=7XGoai0WHp
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ MGM+ HITS HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855733&extension=ts&play_token=cEQCLbgFKH
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ MGM+ DRIVE-IN HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855734&extension=ts&play_token=6ELX9gv7td
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ MGM+ MARQUEE HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855732&extension=ts&play_token=BuxQs84uam
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ SCREEN PIX HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855728&extension=ts&play_token=V9evq1XyRg
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ SCREEN PIX ACTION HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855727&extension=ts&play_token=KSyYgopKD0
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ SCREEN PIX VOICES HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855726&extension=ts&play_token=vakCreRxFB
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ SCREEN PIX WESTERNS HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855725&extension=ts&play_token=3fnYfdKzuv
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ SONY MOVIE CHANNEL HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855724&extension=ts&play_token=ddB08TneA6
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ AMC THRILLERS HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855722&extension=ts&play_token=3BX6FwhbUi
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ SUNDANCE HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855723&extension=ts&play_token=mfTqnnuujX
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ MY TIME MOVIE NETWORK HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855730&extension=ts&play_token=7cz9pzzecX
+#EXTINF:-1 group-title="cdnteam-tv1",┃USA┃ PIXL HD
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1A:79:BF:DA:13&stream=855729&extension=ts&play_token=nXr0StVNxR
+
+
 #EXTINF:-1 group-title="trevonix",##### US - PREMIUM #####
 http://trevonix.cc/live/0C4C92354FA7954/lhfTdg0csG/69537.ts
 #EXTINF:-1 group-title="trevonix",US - HBO EAST HD ◉
