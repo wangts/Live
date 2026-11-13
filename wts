@@ -1,5 +1,235 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="proxpanel",USA Cinemax East
+http://proxpanel.live:80/33977967/17990408/810
+#EXTINF:-1 group-title="proxpanel",USA Cinemax West
+http://proxpanel.live:80/33977967/17990408/809
+#EXTINF:-1 group-title="proxpanel",USA Cinemax Classics (5 StarMax)
+http://proxpanel.live:80/33977967/17990408/813
+#EXTINF:-1 group-title="proxpanel",USA Cinemax Action
+http://proxpanel.live:80/33977967/17990408/812
+#EXTINF:-1 group-title="proxpanel",USA Cinemax Action West
+http://proxpanel.live:80/33977967/17990408/807
+#EXTINF:-1 group-title="proxpanel",USA Cinemax Hits
+http://proxpanel.live:80/33977967/17990408/804
+#EXTINF:-1 group-title="proxpanel",USA Cinemax Hits West
+http://proxpanel.live:80/33977967/17990408/285760
+#EXTINF:-1 group-title="proxpanel",USA Cinemax Latino
+http://proxpanel.live:80/33977967/17990408/808
+#EXTINF:-1 group-title="proxpanel",USA HBO East
+http://proxpanel.live:80/33977967/17990408/792
+#EXTINF:-1 group-title="proxpanel",USA HBO West
+http://proxpanel.live:80/33977967/17990408/787
+#EXTINF:-1 group-title="proxpanel",USA HBO Comedy
+http://proxpanel.live:80/33977967/17990408/791
+#EXTINF:-1 group-title="proxpanel",USA HBO Comedy West
+http://proxpanel.live:80/33977967/17990408/740
+#EXTINF:-1 group-title="proxpanel",USA HBO Drama East
+http://proxpanel.live:80/33977967/17990408/789
+#EXTINF:-1 group-title="proxpanel",USA HBO Drama West
+http://proxpanel.live:80/33977967/17990408/742
+#EXTINF:-1 group-title="proxpanel",USA HBO Movies East
+http://proxpanel.live:80/33977967/17990408/788
+#EXTINF:-1 group-title="proxpanel",USA HBO Movies West
+http://proxpanel.live:80/33977967/17990408/738
+#EXTINF:-1 group-title="proxpanel",USA HBO Hits East
+http://proxpanel.live:80/33977967/17990408/786
+#EXTINF:-1 group-title="proxpanel",USA HBO Hits West
+http://proxpanel.live:80/33977967/17990408/739
+#EXTINF:-1 group-title="proxpanel",USA HBO Latino East
+http://proxpanel.live:80/33977967/17990408/741
+#EXTINF:-1 group-title="proxpanel",USA HBO Latino West
+http://proxpanel.live:80/33977967/17990408/290172
+#EXTINF:-1 group-title="proxpanel",USA FX East
+http://proxpanel.live:80/33977967/17990408/798
+#EXTINF:-1 group-title="proxpanel",USA FXM
+http://proxpanel.live:80/33977967/17990408/796
+#EXTINF:-1 group-title="proxpanel",USA FXX
+http://proxpanel.live:80/33977967/17990408/795
+#EXTINF:-1 group-title="proxpanel",USA FXX West
+http://proxpanel.live:80/33977967/17990408/794
+#EXTINF:-1 group-title="proxpanel",USA HDNET MOVIES
+http://proxpanel.live:80/33977967/17990408/785
+#EXTINF:-1 group-title="proxpanel",USA MGM+ Drive-In UHD
+http://proxpanel.live:80/33977967/17990408/801
+#EXTINF:-1 group-title="proxpanel",USA MGM+ HITS
+http://proxpanel.live:80/33977967/17990408/800
+#EXTINF:-1 group-title="proxpanel",USA MGM+ MARQUEE
+http://proxpanel.live:80/33977967/17990408/802
+#EXTINF:-1 group-title="proxpanel",USA MGM+ East UHD
+http://proxpanel.live:80/33977967/17990408/799
+#EXTINF:-1 group-title="proxpanel",USA MyTime Movie Network
+http://proxpanel.live:80/33977967/17990408/746
+#EXTINF:-1 group-title="proxpanel",USA PIXL
+http://proxpanel.live:80/33977967/17990408/781
+#EXTINF:-1 group-title="proxpanel",USA ScreenPix
+http://proxpanel.live:80/33977967/17990408/747
+#EXTINF:-1 group-title="proxpanel",USA ScreenPix Action
+http://proxpanel.live:80/33977967/17990408/748
+#EXTINF:-1 group-title="proxpanel",USA ScreenPix Voices
+http://proxpanel.live:80/33977967/17990408/749
+#EXTINF:-1 group-title="proxpanel",USA ScreenPix Westerns
+http://proxpanel.live:80/33977967/17990408/750
+#EXTINF:-1 group-title="proxpanel",USA Showtime 2
+http://proxpanel.live:80/33977967/17990408/779
+#EXTINF:-1 group-title="proxpanel",USA Showtime 2 West
+http://proxpanel.live:80/33977967/17990408/727
+#EXTINF:-1 group-title="proxpanel",USA Showtime Extreme
+http://proxpanel.live:80/33977967/17990408/778
+#EXTINF:-1 group-title="proxpanel",USA Showtime Extreme West
+http://proxpanel.live:80/33977967/17990408/774
+#EXTINF:-1 group-title="proxpanel",USA Showtime Family Zone
+http://proxpanel.live:80/33977967/17990408/777
+#EXTINF:-1 group-title="proxpanel",USA Showtime Family Zone West
+http://proxpanel.live:80/33977967/17990408/726
+#EXTINF:-1 group-title="proxpanel",USA SHOWTIME NEXT
+http://proxpanel.live:80/33977967/17990408/776
+#EXTINF:-1 group-title="proxpanel",USA Showtime Showcase UHD
+http://proxpanel.live:80/33977967/17990408/775
+#EXTINF:-1 group-title="proxpanel",USA | Showtime Showcase East
+http://proxpanel.live:80/33977967/17990408/636599
+#EXTINF:-1 group-title="proxpanel",USA Showtime Showcase West
+http://proxpanel.live:80/33977967/17990408/728
+#EXTINF:-1 group-title="proxpanel",USA Showtime Women
+http://proxpanel.live:80/33977967/17990408/773
+#EXTINF:-1 group-title="proxpanel",USA Showtime Women West
+http://proxpanel.live:80/33977967/17990408/731
+#EXTINF:-1 group-title="proxpanel",USA SHOxBET
+http://proxpanel.live:80/33977967/17990408/772
+#EXTINF:-1 group-title="proxpanel",USA SHOxBET West
+http://proxpanel.live:80/33977967/17990408/730
+#EXTINF:-1 group-title="proxpanel",USA Sony Movie Channel
+http://proxpanel.live:80/33977967/17990408/771
+#EXTINF:-1 group-title="proxpanel",USA Starz Cinema
+http://proxpanel.live:80/33977967/17990408/770
+#EXTINF:-1 group-title="proxpanel",USA Starz Cinema West
+http://proxpanel.live:80/33977967/17990408/737
+#EXTINF:-1 group-title="proxpanel",USA Starz Comedy
+http://proxpanel.live:80/33977967/17990408/769
+#EXTINF:-1 group-title="proxpanel",USA Starz Comedy West
+http://proxpanel.live:80/33977967/17990408/733
+#EXTINF:-1 group-title="proxpanel",USA Starz Edge East
+http://proxpanel.live:80/33977967/17990408/763
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Action
+http://proxpanel.live:80/33977967/17990408/767
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Black
+http://proxpanel.live:80/33977967/17990408/766
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Classic
+http://proxpanel.live:80/33977967/17990408/765
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Classic West
+http://proxpanel.live:80/33977967/17990408/295812
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore East
+http://proxpanel.live:80/33977967/17990408/764
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Español
+http://proxpanel.live:80/33977967/17990408/762
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Family
+http://proxpanel.live:80/33977967/17990408/761
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Suspense
+http://proxpanel.live:80/33977967/17990408/760
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore West
+http://proxpanel.live:80/33977967/17990408/759
+#EXTINF:-1 group-title="proxpanel",USA Starz Encore Westerns
+http://proxpanel.live:80/33977967/17990408/758
+#EXTINF:-1 group-title="proxpanel",USA Starz in Black East
+http://proxpanel.live:80/33977967/17990408/757
+#EXTINF:-1 group-title="proxpanel",USA Starz Kids & Family
+http://proxpanel.live:80/33977967/17990408/756
+#EXTINF:-1 group-title="proxpanel",USA Starz East
+http://proxpanel.live:80/33977967/17990408/755
+#EXTINF:-1 group-title="proxpanel",USA Sundance
+http://proxpanel.live:80/33977967/17990408/754
+#EXTINF:-1 group-title="proxpanel",USA TCM
+http://proxpanel.live:80/33977967/17990408/753
+#EXTINF:-1 group-title="proxpanel",USA AMC Thrillers
+http://proxpanel.live:80/33977967/17990408/743
+#EXTINF:-1 group-title="proxpanel",USA The Movie Channel Extra
+http://proxpanel.live:80/33977967/17990408/752
+#EXTINF:-1 group-title="proxpanel",USA The Movie Channel Extra West
+http://proxpanel.live:80/33977967/17990408/744
+#EXTINF:-1 group-title="proxpanel",USA The Movie Channel
+http://proxpanel.live:80/33977967/17990408/751
+#EXTINF:-1 group-title="proxpanel",USA The Movie Channel West
+http://proxpanel.live:80/33977967/17990408/745
+#EXTINF:-1 group-title="proxpanel",USA Flix East
+http://proxpanel.live:80/33977967/17990408/295792
+#EXTINF:-1 group-title="proxpanel",USA Flix West
+http://proxpanel.live:80/33977967/17990408/295772
+#EXTINF:-1 group-title="proxpanel",USA | Anger Management
+http://proxpanel.live:80/33977967/17990408/636635
+#EXTINF:-1 group-title="proxpanel",USA Great American RomComs
+http://proxpanel.live:80/33977967/17990408/808440
+#EXTINF:-1 group-title="proxpanel",USA Holiday Movie Favourites
+http://proxpanel.live:80/33977967/17990408/808439
+#EXTINF:-1 group-title="proxpanel",USA Movie Favourites by Lifetime
+http://proxpanel.live:80/33977967/17990408/808438
+#EXTINF:-1 group-title="proxpanel",USA MovieSphere Gold
+http://proxpanel.live:80/33977967/17990408/808436
+#EXTINF:-1 group-title="proxpanel",USA Paramount+ with Showtime East
+http://proxpanel.live:80/33977967/17990408/835881
+#EXTINF:-1 group-title="proxpanel",USA Paramount+ with Showtime West
+http://proxpanel.live:80/33977967/17990408/835880
+#EXTINF:-1 group-title="proxpanel",USA Sony Movies
+http://proxpanel.live:80/33977967/17990408/835879
+#EXTINF:-1 group-title="proxpanel",USA At the Movies
+http://proxpanel.live:80/33977967/17990408/835878
+#EXTINF:-1 group-title="proxpanel",USA FilmRise Western
+http://proxpanel.live:80/33977967/17990408/835877
+#EXTINF:-1 group-title="proxpanel",USA Wanted: Dead or Alive
+http://proxpanel.live:80/33977967/17990408/835876
+#EXTINF:-1 group-title="proxpanel",USA Outlaw
+http://proxpanel.live:80/33977967/17990408/835875
+#EXTINF:-1 group-title="proxpanel",USA The Life and Legend of Wyatt Earp
+http://proxpanel.live:80/33977967/17990408/835874
+#EXTINF:-1 group-title="proxpanel",USA Western Boun
+http://proxpanel.live:80/33977967/17990408/835873
+#EXTINF:-1 group-title="proxpanel",USA Grjngo vs Western Movies
+http://proxpanel.live:80/33977967/17990408/835872
+#EXTINF:-1 group-title="proxpanel",USA Death Valley Days
+http://proxpanel.live:80/33977967/17990408/835871
+#EXTINF:-1 group-title="proxpanel",USA The Rifleman
+http://proxpanel.live:80/33977967/17990408/835870
+#EXTINF:-1 group-title="proxpanel",USA The Real McCoys
+http://proxpanel.live:80/33977967/17990408/835869
+#EXTINF:-1 group-title="proxpanel",USA Westerns Plus
+http://proxpanel.live:80/33977967/17990408/835868
+#EXTINF:-1 group-title="proxpanel",USA WILD WEST TV
+http://proxpanel.live:80/33977967/17990408/835867
+#EXTINF:-1 group-title="proxpanel",USA CINEVAULT Westerns
+http://proxpanel.live:80/33977967/17990408/835866
+#EXTINF:-1 group-title="proxpanel",USA Surf Cinema
+http://proxpanel.live:80/33977967/17990408/808437
+#EXTINF:-1 group-title="proxpanel",USA Family Movie Classics
+http://proxpanel.live:80/33977967/17990408/808435
+#EXTINF:-1 group-title="proxpanel",USA Dove Family Movies
+http://proxpanel.live:80/33977967/17990408/808434
+#EXTINF:-1 group-title="proxpanel",USA MOVIES!
+http://proxpanel.live:80/33977967/17990408/808433
+#EXTINF:-1 group-title="proxpanel",USA Miramax Channel
+http://proxpanel.live:80/33977967/17990408/808432
+#EXTINF:-1 group-title="proxpanel",USA Hallmark Movies & More
+http://proxpanel.live:80/33977967/17990408/808431
+#EXTINF:-1 group-title="proxpanel",USA Movie Hub West
+http://proxpanel.live:80/33977967/17990408/808429
+#EXTINF:-1 group-title="proxpanel",USA  Movie Hub Action West
+http://proxpanel.live:80/33977967/17990408/808427
+#EXTINF:-1 group-title="proxpanel",USA Stories by AMC
+http://proxpanel.live:80/33977967/17990408/808425
+#EXTINF:-1 group-title="proxpanel",USA | Are We There Yet
+http://proxpanel.live:80/33977967/17990408/636634
+#EXTINF:-1 group-title="proxpanel",USA | Comedy Dynamics
+http://proxpanel.live:80/33977967/17990408/636629
+#EXTINF:-1 group-title="proxpanel",USA | MovieSphere
+http://proxpanel.live:80/33977967/17990408/636611
+#EXTINF:-1 group-title="proxpanel",USA | UPTV
+http://proxpanel.live:80/33977967/17990408/636594
+#EXTINF:-1 group-title="proxpanel",USA IndiePlex
+http://proxpanel.live:80/33977967/17990408/637151
+#EXTINF:-1 group-title="proxpanel",USA Movieplex HD
+http://proxpanel.live:80/33977967/17990408/637150
+#EXTINF:-1 group-title="proxpanel",USA Pure Flix TV
+http://proxpanel.live:80/33977967/17990408/643034
+
+
 #EXTINF:-1 group-title="705663088363",US Big Brother 2024 Quad View (FHD)
 http://705663088363.elg-26.com/live/70:09:71:b5:b7:81/a8mdbect6m/1124122.ts
 #EXTINF:-1 group-title="705663088363",|US| GRIT TV HD
