@@ -1,5 +1,73 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 5 2025
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419270.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 8
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419275.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 9
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419277.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 7
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419274.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 10 2025
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419278.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 11
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419279.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 31
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419266.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 12
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419280.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 4 2025
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419267.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 13
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419281.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 31
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419265.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 14
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419282.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 15
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419283.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 16
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419285.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 27
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419268.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 28
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419269.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 17
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419286.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 18
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419287.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 19
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419288.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 20
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419289.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 6
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419271.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 29
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419272.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 30
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419273.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 21
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419290.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 22
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419291.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 32
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/327908.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 24
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419293.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 1 2025
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/327909.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 23
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419292.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 2 2025
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/327910.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 25
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419294.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 3 2025
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/327911.ts
+#EXTINF:-1 group-title="ghosttv",24/7 | MOVIES 26
+http://stream.ghosttv.co/live/p4281zae04/vmh03223t3/419295.ts
+
+
 #EXTINF:-1 group-title="proxpanel",USA Cinemax East
 http://proxpanel.live:80/33977967/17990408/810
 #EXTINF:-1 group-title="proxpanel",USA Cinemax West
