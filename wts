@@ -1,5 +1,81 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="etvhosts",USA: CINEMAX ACTION
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/27039.ts
+#EXTINF:-1 group-title="etvhosts",USA: CINEMAX CLASSICS
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41312.ts
+#EXTINF:-1 group-title="etvhosts",USA: CINEMAX EAST
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/18439.ts
+#EXTINF:-1 group-title="etvhosts",USA: CINEMAX HITS
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/16492.ts
+#EXTINF:-1 group-title="etvhosts",USA: HBO COMEDY HD
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/16486.ts
+#EXTINF:-1 group-title="etvhosts",USA: HBO DRAMA
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/16485.ts
+#EXTINF:-1 group-title="etvhosts",USA: HBO HD
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/18429.ts
+#EXTINF:-1 group-title="etvhosts",USA: HBO HITS
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/35525.ts
+#EXTINF:-1 group-title="etvhosts",USA: HBO MOVIES
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/18428.ts
+#EXTINF:-1 group-title="etvhosts",USA: MGM+ Drive In
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41948.ts
+#EXTINF:-1 group-title="etvhosts",USA: MGM+ HD
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/19569.ts
+#EXTINF:-1 group-title="etvhosts",USA: MGM+ Hits
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/20972.ts
+#EXTINF:-1 group-title="etvhosts",USA: MGM+ Marquee
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/37560.ts
+#EXTINF:-1 group-title="etvhosts",USA: MOVIEPLEX
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/50258.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME 2
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/40584.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME EXTREME
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/16482.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME FAMILY ZONE
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41956.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME HD
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/14127.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME NEXT
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41935.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME SHOWCASE
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/40292.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOWTIME WOMEN
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41957.ts
+#EXTINF:-1 group-title="etvhosts",USA: SHOxBET
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41936.ts
+#EXTINF:-1 group-title="etvhosts",USA: SONY MOVIE CHANNEL
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41300.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/16481.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ CINEMA
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41958.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ COMEDY
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/25489.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ EDGE
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/39907.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/36272.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE ACTION
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41309.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE BLACK
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41949.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE CLASSIC
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41310.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE FAMILY
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41950.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE SUSPENSE
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41311.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ ENCORE WESTERNS
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/35530.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ IN BLACK
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/40832.ts
+#EXTINF:-1 group-title="etvhosts",USA: STARZ KIDS & FAMILY
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/25255.ts
+#EXTINF:-1 group-title="etvhosts",USA: THE MOVIE CHANNEL
+http://etvhosts.site:55337/live/1wBEGk7Bp/erY42E8q9f/41937.ts
+
+
 #EXTINF:-1 group-title="fireplayusa",CA : BBC WORLD NEWS
 http://hostengine.live/live/tom/ball/53608.ts
 #EXTINF:-1 group-title="fireplayusa",CA : BNN BLOOMBERG
