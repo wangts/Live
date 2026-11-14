@@ -1,5 +1,183 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="fireplayusa",CA : BBC WORLD NEWS
+http://hostengine.live/live/tom/ball/53608.ts
+#EXTINF:-1 group-title="fireplayusa",CA : BNN BLOOMBERG
+http://hostengine.live/live/tom/ball/53611.ts
+#EXTINF:-1 group-title="fireplayusa",CA : BUSINESS BLOOMBERG HD
+http://hostengine.live/live/tom/ball/53613.ts
+#EXTINF:-1 group-title="fireplayusa",CA : CBC NEWS NETWORK
+http://hostengine.live/live/tom/ball/53624.ts
+#EXTINF:-1 group-title="fireplayusa",CA : CNBC CANADA
+http://hostengine.live/live/tom/ball/53636.ts
+#EXTINF:-1 group-title="fireplayusa",CA : CNN
+http://hostengine.live/live/tom/ball/53637.ts
+#EXTINF:-1 group-title="fireplayusa",CA : CTV NEWS CHANNEL
+http://hostengine.live/live/tom/ball/53658.ts
+#EXTINF:-1 group-title="fireplayusa",CA : FOX NEWS
+http://hostengine.live/live/tom/ball/53687.ts
+#EXTINF:-1 group-title="fireplayusa",GB : AL JAZEERA ENG
+http://hostengine.live/live/tom/ball/53834.ts
+#EXTINF:-1 group-title="fireplayusa",GB : BBC NEWS HD
+http://hostengine.live/live/tom/ball/53840.ts
+#EXTINF:-1 group-title="fireplayusa",GB : CNN
+http://hostengine.live/live/tom/ball/185233.ts
+#EXTINF:-1 group-title="fireplayusa",GB : GB NEWS
+http://hostengine.live/live/tom/ball/122840.ts
+#EXTINF:-1 group-title="fireplayusa",GB : RTE NEWS
+http://hostengine.live/live/tom/ball/53950.ts
+#EXTINF:-1 group-title="fireplayusa",GB : SKY NEWS
+http://hostengine.live/live/tom/ball/53974.ts
+#EXTINF:-1 group-title="fireplayusa",US : BAY NEWS 9 TAMPA
+http://hostengine.live/live/tom/ball/325691.ts
+#EXTINF:-1 group-title="fireplayusa",US : BBC WORLD NEWS
+http://hostengine.live/live/tom/ball/184402.ts
+#EXTINF:-1 group-title="fireplayusa",US : BLOOMBERG TV
+http://hostengine.live/live/tom/ball/56584.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS 247
+http://hostengine.live/live/tom/ball/54167.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS BAY AREA
+http://hostengine.live/live/tom/ball/54160.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS BOSTON
+http://hostengine.live/live/tom/ball/54161.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS CHICAGO
+http://hostengine.live/live/tom/ball/54162.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS COLORADO
+http://hostengine.live/live/tom/ball/54164.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS LOS ANGELES
+http://hostengine.live/live/tom/ball/54165.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS MINNESOTA
+http://hostengine.live/live/tom/ball/54166.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS NEW YORK
+http://hostengine.live/live/tom/ball/54168.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS PHILADELPHIA
+http://hostengine.live/live/tom/ball/54169.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS PHILADELPHIA
+http://hostengine.live/live/tom/ball/54170.ts
+#EXTINF:-1 group-title="fireplayusa",US : CBS NEWS TEXAS
+http://hostengine.live/live/tom/ball/54163.ts
+#EXTINF:-1 group-title="fireplayusa",US : CHEDDAR NEWS
+http://hostengine.live/live/tom/ball/56585.ts
+#EXTINF:-1 group-title="fireplayusa",US : CNBC
+http://hostengine.live/live/tom/ball/56586.ts
+#EXTINF:-1 group-title="fireplayusa",US : CNBC WORLD
+http://hostengine.live/live/tom/ball/56587.ts
+#EXTINF:-1 group-title="fireplayusa",US : CNN
+http://hostengine.live/live/tom/ball/56588.ts
+#EXTINF:-1 group-title="fireplayusa",US : CNN INTERNATIONAL
+http://hostengine.live/live/tom/ball/337600.ts
+#EXTINF:-1 group-title="fireplayusa",US : CSPAN 1
+http://hostengine.live/live/tom/ball/56589.ts
+#EXTINF:-1 group-title="fireplayusa",US : CSPAN 2
+http://hostengine.live/live/tom/ball/56590.ts
+#EXTINF:-1 group-title="fireplayusa",US : FOX BUSINESS
+http://hostengine.live/live/tom/ball/56592.ts
+#EXTINF:-1 group-title="fireplayusa",US : FOX NEWS CHANNEL
+http://hostengine.live/live/tom/ball/56593.ts
+#EXTINF:-1 group-title="fireplayusa",US : FOX NEWS LIVE NOW
+http://hostengine.live/live/tom/ball/309456.ts
+#EXTINF:-1 group-title="fireplayusa",US : FRANCE 24 ENGLISH
+http://hostengine.live/live/tom/ball/295121.ts
+#EXTINF:-1 group-title="fireplayusa",US : MS NOW
+http://hostengine.live/live/tom/ball/56595.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 (CAROLINAS) - CHARLOTTE
+http://hostengine.live/live/tom/ball/325685.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 (CAROLINAS) - COASTAL
+http://hostengine.live/live/tom/ball/325684.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 (CAROLINAS) - GREENSBORO
+http://hostengine.live/live/tom/ball/325683.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 (CAROLINAS) - MOUNTAIN
+http://hostengine.live/live/tom/ball/325682.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 (CAROLINAS) - RALEIGH
+http://hostengine.live/live/tom/ball/325681.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (KENTUCKY) - COVINGTON
+http://hostengine.live/live/tom/ball/325690.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (KENTUCKY) - EVANSVILLE
+http://hostengine.live/live/tom/ball/325671.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (KENTUCKY) LEXINGTON
+http://hostengine.live/live/tom/ball/325670.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (KENTUCKY) LOUISVILLE
+http://hostengine.live/live/tom/ball/325669.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (MA) PITTSFIELD
+http://hostengine.live/live/tom/ball/325667.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (MA) SPRINGFIELD
+http://hostengine.live/live/tom/ball/325666.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (MA) WORCESTER
+http://hostengine.live/live/tom/ball/325665.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - (NEW YORK) ROCHESTER
+http://hostengine.live/live/tom/ball/325663.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - ALBANY CAPITAL REGION
+http://hostengine.live/live/tom/ball/325688.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - AUSTIN
+http://hostengine.live/live/tom/ball/325687.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - BUFFALO
+http://hostengine.live/live/tom/ball/325686.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - CENTRAL NY
+http://hostengine.live/live/tom/ball/325680.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - CINCINNATI
+http://hostengine.live/live/tom/ball/325679.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - CLEVELAND/AKRON
+http://hostengine.live/live/tom/ball/325678.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - COLUMBUS
+http://hostengine.live/live/tom/ball/325677.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - DALLAS -FT WORTH
+http://hostengine.live/live/tom/ball/325676.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - DAYTON
+http://hostengine.live/live/tom/ball/325675.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - EL PASO TEXAS
+http://hostengine.live/live/tom/ball/325674.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - GREEN BAY/APPLETON
+http://hostengine.live/live/tom/ball/325673.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - HUDSON VALLEY
+http://hostengine.live/live/tom/ball/325672.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - MADISON
+http://hostengine.live/live/tom/ball/325668.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - MILWAUKEE
+http://hostengine.live/live/tom/ball/325664.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - NEW YORK (NYC)
+http://hostengine.live/live/tom/ball/308665.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - SAN ANTONIO
+http://hostengine.live/live/tom/ball/325662.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - SOUTHERN CALIFORNIA
+http://hostengine.live/live/tom/ball/325689.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - ST LOUIS
+http://hostengine.live/live/tom/ball/325661.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 1 - TOLEDO/LIMA
+http://hostengine.live/live/tom/ball/325660.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS 13 CENTRAL FLORIDA
+http://hostengine.live/live/tom/ball/281800.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 BROOKLYN
+http://hostengine.live/live/tom/ball/56596.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 CONNECTICUT
+http://hostengine.live/live/tom/ball/56597.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 HUDSON VALLEY
+http://hostengine.live/live/tom/ball/56598.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 LONG ISLAND
+http://hostengine.live/live/tom/ball/56599.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 NEW JERSEY
+http://hostengine.live/live/tom/ball/56600.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 THE BRONX
+http://hostengine.live/live/tom/ball/56601.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWS12 WESTCHESTER
+http://hostengine.live/live/tom/ball/56602.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWSMAX TV
+http://hostengine.live/live/tom/ball/56603.ts
+#EXTINF:-1 group-title="fireplayusa",US : NEWSNATION
+http://hostengine.live/live/tom/ball/225548.ts
+#EXTINF:-1 group-title="fireplayusa",US : ONE AMERICA NEWS ENCORE
+http://hostengine.live/live/tom/ball/56606.ts
+#EXTINF:-1 group-title="fireplayusa",US : ONE AMERICA NEWS NETWORK
+http://hostengine.live/live/tom/ball/56607.ts
+#EXTINF:-1 group-title="fireplayusa",US : RT NEWS ENGLISH
+http://hostengine.live/live/tom/ball/308896.ts
+#EXTINF:-1 group-title="fireplayusa",US : SCRIPPS NEWS
+http://hostengine.live/live/tom/ball/56605.ts
+#EXTINF:-1 group-title="fireplayusa",US : WGN
+http://hostengine.live/live/tom/ball/56610.ts
+#EXTINF:-1 group-title="fireplayusa",US : WPLG MIAMI (LOCAL NEWS)
+http://hostengine.live/live/tom/ball/343221.ts
+
+
 #EXTINF:-1 group-title="skyisyours",USA | FOX MOVIES 1 ᴴᴰ
 http://skyisyours.live:8080/live/zkZH422BMx/equatorial6concern/74283.ts
 #EXTINF:-1 group-title="skyisyours",US |  HBO EAST
