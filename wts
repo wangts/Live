@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="lordstreams",USA Fox News
+http://lordstreams.live:80/melt/melt/1038
+#EXTINF:-1 group-title="lordstreams",USA MS NOW (MSNBC)
+http://lordstreams.live:80/melt/melt/1034
+#EXTINF:-1 group-title="lordstreams",USA ABC News Live
+http://lordstreams.live:80/melt/melt/1067
+#EXTINF:-1 group-title="lordstreams",USA MS NOW
+http://lordstreams.live:80/melt/melt/835884
+#EXTINF:-1 group-title="lordstreams",USA NBC News NOW
+http://lordstreams.live:80/melt/melt/992
+#EXTINF:-1 group-title="lordstreams",USA Bloomberg
+http://lordstreams.live:80/melt/melt/1062
+#EXTINF:-1 group-title="lordstreams",USA CBS News 24/7
+http://lordstreams.live:80/melt/melt/1057
+#EXTINF:-1 group-title="lordstreams",USA | Yahoo Finance
+http://lordstreams.live:80/melt/melt/636592
+
+
 #EXTINF:-1 group-title="hardcoremedia",CINEMAX CLASSICS
 http://hardcoremedia.xyz:80/ojvpwtpq/1688213536/130017
 #EXTINF:-1 group-title="hardcoremedia",ACTIONMAX
